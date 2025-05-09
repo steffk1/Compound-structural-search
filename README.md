@@ -9,3 +9,5 @@ Fundamentally, the concept is to make use of existing BGC-SM links gathered from
 
 Besides the utility for natural product chemists, this is also a useful tool for biologist to orthogonally validate BGC predictions with the corresponding metabolomic data.
 The method as documented subsequently is fast (at the scale performed in the publication) and relies only on open source, well maintained python libraries, which we hope makes this a long-lasting and adaptable method looking forward.
+
+The file structure_similarity_search_tutorial.ipynb is a Jupyter notebook to guide you through the analysis for one or several compounds. It requires the strucutre database files (MIBiGv...tsv and experimentally_identified_metabolites.tsv).
