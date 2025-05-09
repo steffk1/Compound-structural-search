@@ -1,0 +1,75 @@
+CC(C)[C@@H](C)/C=C/[C@@H](C)[C@@]1([H])CCC2=C3C=CC4=C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@@]21C	chem_(3β,22E)-Ergosta-4,6,8(14),22-tetraene-3-ol
+C/C(C)=C\CO[C@H]1C2=C(N(C3=C2C=CC(OC)=C3)C/C=C(C)\C)[C@H](/C=C(C)\C)N4[C@]1(O)C(N5CCC[C@H]5C4=O)=O	chem_13-O-prenylfumitremorgin B
+C/C(C)=C/CCC1=C2[C@](OC1=O)([H])C[C@]3(C)C4C([C@@H](OC(C)=O)[C@@]5([H])[C@H](C)C(C=C[C@]5(C)[C@]4([H])CCC32)=O)=O	chem_16-O-deacetyl helvolic acid 21,16-lactone
+O=C(C1=CC=CC=C1N2)N3[C@@](C[C@@]4(C(C=C)(C)C)[C@]3([H])NC5=C4C=CC(O)=C5)([H])C2=O	chem_4-Hydroxyaszonalenin
+OC1=CC=C(C2=C3C(C(C4=C(O)CC(C)C(O)C4(C(OC)=O)O3)=O)=C(O)C=C2)C(OC5(C(OC)=O)C6=C(O)CC(C)C5O)=C1C6=O	chem_4,4'-Secalonic acid E
+CC(=O)N1[C@H]2[C@](C[C@H]3N2C(=O)C4=CC=CC=C4NC3=O)(C5=CC=CC=C51)C(C)(C)C=C	chem_Acetylaszonalenin
+CC(C)(C=C)[C@]12C[C@@H]3C(=O)NC4=CC=CC=C4C(=O)N3[C@H]1NC5=CC=CC=C25	chem_Aszonalenin
+CC1(C)[C@@H](OC(C)=O)CC[C@@]2(C)C1CC[C@]([C@]3([H])CC4=C(O)C=C(C)OC4=O)(C)C2CCC3=C	chem_Azonapyrone A
+CC[C@@H](C)[C@@H]1[C@]([C@H]2[C@@H](C[C@@](C[C@@H]2C(=O)[C@@]1(C)O)(C)O)C)(C)C(=O)C	chem_Betaenone E
+C[C@H]1[C@@]2([H])[C@@]([C@H](O)[C@@H](C)C1)([H])C=C(CO)C([C@H](C)CC)[C@]2(C)C(CCO)=O	chem_Betaenone G
+C[C@H]1[C@@]2([H])[C@@](C[C@@H](C)C1)([H])C=C(CO)C([C@H](C)CC)[C@]2(C)C(CCO)=O	chem_Betaenone H
+C[C@H]1[C@@]2([H])[C@@](C[C@](C)(O)C1)([H])C=C(CO)C([C@H](C)CC)[C@]2(C)C(CCO)=O	chem_Betaenone I
+C[C@H]1[C@@]2([H])[C@@](C[C@@H](C)C1)([H])C=C(CO)C([C@H](C)CCO)[C@]2(C)C(CCO)=O	chem_Betaenone J
+CN1C(=O)[C@@]2(CC3=CC=C[C@@H]([C@H]3N2C(=O)[C@@]1(CO)SC)O)SC	chem_Bisdethiobis(methylthio)gliotoxin
+CC1([C@@H]2C[C@@]34CCCN3C(=O)[C@]2(C[C@]15C(=O)C6=CC=CC=C6N5)NC4=O)C	chem_Brevianamide A
+CC1([C@@H]2C[C@@]34CCCN3C(=O)[C@]2(C[C@]15C(=O)C6=CC=CC=C6N5)NC4=O)C	chem_Brevianamide B
+CC(C)C1C[C@@]23CCCN2C(=O)[C@@]1(NC3=O)/C=C\4/C(=O)C5=CC=CC=C5N4	chem_Brevianamide C
+CC(C)[C@@H]1CC2(C(=O)N3C1(CCC3)C(=O)N2)/C=C/4\C(=O)C5=CC=CC=C5N4	chem_Brevianamide D
+CC(C)(C=C)[C@@]12[C@@](C[C@@H]3N1C(=O)[C@@H]4CCCN4C3=O)(C5=CC=CC=C5N2)O	chem_Brevianamide E
+C1C[C@H]2C(=O)N[C@H](C(=O)N2C1)CC3=CNC4=CC=CC=C43	chem_Brevianamide F 
+CC(C)(C=C)C1=C(C2=CC=CC=C2N1)/C=C\3/C(=O)N4CCC=C4C(=O)N3	chem_Brevianamide K
+CCC(C)C1=C2N=C3[C@@](C=CC=CO3)(C(=O)N2[C@H](C(=O)N1)CC4=CC=CC=C4)O	chem_Brevianamide L
+CCC(C)[C@@]1(C2=NC3=C(C=CC=CO3)C(=O)N2[C@H](C(=O)N1)CC4=CC=CC=C4)O	chem_Brevianamide O
+CCC(C)[C@@H]1C2=NC3=C(C=CC=CO3)C(=O)N2[C@H](C(=O)N1)CC4=CC=CC=C4	chem_Brevianamide P
+CC(C)(C=C)C1=C(C2=CC=CC=C2N1)/C=C\3/C(=O)N4CCCC4(C(=O)N3)O	chem_Brevianamide Q
+CC(C)(C=C)C1=C(C2=CC=CC=C2N1)/C=C\3/C(=O)N4CCCC4(C(=O)N3)OC	chem_Brevianamide R
+CC(C)(C=C)C1=C(C2=CC=CC=C2N1)/C=C\3/C(=O)N4C=CC=C4C(=O)N3	chem_Brevianamide T
+CC(C)(C=C)C1=C(C2=CC=CC=C2N1)/C=C\3/C(=O)N4CCC(C4(C(=O)N3)O)O	chem_Brevianamide U
+CC(C)(C=C)C1=C(C2=CC=CC=C2N1)/C=C\3/C(=O)N4CCC[C@H]4C(=O)N3	chem_Brevianamide V
+O=C1/C(NC(C2N1CCC2)=O)=C/C3=C(C(C)(C=C)C)NC4=C3C=CC=C4	chem_Brevianamide W
+CC[C@H]1[C@H]2[C@@H](NC(=O)[C@]23[C@@H](/C=C/C[C@@H](/C=C(/[C@H]([C@@H](/C=C/C3=O)O)O)\C)C)C=C1C)[C@H](C)C4=CNC5=CC=CC=C54	chem_Chaetoglobosin 542
+C[C@H]1C2=NC3=CC=CC=C3C(=O)N2C4=C(C=C(C=C4)O)C(=O)N1	chem_Circumdatin C
+C[C@H](CCC(C(C)(C)O)O)[C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(C[C@H](C(=O)C4(C)C)OC(=O)CC(C)(CC(=O)O)O)C)C)C	chem_Clavaric acid
+C[C@H]1C(=O)N2[C@@H]3N1[C@@H]4C5=NC6=CC=CC=C6C(=O)N5[C@@H](C[C@@]3(C7=CC=CC=C72)O)C(=O)N4	chem_Cottoquinazoline E
+C[C@H]1C(=O)N2[C@H](N1)[C@]3(C[C@H]4C(=O)N([C@H](O3)C5=NC6=CC=CC=C6C(=O)N45)C)C7=CC=CC=C72	chem_Cottoquinazoline F
+O=C1C2=CC=CC=C2N=C([C@H]3N4)N1[C@@H](C[C@@]5(C(C=CC=C6)=C6N7[C@]5([H])N[C@@H](C)C7=O)O3)C4=O	chem_Cottoquinazoline G
+CC(C)(C=C)C1=C(C2=CC=CC=C2N1)C[C@H]3C(=O)N4CCC[C@H]4C(=O)N3	chem_Deoxybrevianamide E
+O=C1C(C=C(O)C=C2)=C2N3C([C@H](C)N1)=NC4=C(C=C(OC)C(OC)=C4)C3=O	chem_Dimetoxycircumdatin C
+CC(=CC[C@@H]1[C@@](O1)(C)[C@H]2[C@@H]([C@@H](CC[C@]23CO3)O)OC)C	chem_Fumagillol
+CC(=CCO[C@H]1C2=C3[C@H](CC(OO[C@@H](N3C4=C2C=CC(=C4)OC)C=C(C)C)(C)C)N5[C@@]1(C(=O)N6CCC[C@H]6C5=O)O)C	chem_Fumitremorgin A
+CC(=CCN1C2=C(C=CC(=C2)OC)C3=C1[C@@H](N4C(=O)[C@@H]5CCCN5C(=O)[C@@]4([C@H]3O)O)C=C(C)C)C	chem_Fumitremorgin B
+CC(=C[C@H]1C2=C(C[C@@H]3N1C(=O)[C@@H]4CCCN4C3=O)C5=C(N2)C=C(C=C5)OC)C	chem_Fumitremorgin C
+C[C@H]1C(=O)N2[C@@H](N1)[C@]3(C[C@H](C(=O)O3)N4C=NC5=CC=CC=C5C4=O)C6=CC=CC=C62	chem_Fumitremorgin F
+CC1(C(=O)N2[C@@H](N1O)[C@]3(C[C@@H](C(=O)O3)N4C=NC5=CC=CC=C5C4=O)C6=CC=CC=C62)C	chem_Fumitremorgin G
+O=C1N2C3=CC=CC=C3[C@@]4([C@]2([H])N(O)C1(C)C)OC([C@@H](C4)N5C=NC6=C(C5=O)C=CC=C6)=O	chem_Fumitremorgin L
+CN1C(=O)[C@]23CC4=CC=C[C@@H]([C@H]4N2C(=O)[C@]1(SS3)CO)O	chem_Gliotoxin
+C[C@H]1[C@@H]2[C@@H](C(=O)[C@]3([C@H]([C@]2(C=CC1=O)C)CC[C@@H]\4[C@@]3(C[C@@H](/C4=C(/CCC=C(C)C)\C(=O)O)OC(=O)C)C)C)OC(=O)C	chem_Helvolic acid
+C=C(C)/C=C/C1=CC=CC2=C1NC=C2CC(N(O)C3=O)=C(N=C3C)OC	chem_hexadehydroastechrome monomer
+C[C@@H]1C=CC(=O)[C@@H]([C@@]1(C)/C=C/C(=C/CC2=C(C(=C(C(=C2O)Cl)C)C=O)O)/C)C	chem_Ilicicolin E
+CC(C)(C=C)C12CC3C(=O)N/C(=C/C4=CN=CN4)/C(=O)N3C1NC5=CC=CC=C25	chem_Isoroquefortine C 
+CC(=CCC1=C2C=C(C=C(C2=C(C3=C1C[C@]([C@@H](C3=O)OC(=O)C)(CC(=CC(=O)C)O)O)O)O)O)C	chem_Neosartoricin
+C/C(C)=C/CC1=C2C(C(O)=CC(O)=C2)=C(O)C3=C1C[C@](CC4=O)(OC(C)=C4)[C@H](O)C3=O	chem_Neosartoricin C
+OC1=CC2=C(C/C=C(C)/C)C3=C(C([C@](O[C@]4(C)CC(C5)=O)([H])[C@@]5(O4)C3)=O)C(O)=C2C(O)=C1	chem_Neosartoricin D
+C[C@H]1CC(=O)C2=C(C3=C(C=CC(=C3O[C@]2([C@H]1OC(=O)C)C(=O)OC)C4=C(C5=C(C=C4C)O[C@]6([C@H](CCC(=O)C6=C5O)O)C(=O)OC)O)O)O	chem_Neosartorin
+CC(C)[C@@H](C1=CC(OC)=CC(O1)=O)N2C=C(C(N)=O)C(C=C2CC3=CC=CC=C3)=O	chem_Nidiascin C
+CCC(=O)O[C@H]1CC[C@]2([C@H](C1(C)C)CC[C@@]3([C@@H]2CC4=C(O3)C=C(OC4=O)C5=CN=CC=C5)C)C	chem_Pyripyropene F
+CCC(=O)O[C@H]1CC[C@]2([C@H](C1(C)C)CC[C@@]3([C@@H]2[C@H](C4=C(O3)C=C(OC4=O)C5=CN=CC=C5)O)C)C	chem_Pyripyropene H
+CCC(=O)OC[C@@]1([C@H](CC[C@]2([C@H]1C[C@@H]([C@@]3([C@@H]2[C@H](C4=C(O3)C=C(OC4=O)C5=CN=CC=C5)O)C)OC(=O)CC)C)OC(=O)CC)C	chem_Pyripyropene I
+CC(=O)OC[C@]1([C@@H]2CC[C@@]3([C@@H]([C@]2(CC[C@@H]1OC(=O)C)C)CC4=C(O3)C=C(OC4=O)C5=CN=CC=C5)C)C	chem_Pyripyropene O
+CC(C)(C=C)[C@@]12C[C@H]3C(=O)N/C(=C/C4=CN=CN4)/C(=O)N3[C@@H]1NC5=CC=CC=C25	chem_Roquefortine C
+CC1=CC(=C(C(=O)O1)C/C=C(\C)/CC/C=C(\C)/CC[C@@H]2C(=C)CC[C@@H](C2(C)C)OC(=O)C)O	chem_Sartorypyrone A
+C[C@@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)O[C@@]6([C@H]([C@@H](CC(=O)C6=C5O)C)O)C(=O)OC)O)O[C@@]2([C@H]1O)C(=O)OC)O	chem_Secalonic acid A
+C[C@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)O[C@]6([C@H]([C@H](CC(=O)C6=C5O)C)O)C(=O)OC)O)O[C@]2([C@H]1O)C(=O)OC)O	chem_Secalonic acid B
+C[C@@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)O[C@]6([C@H]([C@H](CC(=O)C6=C5O)C)O)C(=O)OC)O)O[C@@]2([C@H]1O)C(=O)OC)O	chem_Secalonic acid C
+C[C@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)O[C@]6([C@@H]([C@H](CC(=O)C6=C5O)C)O)C(=O)OC)O)O[C@]2([C@@H]1O)C(=O)OC)O	chem_Secalonic acid D
+C[C@@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)O[C@@]6([C@@H]([C@@H](CC(=O)C6=C5O)C)O)C(=O)OC)O)O[C@@]2([C@@H]1O)C(=O)OC)O	chem_Secalonic acid E
+C[C@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)O[C@]6([C@H]([C@H](CC(=O)C6=C5O)C)O)C(=O)OC)O)O[C@]2([C@@H]1O)C(=O)OC)O	chem_Secalonic acid F
+C[C@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C5C(=C(C=C4)O)C(=C6C(=O)C[C@@H]([C@H]([C@@]6(O5)C(=O)OC)O)C)O)O[C@]2([C@H]1O)C(=O)OC)O	chem_Secalonic acid F1
+C[C@@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)O[C@@]6([C@H]([C@@H](CC(=O)C6=C5O)C)O)C(=O)OC)O)O[C@@]2([C@@H]1O)C(=O)OC)O	chem_Secalonic acid G
+O=C([C@@H]1CCCN12)N3[C@]([C@@H](O)[C@@]4(NC(C=C(OC)C=C5)=C5C4=O)[C@@H]3/C=C(C)\C)(O)C2=O	chem_spiro[5H,10H-dipyrrolo-[1,2-a:1′,2′-d]pyrazine-2-(3H),2′-[2H]-indole]-3′,5,10(1′H)trione
+O=C([C@@](CC1=CN(C/C=C(C)\C)C2=C1C=CC=C2)([H])NC/3=O)NC3=C\C4=CN=CN4	chem_Trihistatin
+CC(=CCC1=C(C2=CC=CC=C2N1)C[C@H]3C(=O)N4CCC[C@H]4C(=O)N3)C	chem_Tryprostatin B
+COC1=CC=C2C(NC(/C=C\C(C)=O)=C2C[C@@]3([H])C(N(CCC4)[C@]4([H])C(N3)=O)=O)=C1	chem_Tryprostatin C
+COC1=CC=C2C(NC(/C=C/C(C)=O)=C2C[C@@]3([H])C(N(CCC4)[C@]4([H])C(N3)=O)=O)=C1	chem_Tryprostatin D
+CC(=C[C@@H]1N2C3=C(C=CC(=C3)OC)C4=C2[C@H](CC(OO1)(C)C)N5C(=O)[C@@H]6CCCN6C(=O)[C@@]5([C@H]4O)O)C	chem_Verruculogen

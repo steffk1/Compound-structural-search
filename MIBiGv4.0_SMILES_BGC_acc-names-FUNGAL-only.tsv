@@ -1,0 +1,1092 @@
+CCC(C)C(C(=O)OC(/C=C/C=C/C=C/C(=O)O)C1(CO1)C)OC(=O)C(C(C)(C)O)O	BGC0000003_MIBiGv4.0_AF-toxin
+COC1=C2C3=C(C(=O)OCC3)C(=O)OC2=C4[C@H]5C=CO[C@H]5OC4=C1	BGC0000004_MIBiGv4.0_aflatoxin G1
+COC1=C2C3=C(C(=O)OCC3)C(=O)OC2=C4C5C=COC5OC4=C1	BGC0000005_MIBiGv4.0_aflatoxin
+COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)[C@@H]1C=CO[C@@H]1O2	BGC0000006_MIBiGv4.0_aflatoxin B1
+COc1cc2c(c3c1c4c(c(=O)o3)C(=O)CC4)[C@@H]5CCO[C@@H]5O2	BGC0000006_MIBiGv4.0_aflatoxin B2
+COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)[C@@H]1C=CO[C@@H]1O2	BGC0000007_MIBiGv4.0_aflatoxin B1
+COC1=C2C3=C(C(=O)OCC3)C(=O)OC2=C4[C@H]5C=CO[C@H]5OC4=C1	BGC0000007_MIBiGv4.0_aflatoxin G1
+COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)[C@@H]1C=CO[C@@H]1O2	BGC0000008_MIBiGv4.0_aflatoxin B1
+COc1cc2c(c3c1c4c(c(=O)o3)C(=O)CC4)[C@@H]5CCO[C@@H]5O2	BGC0000008_MIBiGv4.0_aflatoxin B2
+COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)[C@@H]1C=CO[C@@H]1O2	BGC0000009_MIBiGv4.0_aflatoxin B1
+COC1=C2C3=C(C(=O)OCC3)C(=O)OC2=C4[C@H]5C=CO[C@H]5OC4=C1	BGC0000009_MIBiGv4.0_aflatoxin G1
+COC1=C2C3=C(C(=O)OCC3)C(=O)OC2=C4C5C=COC5OC4=C1	BGC0000010_MIBiGv4.0_aflatoxin
+COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)[C@@H]1C=CO[C@@H]1O2	BGC0000011_MIBiGv4.0_Aflatoxin B1
+COc1cc2c(c3c1c4c(c(=O)o3)C(=O)CC4)[C@@H]5CCO[C@@H]5O2	BGC0000011_MIBiGv4.0_Aflatoxin B2
+COC1=C2C(=C3[C@@H]4C=CO[C@@H]4OC3=C1)OC5=C(C2=O)C(=CC=C5)O	BGC0000011_MIBiGv4.0_Sterigmatocystin
+CCC(C)/C=C(\C)/CCCC(C)/C=C(\C)/C=C(\C)/CC(C)C1=C(C(=C(C(=O)O1)C)O)C	BGC0000012_MIBiGv4.0_alternapyrone
+CC1=CC(=CC2=C1C3=CC(=CC(=C3C(=O)O2)O)O)O	BGC0000013_MIBiGv4.0_alternariol
+CCC(C)C=C(C)C=CC(=O)C1=C2CC(O)C(C)(O)C(=O)C2=CO1	BGC0000022_MIBiGv4.0_asperfuranone
+CCCCCCCC(=O)C1C2CC3=C(COC(\C=C\C)=C3)C(=O)C2(C)OC1=O	BGC0000027_MIBiGv4.0_ankaflavin
+[H]\C(C)=C(\[H])C1=CC2=C(CO1)C(=O)[C@]1(C)OC(=O)[C@H](C(=O)CCCCC)[C@@]1([H])C2	BGC0000027_MIBiGv4.0_monascin
+CCCCCCCC(=O)C1=C2C=C3C=C(OC=C3C(=O)[C@]2(C)OC1=O)\C=C\C	BGC0000027_MIBiGv4.0_monascorubrin
+CCCCCC(=O)C1=C2C=C3C=C(OC=C3C(=O)[C@]2(C)OC1=O)\C=C\C	BGC0000027_MIBiGv4.0_rubropunctatine
+CC1=CC(=CC2=C1C(=O)C3=C(O2)C(=C4C(=C3O)C(=O)C=C(C4=O)OC)O)OC	BGC0000030_MIBiGv4.0_bikaverin
+CC1=C(C=C2C(=C1OC)CNC2=O)O	BGC0000037_MIBiGv4.0_cichorine
+CC[C@H](C)C(=O)O[C@H]1CCC=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@@H]12	BGC0000039_MIBiGv4.0_compactin
+CC1CCC\C=C\C(=O)C2=C(O)C=C(O)C=C2CC(=O)O1	BGC0000045_MIBiGv4.0_dehydrocurvularin
+C[C@@H](O)[C@@H]1O[C@H]1\C=C\[C@@H]1O[C@H]1[C@H](O)C=C	BGC0000046_MIBiGv4.0_depudecin
+C1[C@@H](O[C@H]2[C@@]1(C3=C(O2)C=C4C(=C3O)C(=O)C5=C(C=CC(=C5C4=O)O)O)O)O	BGC0000048_MIBiGv4.0_dothistromin
+CC1=CC2=C(C(=C1)O)OC3=C(O2)C4(C5C(=CC(=O)C5(C(=O)C4=C(C3=O)O)O)C)C	BGC0000057_MIBiGv4.0_F9775A
+CC1=CC2=C(C(=C1)O)OC3=C(O2)C(=O)C(=C4C3(C5C(=CC(=O)C5(C4=O)O)C)C)O	BGC0000057_MIBiGv4.0_F9775B
+CC1=CC(=CC(=C1C(=O)O)O)O	BGC0000057_MIBiGv4.0_orsellinic acid
+CCCC[C@@H](C)[C@H]([C@H](C[C@@H](C)C[C@@H](CCCC[C@H](C[C@@H]([C@H](C)N)O)O)O)OC(=O)C[C@H](CC(=O)O)C(=O)O)OC(=O)C[C@H](CC(=O)O)C(=O)O	BGC0000062_MIBiGv4.0_Fumonisin B1
+CCCC[C@@H](C)[C@H]([C@H](C[C@@H](C)CCCCCC[C@H](C[C@@H]([C@H](C)N)O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O	BGC0000062_MIBiGv4.0_Fumonisin B2
+CCCC[C@@H](C)[C@H]([C@H](C[C@@H](C)C[C@@H](CCCCCC[C@@H]([C@@H](C)N)O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O	BGC0000062_MIBiGv4.0_Fumonisin B3
+CCCC[C@@H](C)[C@H]([C@H](C[C@@H](C)C[C@@H](CCCC[C@H](C[C@@H]([C@H](C)N)O)O)O)OC(=O)C[C@H](CC(=O)O)C(=O)O)OC(=O)C[C@H](CC(=O)O)C(=O)O	BGC0000063_MIBiGv4.0_Fumonisin B1
+CCCC[C@@H](C)[C@@H](OC(=O)C[C@@H](CC(=O)O)C(=O)O)[C@H](C[C@@H](C)C[C@H](O)CCCC[C@@H](O)C[C@H](O)CN)OC(=O)C[C@@H](CC(=O)O)C(=O)O	BGC0000063_MIBiGv4.0_Fumonisin C1
+O([C@H]([C@H](OC(=O)C[C@@H](CC(O)=O)C(O)=O)[C@@H](CCCC)C)C[C@H](CCCCCC[C@@H](O)C[C@H](O)CN)C)C(=O)C[C@@H](CC(O)=O)C(O)=O	BGC0000063_MIBiGv4.0_Fumonisin C2
+CCCCC(C)C(C(CC(C)CC(CCCCCCC(CN)O)O)OC(=O)CC(CC(=O)O)C(=O)O)OC(=O)CC(CC(=O)O)C(=O)O	BGC0000063_MIBiGv4.0_Fumonisin C3
+CCCC[C@@H](C)[C@H]([C@H](C[C@@H](C)C[C@@H](CCCC[C@H](C([C@@H](CN)O)O)O)O)OC(=O)CC(CC(=O)O)C(=O)O)OC(=O)CC(CC(=O)O)C(=O)O	BGC0000063_MIBiGv4.0_hydroxyl-Fumonisin C1
+COC(=O)/C(=C/C)/C=C(\C)/C=C(\C)/C=C/C=C(\C)/C(=O)[C@H]1[C@@H](O)[C@@](O)(CCO)NC1=O	BGC0000064_MIBiGv4.0_dihydrofusarin C
+COC(=O)/C(=C/C)/C=C(\C)/C=C(\C)/C=C/C=C(\C)/C(=O)[C@]12OC1[C@](O)(CCO)NC2=O	BGC0000064_MIBiGv4.0_epi-fusarin C
+C/C=C(/C)\C=C(/C)\C=C(/C)\C=C\C=C(/C)\C(=O)[C@@]12[C@@H](O1)[C@](NC2=O)(CCO)O	BGC0000064_MIBiGv4.0_fusarin C
+COC(=O)C(=CC)/C=C(\C)/C=C(\C)/C=C/C=C(\C)/C(=O)[C@@]1(O)C2OCC[C@@]2(O)NC1=O	BGC0000064_MIBiGv4.0_fusarin D
+COC1=CC(OC)=C2C(OC3(C(C)CC(=O)C=C3OC)C2=O)=C1	BGC0000070_MIBiGv4.0_epidechlorogriseofulvin
+COC1=CC(OC)=C(Cl)C2=C1C(=O)C1(O2)[C@H](C)CC(=O)C=C1OC	BGC0000070_MIBiGv4.0_griseofulvin
+CC1C/C=C\C(=O)C2C(O2)CC([C@H](C3=CC(=CC(=C3C(=O)O1)O)OC)O)O	BGC0000076_MIBiGv4.0_hypothemycin
+CC1C/C=C\C(=O)C2C(O2)CC([C@H](C3=CC(=CC(=C3C(=O)O1)O)OC)O)O	BGC0000077_MIBiGv4.0_hypothemycin
+[H][C@]12[C@H](C[C@@H](C)C=C1C=C[C@H](C)[C@@H]2CC[C@@H]1C[C@@H](O)CC(=O)O1)OC(=O)[C@H](C)CC	BGC0000088_MIBiGv4.0_lovastatin
+CC[C@H](C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C	BGC0000089_MIBiGv4.0_lovastatin
+[H][C@]12[C@H](C[C@@H](C)C=C1C=C[C@H](C)[C@@H]2CC[C@@H]1C[C@@H](O)CC(=O)O1)OC(=O)[C@H](C)CC	BGC0000098_MIBiGv4.0_monacolin K
+CCCCCCCC(=O)C1=C2C=C3C=C(OC=C3C(=O)[C@@]2(OC1=O)C)/C=C/C	BGC0000099_MIBiGv4.0_monascorubrin
+CC1=CC(=C2C(=C1)C(=O)C3=CC(=CC(=C3C2=O)O)O)O	BGC0000101_MIBiGv4.0_emodin
+CC1=CC(C(O)=O)=C(C(=O)C2=C(O)C=CC=C2O)C(O)=C1	BGC0000101_MIBiGv4.0_monodictyphenone
+CC(C)=CCC1=CC=C(O)C2=C1OC1=C(C2=O)C2=C(OC[C@H]([C@@H]2O)C(C)=C)C(C)=C1	BGC0000101_MIBiGv4.0_shamixanthone
+COC1=C(C\C=C(/C)CCC(O)=O)C(O)=C2C(=O)OCC2=C1C	BGC0000104_MIBiGv4.0_mycophenolic acid
+C1C=C2C(=CC(=O)O2)C(O1)O	BGC0000120_MIBiGv4.0_patulin
+CC1=CC(=C(C(=C1)O)C(=O)O)C(=O)C2=C(C(=C(C=C2C(=O)OC)OC)Cl)O	BGC0000121_MIBiGv4.0_Pestheic Acid
+CC1=CC(=C(C(=C1)OC2=C(C(=C(C=C2C(=O)OC)OC)Cl)O)C(=O)O)O	BGC0000121_MIBiGv4.0_RES-1214-2
+[H][C@@]12C[C@H](OC(C)=O)[C@@]3(C)OC4=C([C@H](O)[C@]3([H])[C@@]1(C)CC[C@H](OC(C)=O)[C@@]2(C)COC(C)=O)C(=O)OC(=C4)C1=CN=CC=C1	BGC0000129_MIBiGv4.0_pyripyropene A
+CC1CC2OC2C=CC=CC(=O)CC2=C(C(O)=CC(O)=C2Cl)C(=O)O1	BGC0000134_MIBiGv4.0_radicicol
+[H][C@@]12CCCC[C@@]1([H])[C@@H]([C@H](C)C=C2)C1=CC(OC)=C(C=O)C(=O)O1	BGC0000146_MIBiGv4.0_solanapyrone D
+COC1=C2C(=C3[C@@H]4C=CO[C@@H]4OC3=C1)OC5=C(C2=O)C(=CC=C5)O	BGC0000152_MIBiGv4.0_sterigmatocystin
+C1=C(C=C(C(=CC1=O)O)O)C(=O)O	BGC0000154_MIBiGv4.0_stipitatic acid
+CCCCCC(CC(CC(=O)CCCC(=O)CC(CC(=O)CCCCCC(=O)CC(CC(=O)CCCC(=O)CC(CC(=O)CCCC(=O)C)O)O)O)O)O	BGC0000155_MIBiGv4.0_T-toxin
+O=C1C2=C(O)C3=C(O)C=C(OC)C=C3C=C2CC(CC(CC(C)=O)=O)(O)C1O	BGC0000156_MIBiGv4.0_1-(2,3,5,10-tetrahydroxy-7-methoxy-4-oxo-1,2,3,4-tetrahydroanthracen-2-yl)pentane-2,4-dione
+O=C1C2=C(O)C3=C(O)C=C(O)C=C3C=C2CC4(O)C1(O)C(C(C(C)=O)=C(O)C4)=O	BGC0000156_MIBiGv4.0_desmethyl TAN-1612
+CC(=O)C1=C(C2(C(=O)C3=C(CC2(CC1=O)O)C=C4C=C(C=C(C4=C3O)O)OC)O)O	BGC0000156_MIBiGv4.0_TAN-1612
+[H][C@]12O[C@@]1([H])C(=O)C(O)=C(C)C2=O	BGC0000160_MIBiGv4.0_terreic acid
+C\C=C\C1=CC(=O)[C@@H](O)[C@H]1O	BGC0000161_MIBiGv4.0_isoterrein
+COC1=C2C3=C(C(O)=C1)C(O)=C1C(=O)[C@]4(O)C(=O)C(C(N)=O)=C(O)C[C@]4(O)[C@@H](O)C1=C3C[C@]21C(C)=CCCC1(C)C	BGC0000168_MIBiGv4.0_viridicatumtoxin
+CC(C)=CCC\C(C)=C\CC\C(C)=C\CC12O[C@@H]1C(=O)C(COC(=O)CC(C)(O)CC(O)=O)=CC2=O	BGC0000170_MIBiGv4.0_yanuthone D
+CC(=O)OC1C=COC=C2C1N3C(=O)C45CC6=COC=CC(C6N4C(=O)C3(C2)SS5)OC(=O)C	BGC0000292_MIBiGv4.0_acetylaranotin
+CC(=O)N1[C@H]2[C@](C[C@H]3N2C(=O)C4=CC=CC=C4NC3=O)(C5=CC=CC=C51)C(C)(C)C=C	BGC0000293_MIBiGv4.0_acetylaszonalenin
+[H][C@]12CCCCN1C(=O)[C@@H](NC(=O)[C@H](CC1=CN(OC)C3=C1C=CC=C3)NC(=O)[C@H](CCCCCC(=O)CC)NC2=O)C(C)CC	BGC0000304_MIBiGv4.0_apicidin
+[H][C@@](C)(CC)[C@]1([H])NC(=O)[C@]2([H])CCCN2C(=O)[C@]([H])(CC2=CC=CC=C2)N(C)C(=O)[C@]([H])(CC2=CC=CC=C2)NC(=O)[C@]([H])(C(C)C)N(C)C(=O)[C@]([H])(OC(=O)[C@@]([H])(N(C)C(=O)[C@]([H])(CC(C)C)NC(=O)[C@]([H])(C(C)C)N(C)C1=O)C(C)(C)O)[C@@]([H])(C)CC	BGC0000307_MIBiGv4.0_AbT1
+CC(C)CC1C(=O)OC(C(=O)N(C(C(=O)OC(C(=O)N(C(C(=O)OC(C(=O)N(C(C(=O)OC(C(=O)N1C)C(C)C)CC(C)C)C)C(C)C)CC(C)C)C)C(C)C)CC(C)C)C)C(C)C	BGC0000312_MIBiGv4.0_bassianolide
+CC(C)C1OC(=O)C(CC2=CC=CC=C2)N(C)C(=O)C(OC(=O)C(CC2=CC=CC=C2)N(C)C(=O)C(OC(=O)C(CC2=CC=CC=C2)N(C)C1=O)C(C)C)C(C)C	BGC0000313_MIBiGv4.0_beauvericin
+CC(=O)OCC1=C(N2C(SC1)C(NC(=O)CCCC(N)C(O)=O)C2=O)C(O)=O	BGC0000317_MIBiGv4.0_cephalosporin C
+C=C1CS[C@@H](N=C1C(=O)O)[C@@H](C(=O)O)NC(=O)CCCC[C@H](C(=O)O)N	BGC0000318_MIBiGv4.0_cephalosporin, cefEFG genes
+CN1C(=O)C23CC4(C(N2C(=O)C1(SS3)CO)NC5=CC=CC=C54)C67CC89C(=O)N(C(C(=O)N8C6NC1=CC=CC=C71)(SS9)CO)C	BGC0000321_MIBiGv4.0_chaetocin
+CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C	BGC0000334_MIBiGv4.0_cyclosporin A
+[H][C@@]12CCCN1C(=O)[C@@H](CC=C)OC(=O)CCNC(=O)[C@H](C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@@H](NC2=O)[C@@H](C)CC	BGC0000337_MIBiGv4.0_destruxin A
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)N[C@H]1C[C@H]([C@H](NC(=O)[C@@H]2[C@H]([C@H](CN2C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]3C[C@H](CN3C(=O)[C@@H](NC1=O)[C@@H](C)O)O)[C@@H]([C@H](C4=CC=C(C=C4)O)O)O)[C@@H](C)O)C)O)O)O	BGC0000338_MIBiGv4.0_echinocandin B
+CCCC[C@H]1C(=O)O[C@@H](C(=O)N([C@H](C(=O)O[C@@H](C(=O)N([C@H](C(=O)O[C@@H](C(=O)N1C)C(C)C)C(C)CC)C)C(C)C)C(C)C)C)C(C)C	BGC0000342_MIBiGv4.0_enniatin
+CC(C)[C@H]1C(=O)N2CCC[C@H]2[C@]3(N1C(=O)[C@](O3)(C)NC(=O)[C@H]4CN([C@@H]5CC6=CNC7=CC=CC(=C67)C5=C4)C)O	BGC0000348_MIBiGv4.0_ergovaline
+[H][C@]12N[C@@H](C)C(=O)N1C1=CC=CC=C1[C@@]2(O)C[C@@]1([H])N2C(=O)C3=C(C=CC=C3)N=C2[C@H](C)NC1=O	BGC0000355_MIBiGv4.0_fumiquinazoline A
+[H][C@]12N[C@@H](C)C(=O)N1C1=CC=CC=C1[C@@]21C[C@@]2([H])N3C(=O)C4=C(C=CC=C4)N=C3[C@](C)(NC2=O)O1	BGC0000355_MIBiGv4.0_fumiquinazoline C
+C[C@H]1C(=O)N2[C@@H]3N1[C@]4(C5=NC6=CC=CC=C6C(=O)N5[C@H](C[C@@]3(C7=CC=CC=C72)O)C(=O)N4)C	BGC0000355_MIBiGv4.0_fumiquinazoline D
+CN1C(=O)[C@@]2(CC3=CC=C[C@@H]([C@H]3N2C(=O)[C@@]1(CO)SC)O)SC	BGC0000361_MIBiGv4.0_bisdethiobis(methylthio)gliotoxin
+CN1C(=O)[C@]23CC4=CC=C[C@H](O)[C@@H]4N2C(=O)[C@@]1(CO)SS3	BGC0000361_MIBiGv4.0_gliotoxin
+C[C@@H]1NC(=O)[C@H]2CCCN2C(=O)[C@H](CCCCCC(=O)[C@@H]2CO2)NC(=O)[C@@H](C)NC1=O	BGC0000370_MIBiGv4.0_HC toxin
+C/C(C)=C\CC1=CC=CC2=C1NC=C2CC(N3O[Fe](ON4C(CC5=CNC6=C5C=CC=C6C/C=C(C)\C)=C(N=C(C4=O)C)OC)ON7C(CC8=CNC9=C8C=CC=C9C/C=C(C)\C)=C(N=C(C7=O)C)OC)=C(N=C(C3=O)C)OC	BGC0000372_MIBiGv4.0_astechrome
+C=C(/C=C/C1=CC=CC2=C1NC=C2CC(N3O[Fe](ON4C(CC5=CNC6=C5C=CC=C6/C=C/C(C)=C)=C(N=C(C4=O)C)OC)ON7C(CC8=CNC9=C8C=CC=C9/C=C/C(C)=C)=C(N=C(C7=O)C)OC)=C(N=C(C3=O)C)OC)C	BGC0000372_MIBiGv4.0_hexadehydroastechrome
+C[C@@H]1NC(=O)C(CC2=CNC3=C2C=CC=C3CC=C(C)C)NC1=O	BGC0000372_MIBiGv4.0_terezine-D
+CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CC=C3)C(=O)[O-])C.[Na+]	BGC0000404_MIBiGv4.0_penicillin
+[Na+].[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)Cc1ccccc1)C([O-])=O	BGC0000405_MIBiGv4.0_benzylpenicillin
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)CCC[C@H](N)C(O)=O)C(O)=O	BGC0000405_MIBiGv4.0_isopenicillin N
+CC(C)[C@@H](NC(=O)[C@H](CS)NC(=O)CCC[C@H]([NH3+])C([O-])=O)C([O-])=O	BGC0000405_MIBiGv4.0_Œ¥-(L-Œ±-aminoadipyl)-L-cysteine-D-valine
+C1=CC=C2C(=C1)C(=CN2)CC3C(=O)N/C(=C/C4=CN=CN4)/C(=O)N3	BGC0000420_MIBiGv4.0_dehydrohistidyltryptophanyldiketopiperazine
+CC(C)(C=C)C12C=C(C(=O)N\3C1(NC4=CC=CC=C24)NC(=O)/C3=C\C5=CN=CN5)O	BGC0000420_MIBiGv4.0_glandicoline A
+CC(C)(C=C)C12C=C(C(=O)N\3C1(NC(=O)/C3=C\C4=CN=CN4)N(C5=CC=CC=C25)O)O	BGC0000420_MIBiGv4.0_glandicoline B
+O=C(C(N1)CC2=CNC3=CC=CC=C32)NC(CC4=CNC=N4)C1=O	BGC0000420_MIBiGv4.0_histidyltryptophanyldiketopiperazine
+CON1C2=C(C=CC=C2)[C@]2(C=C(O)C(=O)N3\C(=C\C4=CNC=N4)C(=O)N[C@]123)C(C)(C)C=C	BGC0000420_MIBiGv4.0_meleagrine
+[H][C@@]12NC3=C(C=CC=C3)[C@@]1(C[C@@H]1N2C(=O)\C(NC1=O)=C/C1=CN=CN1)C(C)(C)C=C	BGC0000420_MIBiGv4.0_roquefortine C
+CC(C)(C=C)C12CC3N(C1NC1=CC=CC=C21)C(=O)C(CC1=CN=CN1)NC3=O	BGC0000420_MIBiGv4.0_roquefortine D
+CC(C)=CCC1=C(C2=CNC3=C2C=CC=C3)C(=O)C(O)=C(C2=C(NC3=C2C=CC=C3)C(C)(C)C=C)C1=O	BGC0000442_MIBiGv4.0_terrequinone A
+CCCCCCCCCC1CCCC(=O)NC(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)NC(C(=O)NC(C(=O)O1)C(C)C)CC3=CC=CC=C3O)CCC(=O)N)C)C(C)O	BGC0000456_MIBiGv4.0_verlamelin
+[H][C@](N)(C[C@H](O)C[S@@](=O)C1=C2C=C(O[C@](C)(CC)[C@]([H])(NC(=O)[C@]([H])(C)NC(=O)[C@@]([H])(NC)[C@@H]2O)C(=O)NCC(O)=O)C(O)=C1)C(O)=O	BGC0000627_MIBiGv4.0_ustiloxin B
+[H][C@]12CC3=C(NC4=CC=CC(=C34)C(C)(C)C=C)[C@]1(C)[C@@]1(C)CC[C@@]34O[C@@H](C(=O)C=C3[C@]1(O)CC2)C(C)(C)O4	BGC0000629_MIBiGv4.0_aflatrem
+C[C@@H]1C[C@@H]([C@@H]2[C@]([C@@H]1C=O)([C@@](CC2(C)C)(C)C=O)O)OC(=O)C	BGC0000631_MIBiGv4.0_1-epibotrydial
+C[C@@H]1C[C@@H]([C@@H]2[C@@]3([C@H]1COC(=O)[C@]3(CC2(C)C)C)O)OC(=O)C	BGC0000631_MIBiGv4.0_10-dehydroxy dihydrobotrydialone
+C[C@@H]1C[C@@H]([C@@H]2[C@@]3([C@H]1[C@@H](OC[C@]3(CC2(C)C)C)O)O)OC(=O)C	BGC0000631_MIBiGv4.0_10-epi-dihydrobotrydial
+C[C@@H]1C[C@@H]([C@@H]2[C@@]3([C@H]1C(=O)OC[C@]3(CC2(C)C)C)O)OC(=O)C	BGC0000631_MIBiGv4.0_10-Oxo-dihydrobotrydial
+CC1=C2C3=C(C=C1)C(C[C@@]3(COC2=O)C)(C)C	BGC0000631_MIBiGv4.0_10-Oxodehydrodihydrobotrydial
+C[C@@H]1CC=C2C3=C1C(=O)OC[C@]3(CC2(C)C)C	BGC0000631_MIBiGv4.0_10-Oxodihydrobotry-1(9),4(5)-diendial
+C[C@@]1(CC(C2=C1C(=C(C=C2)CO)CO)(C)C)CO	BGC0000631_MIBiGv4.0_11-Hydroxydehydrobotrydienol
+CC1=C(C2=C(C=C1)[C@](C[C@]2(C)CO)(C)CO)CO	BGC0000631_MIBiGv4.0_12-hydroxydehydrobotrydienol
+C[C@@H]1C[C@@H]([C@@H]2C(=C1[C@@H]3C[C@H](C(=O)O3)O)[C@@](CC2(C)C)(C)CO)OC(=O)C	BGC0000631_MIBiGv4.0_4Œ≤-Acetoxytetrahydrobotryslactone
+C[C@@H]1C[C@@H]([C@@H]2[C@@]([C@H]1C=O)([C@](CC2(C)C)(C)C=O)O)OC(=O)C	BGC0000631_MIBiGv4.0_8,9-epibotrydial
+C[C@@H]1C[C@@H]([C@@H]2[C@]([C@H]1C=O)([C@@](CC2(C)C)(C)C=O)O)OC(=O)C	BGC0000631_MIBiGv4.0_Botrydial
+C[C@@H]1CC=C2C(=C1C=O)[C@@](CC2(C)C)(C)C=O	BGC0000631_MIBiGv4.0_Botrydienal
+C[C@@H]1C[C@@H]([C@@H]2C(=C1C=O)[C@@](CC2(C)C)(C)CO)OC(=O)C	BGC0000631_MIBiGv4.0_Botryenalol
+C[C@@H]1C[C@@H]([C@@H]2C(=C1C=O)[C@@](CC2(C)C)(C)C=O)OC(=O)C	BGC0000631_MIBiGv4.0_Botryendial
+CC1=C(C2=C(C=C1)C(C[C@]2(C)CO)(C)C)CO	BGC0000631_MIBiGv4.0_Dehydrobotrydienol
+C[C@@H]1C[C@@H]([C@@H]2[C@@]3([C@H]1[C@H](OC[C@]3(CC2(C)C)C)O)O)OC(=O)C	BGC0000631_MIBiGv4.0_Dihydrobotrydial
+C[C@@H]1C[C@@H]([C@@H]2C3=C1C(=O)O[C@@]3(CC2(C)C)C)OC(=O)C	BGC0000631_MIBiGv4.0_Norbotrydialone acetate
+C/C=C(/CO)\C1=C(C(C[C@]1(C)CO)(C)C)CCO	BGC0000631_MIBiGv4.0_Secobotrydiene-3,10,15-triol
+C/C=C(/CO)\C1=C(C(C[C@]1(C)CO)(C)C)C(CO)O	BGC0000631_MIBiGv4.0_Secobotrydiene-3,4,10,15-tetraol
+C/C=C(/CO)\C1=C(C(C[C@]1(C)CO)(C)C)C=C	BGC0000631_MIBiGv4.0_Secobotrytriendiol
+C/C=C(/CO)\C1=C([C@](C[C@]1(C)CO)(C)CO)C=C	BGC0000631_MIBiGv4.0_Secobotrytriene-10,12,15-triol
+CC1C(C2C(O2)C3=CC(=O)C4(CC13C)C(O4)(C)C=O)OC(=O)C	BGC0000667_MIBiGv4.0_PR-toxin
+CC1(C)CCC[C@]2(C)C3CC[C@@](C)(C=C)C=C3CC[C@@H]12	BGC0000673_MIBiGv4.0_pimara-8(14),15-diene
+C[C@@]1(CO)[C@H](O)CC[C@@]2(C)[C@@]1([H])CC[C@]3([H])[C@]2(CC[C@@]4(C)O)C[C@@]4([H])C3	BGC0000676_MIBiGv4.0_17-deoxyaphidicolin
+[H][C@]12C[C@]3([H])C[C@]1(CC[C@]3(O)CO)[C@@]1(C)CCC[C@@](C)(CO)[C@]1([H])CC2	BGC0000676_MIBiGv4.0_3-deoxyaphidicolin
+C[C@]12CCCC([C@@H]1CC[C@@H]3[C@@]24CC[C@@]([C@@H](C3)C4)(C)O)(C)C	BGC0000676_MIBiGv4.0_aphidicolan-16Œ≤-ol
+[H][C@]12C[C@]3([H])C[C@]1(CC[C@]3(O)CO)[C@@]1(C)CC[C@@H](O)[C@@](C)(CO)[C@]1([H])CC2	BGC0000676_MIBiGv4.0_aphidicolin
+C[C@H]1[C@]2(O)C(O[C@@]3(C)[C@H](O)C4=C(C)[C@@]5(C=CC(OC5(C)C)=O)CC[C@@]4(C)[C@]2(C(O1)=O)C3=C)=O	BGC0000680_MIBiGv4.0_austinol
+C[C@@H]1C23C(=O)O[C@@]4([C@H]([C@@]5(O2)C(=C)[C@@]6(CC[C@@]5([C@]3(C4=C)C(=O)O1)C)C=CC(=O)OC6(C)C)O)C	BGC0000680_MIBiGv4.0_dehydroaustinol
+C[C@]12CCC(=O)C(C1=C(C(=O)[C@@]3([C@@]2(CC(=C)[C@]4([C@H]3C(=O)O[C@@](C4=O)(C)C(=O)OC)C)O)C)O)(C)C	BGC0000682_MIBiGv4.0_terretonin
+OCC1=CC2=C(C(O)=C1O)C(=O)C1=C(C(O)=C(O)C=C1O)C2=O	BGC0000684_MIBiGv4.0_asperthecin
+[H][C@@]12CC[C@](O)(COC)\C1=C\[C@@]1([H])[C@H](C)C(=O)C(C(C)C)=C1C[C@H](O)[C@@H]2C	BGC0000685_MIBiGv4.0_brassicicene C
+[H][C@@]12CC[C@@]3(C)\C([C@H](C[C@]3(C)[C@@]1(C)[C@H](OC(C)=O)C(=O)[C@@]1([H])[C@H](C)C(=O)C=C[C@]21C)OC(C)=O)=C(/CC=C(C)C)C(O)=O	BGC0000686_MIBiGv4.0_helvolic acid
+C[C@]12CCCC([C@@H]1CC[C@]34[C@@H]2CCC(C3)[C@](C4)(C)O)(C)C	BGC0000687_MIBiGv4.0_phyllocladan-16Œ±-ol
+C/C(=C\COP(=O)(O)OP(=O)(O)O)/CC[C@H]1C(=C)CC[C@@H]2[C@@]1(CCCC2(C)C)C	BGC0000688_MIBiGv4.0_copalyl diphosphate
+C[C@H]1CN(C)[C@@H]2CC3=C(NC4=CC=CC([C@H]2[C@H]1OC(C)=O)=C34)C(C)(C)C=C	BGC0000811_MIBiGv4.0_fumigaclavine C
+CC=C1C2CC3=C(C=CC(O)=N3)C1(N)CC(C)=C2	BGC0000812_MIBiGv4.0_huperzine A
+CNC1[C@H]2CN3C1[C@@H](O2)CC3	BGC0000815_MIBiGv4.0_loline
+CC(NC1[C@H]2CN3C1[C@@H](O2)CC3)=O	BGC0000815_MIBiGv4.0_N-acetylnorloline
+[H]C(N(C)C1[C@H]2CN3C1[C@@H](O2)CC3)=O	BGC0000815_MIBiGv4.0_N-formylloline
+CC1(C)[C@@H]2C[C@]34CCCN3C[C@@]2(CC2=C1NC1=CC(Cl)=CC=C21)NC4=O	BGC0000816_MIBiGv4.0_malbrancheamide A
+CC1(C)[C@@H]2C[C@]34CCCN3C(=O)[C@@]2(C[C@@]11C(=O)N(O)C2=C1C=CC1=C2C=CC(C)(C)O1)NC4=O	BGC0000818_MIBiGv4.0_notoamide A
+CN1C(=O)[C@]23C[C@H]4C(C)(C)[C@@]5(C[C@]14CN2CC[C@@]3(C)O)C(=O)NC1=C2OC=CC(C)(C)OC2=CC=C51	BGC0000819_MIBiGv4.0_paraherquamide
+C[C@@H]1OC=C2C(O)=C(C(O)=O)C(=O)C(C)=C2[C@H]1C	BGC0000894_MIBiGv4.0_citrinin
+CC(=O)N(CCC[C@H]1C(=O)NCC(=O)NCC(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCCN(C(=O)C)O)CCCN(C=O)O)O	BGC0000900_MIBiGv4.0_ferrichrome
+CC(=O)N(CCCC1C(=O)NC(C(=O)NC(C(=O)NCC(=O)NCC(=O)NCC(=O)N1)CCCN(C(=O)C)[O-])CCCN(C(=O)C)[O-])[O-].[55Fe+3]	BGC0000901_MIBiGv4.0_ferrichrome
+CC(=O)O[C@@H]1C[C@@H](O)[C@H]2O[C@@H]3C=C(C)C(=O)[C@@H](O)[C@]3(CO)[C@]1(C)[C@@]21CO1	BGC0000930_MIBiGv4.0_4-acetylnivalenol
+CC1=C[C@H]2O[C@@H]3[C@H](O)[C@@H](O)[C@](C)([C@@]2(CO)[C@H](O)C1=O)[C@]31CO1	BGC0000930_MIBiGv4.0_nivalenol
+CC1=CC2C(C[C@@H]1OC(=O)CC(C)C)(C3([C@@H]([C@H](C(C34CO4)O2)O)OC(=O)C)C)COC(=O)C	BGC0000931_MIBiGv4.0_trichothecene
+CC[C@H](C)C[C@H](C)C(=O)C1=C(C(=CNC1=O)C2=CC=C(C=C2)O)O	BGC0000959_MIBiGv4.0_aspyridone A
+CC[C@H](C)C[C@H](C)C(=O)C1=C(C(=CNC1=O)C2=CC(=C(C=C2)O)O)O	BGC0000959_MIBiGv4.0_aspyridone B
+CC[C@H]1[C@H]2[C@@H](NC(=O)[C@@]23[C@@H](/C=C/C[C@@H](/C=C(\[C@H](C(=O)/C=C/C3=O)O)/C)C)[C@H]4[C@@]1(O4)C)[C@@H](C)C5=CNC6=CC=CC=C65	BGC0000968_MIBiGv4.0_chaetoglobosin A
+C[C@H]\1C/C=C/[C@H]2[C@H]3[C@](O3)([C@H]([C@@H]4[C@@]2(C(=O)CCC(=O)C(=O)/C(=C1)/C)C(=O)N[C@H]4CC5=CNC6=CC=CC=C65)C)C	BGC0000968_MIBiGv4.0_chaetoglobosin C
+CC(C1=C(O)[C@@H]2C3[C@H](C(C)(C)N2C1=O)CC4=C5[C@@]3([H])C(NC5=CC=C4)=O)=O	BGC0000977_MIBiGv4.0_2-oxocyclopiazonic acid
+CC(=O)C1=C([C@@H]2[C@@H]3[C@@H](CC4=C5C3=CNC5=CC=C4)C(N2C1=O)(C)C)O	BGC0000977_MIBiGv4.0_cyclopiazonic acid
+C[C@H]1C/C=C/[C@H]2[C@H]3[C@](O3)([C@H]([C@@H]4[C@]2(C(=O)N[C@H]4CC5=CC=CC=C5)OC(=O)O/C=C/[C@@](C1=O)(C)O)C)C	BGC0000983_MIBiGv4.0_cytochalasin E
+[H][C@]12[C@H](CC3=CC=CC=C3)NC(=O)[C@]11C(=O)\C=C\C(=O)[C@H](OC(C)=O)\C(C)=C\[C@@H](C)C\C=C\[C@@]1([H])[C@@H]1O[C@]1(C)[C@H]2C	BGC0000983_MIBiGv4.0_cytochalasin K
+C/C=C(/C=C(/C=C/C=C(/C=C/C(C(C)C(N[C@H](CC1=CC=C(O)C=C1)C(O)=O)=O)=O)C)C)C	BGC0000992_MIBiGv4.0_(3R,5S)-5-(4-hydroxybenzyl)-3-methyl-3-((2E,4E,6E,8E,10E)-4,8,10-trimethyldodeca-2,4,6,8,10-pentaenoyl)pyrrolidine-2,4-dione
+C/C=C(\C)/C=C(\C)/C=C/C=C(\C)/C=C/C(=O)[C@@]1(C(=O)[C@@H](NC1=O)CC2=CC=C(C=C2)O)C	BGC0000992_MIBiGv4.0_fusaridione A
+COC(=O)\C(=C\C)\C=C(/C)\C=C\C=C\C=C(/C)C(=O)[C@]12O[C@H]1[C@@](O)(CCO)NC2=O	BGC0001026_MIBiGv4.0_NG-391
+[H][C@@](CC1=CC=CC=C1)(NC(=O)C1=C(O)C2=C(C[C@@]([H])(C)OC2=O)C(Cl)=C1)C(O)=O	BGC0001030_MIBiGv4.0_ochratoxin A
+[H][C@@]12C[C@@H](O)CN1C(=O)[C@@]([H])(NC(=O)[C@@H](C[C@@H](O)[C@@H](O)NC(=O)[C@]1([H])[C@@H](O)[C@@H](C)CN1C(=O)[C@@]([H])(NC(=O)[C@@]([H])(NC2=O)[C@H](O)[C@@H](O)C1=CC=C(O)C=C1)[C@H](O)CC(N)=O)NC(=O)CCCCCCCC[C@@H](C)C[C@@H](C)CC)[C@@H](C)O	BGC0001035_MIBiGv4.0_pneumocandin A0
+[H][C@@]12C[C@@H](O)CN1C(=O)[C@@]([H])(NC(=O)[C@@H](C[C@@H](O)[C@@H](O)NC(=O)[C@]1([H])[C@@H](O)CCN1C(=O)[C@@]([H])(NC(=O)[C@@]([H])(NC2=O)[C@H](O)[C@@H](O)C1=CC=C(O)C=C1)[C@H](O)CC(N)=O)NC(=O)CCCCCCCC[C@@H](C)C[C@@H](C)CC)[C@@H](C)O	BGC0001035_MIBiGv4.0_pneumocandin B0
+CC\C=C\C=C\C1=C(C)C(=O)[C@@]2(O1)[C@@H](O)[C@](O)(CC1=CC=CC=C1)NC2=O	BGC0001037_MIBiGv4.0_azaspirene
+CC\C=C/[C@H](O)[C@H](O)C1=C(C)C(=O)[C@@]2(O1)C(O)[C@](NC2=O)(OC)C(=O)C1=CC=CC=C1	BGC0001037_MIBiGv4.0_pseurotin
+C[C@@H]1C(C(=O)[C@]2(O1)C[C@@H]3[C@]([C@@H]2OC(=O)C)(C[C@]45N3C(=O)[C@](N(C4=O)C)(SS5)CO)O)(C)C	BGC0001044_MIBiGv4.0_sirodesmin PL
+CCC(C)\C=C(/C)\C=C\C(=O)C1=C(O)C(=CN(O)C1=O)C1=CC=C(O)C=C1	BGC0001049_MIBiGv4.0_tenellin
+C[C@H]1CCCC(=O)CCC/C=C/C2=C(C(=CC(=C2)O)O)C(=O)O1	BGC0001057_MIBiGv4.0_zearalenone
+CC(=CC[C@@H]1[C@@](O1)(C)[C@H]2[C@@H]([C@@H](CC[C@]23CO3)OC(=O)/C=C/C=C/C=C/C=C/C(=O)O)OC)C	BGC0001067_MIBiGv4.0_Fumagillin
+CC(C)=C[C@H]1O[C@H]2[C@H]3O[C@@]33[C@H](CC[C@]4(C)[C@]5(C)[C@H](CC6=C5NC5=C6C6=C(C=C5)C(=O)[C@@H]5[C@H](C6)C(C)(C)OC5(C)C)CC[C@@]34O)O[C@@H]2C(C)(C)O1	BGC0001081_MIBiGv4.0_lolitrem F
+CC(O)([C@H]1O[C@H]2CC[C@]3([C@@](CC[C@H]4CC5=C([C@@]43C)NC6=CC(C/C=C(C)/C)=C(C/C=C(C)/C)C=C56)(C2=CC1=O)O)C)C	BGC0001082_MIBiGv4.0_21,22-diprenylated paxilline
+CC(C)(O)[C@H]1O[C@H]2CC[C@@]3(C)[C@@](O)(CC[C@H]4CC5=C([NH]C6=CC=CC=C56)[C@@]43C)C2=CC1=O	BGC0001082_MIBiGv4.0_Paxilline
+CC1(C)[C@@H]2C[C@]34CCCN3C(=O)[C@@]2(C[C@@]11C(=O)N(O)C2=C1C=CC1=C2C=CC(C)(C)O1)NC4=O	BGC0001084_MIBiGv4.0_notoamide A
+CC1=C(C(=C2C(=C1)C(=O)C3=CC(=CC(=C3C2=O)O)O)O)C(=O)O	BGC0001118_MIBiGv4.0_endocrocin
+CC1=CC(=CC(=C1C(=O)O)O)O	BGC0001121_MIBiGv4.0_orsellinic acid
+CC(C)C[C@H](O)[C@@H]1OC2=C(O1)C(=O)NC(C)=C2	BGC0001122_MIBiGv4.0_dihydroisoflavipucine
+[H]C1(OC2=C(O1)C(=O)NC(C)=C2)C(=O)CC(C)C	BGC0001122_MIBiGv4.0_isoflavipucine
+[H][C@@]12SS[C@]3([H])NC(=O)[C@@]1(OC1=C2C=C(Cl)C(O)=C1)N(OC)C3=O	BGC0001123_MIBiGv4.0_aspirochlorine
+CCCCC\C=C\C=C\C1=C(O)C(=O)C2=C(O1)C(=C)N(C)C2=O	BGC0001124_MIBiGv4.0_pyranonigrin E
+OC1=CC=C(C2=CN(O)C(C(C(/C=C/C=C/C=C/[C@H](C)CC)=O)=C2O)=O)C=C1	BGC0001136_MIBiGv4.0_desmethylbassianin
+[H][C@@]12C[C@H](O)C[C@@]1([H])[C@@H](O)\C=C\C(=O)O[C@H](C)CCC\C=C\2	BGC0001141_MIBiGv4.0_4-epi-15-epi-brefeldin A
+C[C@@H](C1=NC2=CC=CC=C2C(=O)N1[C@@H]3C[C@]4([C@H]5N(C6=CC=CC=C64)C(=O)C(N5O)(C)C)OC3=O)OC(=O)C	BGC0001142_MIBiGv4.0_tryptoquialanine
+CCC(C)CC(C)C(=O)OC1(C(=O)C=C2C=C(OC=C2C1=O)C(=O)O)C	BGC0001143_MIBiGv4.0_azanigerone A
+C/C(C)=C\CC1=C2C=C(O)C=C(O)C2=C(O)C3=C1C[C@](CC(/C=C(C)\O)=O)(O)[C@H](O)C3=O	BGC0001144_MIBiGv4.0_neosartoricin B
+CC1=CC(=CC2=C1C(=O)C3=C(O2)C(=C4C(=C3O)C(=O)C=C(C4=O)OC)O)OC	BGC0001158_MIBiGv4.0_bikaverin
+C[C@@H]1C(=O)N[C@H](C(=O)N2CCC[C@@H]2C(=O)N[C@H](C(=O)N1)C)CCCCCC(=O)C3CO3	BGC0001166_MIBiGv4.0_HC-toxin
+CCCCCC/C=C/C=C/C=C/C(O)=C1C(N(O)CC/1=O)=O	BGC0001187_MIBiGv4.0_xenolozoyenone
+CCCCC1=CN=C(C=C1)C(=O)O	BGC0001190_MIBiGv4.0_fusaric acid
+[H][C@]12NC3=CC=CC=C3[C@@]34CCN(C(C)=O)[C@]3([H])N3CC[C@]14C1=C(C=CC=C1[C@H]3C1OC1(C)C)N2C	BGC0001205_MIBiGv4.0_communesin A
+[H][C@]12NC3=CC=CC=C3[C@@]34CCN(C(=O)\C=C\C=C\C)[C@]3([H])N3CC[C@]14C1=C(C=CC=C1[C@H]3C1OC1(C)C)N2C	BGC0001205_MIBiGv4.0_communesin B
+[H][C@@]1(OC1(C)C)[C@@]1([H])N2CC[C@]34C5=C1C=CC=C5N(C=O)[C@@]3([H])NC1=C(C=CC=C1)[C@]41CCN(C(=O)\C=C\C=C\C)[C@]21[H]	BGC0001205_MIBiGv4.0_communesin C
+C\C=C\C=C\C(=O)N1CC[C@@]23[C@@H]1N1CC[C@@]22[C@@H](NC4=C3C=CC=C4)N(C=O)C3=CC=CC([C@@H]1[C@@H]1OC1(C)C)=C23	BGC0001205_MIBiGv4.0_communesin D
+CN1[C@@H]2NC3=CC=CC=C3[C@]34CCN([C@H]3N3CC[C@@]24C2=C1C=CC=C2[C@@H]3C=C(C)C)C(C)=O	BGC0001205_MIBiGv4.0_communesin E
+[H][C@]1(OC1(C)C)[C@]1([H])N2CC[C@@]34C5=C(C=CC=C15)N(C)[C@]3([H])NC1=CC=CC=C1[C@@]41CCN(C(=O)CC)[C@@]21[H]	BGC0001205_MIBiGv4.0_communesin G
+[H][C@]1(OC1(C)C)[C@]1([H])N2CC[C@@]34C5=C(C=CC=C15)N(C)[C@]3([H])NC1=CC=CC=C1[C@@]41CCN(C(=O)CCC)[C@@]21[H]	BGC0001205_MIBiGv4.0_communesin H
+CC[C@@H](C)C[C@@H](C)/C=C(\C)/C=C/C=C/C=C(\C)/C(=C1C(=O)C(=CN(C1=O)O)C2=CC=C(C=C2)O)O	BGC0001218_MIBiGv4.0_fumosorinone
+CC1=C(C(=O)C(=O)C(=C1O)C)CO	BGC0001219_MIBiGv4.0_shanorellin
+CCCCCCCCCCCCCCCC(=O)N[C@H]1C[C@H]([C@H](NC(=O)[C@@H]2[C@H]([C@H](CN2C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]3C[C@H](CN3C(=O)[C@@H](NC1=O)[C@@H](C)O)O)[C@@H]([C@H](C4=CC=C(C=C4)O)O)O)[C@@H](C)O)C)O)O)O	BGC0001220_MIBiGv4.0_aculeacin A
+OC(=O)CCCC[C@@H]1SC[C@@H]2NC(=O)N[C@H]12	BGC0001238_MIBiGv4.0_biotin
+C1[C@H]2[C@@H]([C@@H](S1)CCCCC(=O)O)NC(=O)N2	BGC0001239_MIBiGv4.0_biotin
+NCC[C@H](O)C[C@H]1NC(=O)[C@H](CO)NC(=O)[C@@H]2C[C@@H](O)CN2C(=O)C2(CC2)NC(=O)[C@H](CO)NC(=O)[C@@H](CO)NC(=O)CCNC1=O	BGC0001240_MIBiGv4.0_serinocyclin A
+NCCCC[C@H]1NC(=O)[C@H](CO)NC(=O)[C@@H]2C[C@@H](O)CN2C(=O)C2(CC2)NC(=O)[C@H](CO)NC(=O)[C@@H](CO)NC(=O)CCNC1=O	BGC0001240_MIBiGv4.0_serinocyclin B
+CC(C)C[C@H]1C(=O)N2CCC[C@H]2[C@]3(N1C(=O)[C@](O3)(C(C)C)NC(=O)[C@H]4CN([C@@H]5CC6=CNC7=CC=CC(=C67)C5=C4)C)O	BGC0001241_MIBiGv4.0_ergocryptine
+C[C@@]1(C(=O)N2[C@H](C(=O)N3CCC[C@H]3[C@@]2(O1)O)CC4=CC=CC=C4)NC(=O)[C@H]5CN([C@@H]6CC7=CNC8=CC=CC(=C78)C6=C5)C	BGC0001241_MIBiGv4.0_ergotamine
+COC1=CC(=O)C2=C(O)C3=C(CC(C)(O)OC3)C(O)=C2C1=O	BGC0001242_MIBiGv4.0_oxyjavanicin
+CCCC[C@H](O)\C=C\C(=O)O[C@H]1[C@H](C)O[C@](C)([C@@H](O)[C@@H](C)C(O)=O)[C@@H](O)[C@@H]1C	BGC0001243_MIBiGv4.0_botcinic acid
+[H][C@@]12OC(=O)[C@H](C)[C@H](OC(C)=O)[C@@]1(C)O[C@@H](C)[C@H](OC(=O)\C=C\[C@@H](O)CCCC)[C@H]2C	BGC0001243_MIBiGv4.0_botcinin A
+[H][C@@]12[C@H](C[C@@H](C)C(C=O)=C1[C@@](C)(CO)CC2(C)C)OC(C)=O	BGC0001243_MIBiGv4.0_botryenalol
+[H][C@@]12[C@H](C[C@@H](C)C(C=O)=C1[C@](C)(CC2(C)C)C=O)OC(C)=O	BGC0001243_MIBiGv4.0_botryendial
+[H][C@]12[C@H](C[C@@H](C)[C@]3([H])[C@@H](O)OC[C@@](C)(CC1(C)C)[C@]23O)OC(C)=O	BGC0001243_MIBiGv4.0_dihydrobotrydial
+C[C@@H]1C[C@@H]([C@H]2CC([C@]3([C@]2([C@H]1[C@H](OC3=O)OC)O)C)(C)C)OC(=O)C	BGC0001243_MIBiGv4.0_Œ≤-O-Methyl-dihydrobotrydialone
+C[C@@H]1CC2=C(C(=CC=C2)O)C(=O)O1	BGC0001244_MIBiGv4.0_(-)-Mellein
+C[C@H]1CCCCCCCC2=CC(=CC(=C2C(=O)O1)OC)O	BGC0001245_MIBiGv4.0_lasiodiplodin
+C[C@H]1CCC/C=C/C(=O)CC2=CC(=CC(=C2C(=O)O1)O)O	BGC0001246_MIBiGv4.0_trans-resorcylide
+COC1=C(C[C@H](C)O)C2=C3C(C[C@H](C)O)=C(OC)C(=O)C4=C3C3=C(OCOC5=C3C2=C(C(O)=C5)C1=O)C=C4O	BGC0001247_MIBiGv4.0_cercosporin
+[H][C@@]1(CC[C@@]2(C)C3=C(CC[C@]12C)[C@@]1(C)C[C@@H](OC(=O)CC(C)(O)CC(O)=O)C(=O)C(C)(C)[C@]1([H])CC3)[C@H](C)CCC(O)C(C)(C)O	BGC0001248_MIBiGv4.0_clavaric acid
+C/C(=C/C(=O)N(CCCC1C(=O)NC(C(=O)N1)CCCN(C(=O)/C=C(/C)\CCOC(=O)C(CCCN(C(=O)/C=C(\C)/CCO)[O-])N(C)C)[O-])[O-])/CCO.[Fe+3]	BGC0001249_MIBiGv4.0_dimethylcoprogen
+C/C(=C\C(=O)N(CCC[C@H]1C(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCCN(C(=O)/C=C(\C)/CCO)O)CCCN(C(=O)/C=C(\C)/CCO)O)CCC(=O)N)O)/CCO	BGC0001250_MIBiGv4.0_epichloenin A
+C/C=C(\C)/[C@H]([C@@H](C)/C=C/[C@H]([C@@H](C)[C@H](C[C@@H]1CC(=CC(=O)O1)O)O)O)O	BGC0001252_MIBiGv4.0_UNII-YC2Q1O94PT
+C/C=C(\C)/C(C(C)(C(C(C(=O)NC(C(C)C)C(=O)O[C@H](/C=C/C=C\C=C\C(=O)O)[C@@]1(CO1)C)O)O)O)O	BGC0001253_MIBiGv4.0_ACT-Toxin I
+C/C=C(\C)/CC(C)(C(C(C(=O)NC(C(C)C)C(=O)O[C@H](/C=C/C=C\C=C\C(=O)O)[C@@]1(CO1)C)O)O)O	BGC0001254_MIBiGv4.0_ACT-Toxin II
+[H][C@@]12C[C@H](C)CC[C@@]1([H])[C@@](C)([C@H](\C=C\C)C=C2)C(\O)=C1\C(=O)[C@H](CO)N(C)C1=O	BGC0001255_MIBiGv4.0_equisetin
+C1=C2C=C(C=C(C2=C(C=C1O)O)O)O	BGC0001257_MIBiGv4.0_1,3,6,8-tetrahydroxynaphthalene
+C1=C2C=C(C=C(C2=C(C=C1O)O)O)O	BGC0001258_MIBiGv4.0_1,3,6,8-tetrahydroxynaphthalene
+CC(=O)[C@@H]1[C@H](C2=C(C(=C3C(=O)C=C(C4=C5C(=CC(=O)C6=C(C(=C1C(=C56)C2=C43)OC)O)OC)OC)O)OC)C(=O)C	BGC0001259_MIBiGv4.0_elsinochrome A
+[H][C@]12CC3=C(NC4=CC=CC=C34)[C@]1(C)[C@@]1(C)CC[C@]3([H])O[C@@H](C[C@@H](O)[C@@]3(C)[C@]1([H])CC2)C(C)(C)O	BGC0001260_MIBiGv4.0_terpendole E
+CC1C(=O)OC(C(=O)NC(C(=O)NC(=C)C(=O)N1)CCC2=CC=C(C=C2)OC)C(C)C	BGC0001261_MIBiGv4.0_AM-toxin
+CC(C1=CC=CC=C1)C(C(=O)OC(/C=C/C=C\C=C\C(=O)O)C2(CO2)C)NC(=O)C	BGC0001262_MIBiGv4.0_AK-toxin I
+[H][C@](C)(CO)NC(=O)[C@@H]1CN(C)[C@]2([H])CC3=CNC4=CC=CC(=C34)C2=C1	BGC0001263_MIBiGv4.0_ergometrinine
+CCC(C)C1C2(C3C(CC(CC3C(C1(C)O)(/C(=C/O)/C2=O)O)(C)O)C)C	BGC0001264_MIBiGv4.0_betaenone A
+CC[C@@H](C)[C@@H]1[C@]([C@H]2[C@@H](C[C@@](C[C@@H]2C(=O)[C@@]1(C)O)(C)O)C)(C)C(=O)CCO	BGC0001264_MIBiGv4.0_betaenone B
+[H][C@@](C)(CC)[C@@]1([H])[C@](C)(O)C(=O)[C@@]2([H])C[C@](C)(O)C[C@@H](C)[C@]2([H])[C@@]1(C)C(=O)\C=C/O	BGC0001264_MIBiGv4.0_betaenone C
+CC1=C2C3=C(C4=CNC5=C(C(=O)C(=O)C(=C45)C3=CN2)C)C(=O)C1=O	BGC0001265_MIBiGv4.0_melanin
+CCCCCCCC1=C2C(=CC(=C1C(=O)O)O)OC(=O)C3=C(O2)C=C(C=C3C)OC	BGC0001266_MIBiGv4.0_grayanic acid
+CC1=C[C@@H]2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C	BGC0001267_MIBiGv4.0_Agroclavine I
+CN1CC(=C[C@H]2[C@H]1CC3=CNC4=CC=CC2=C34)CO	BGC0001267_MIBiGv4.0_elymoclavine
+C/C=C(/C)\C=C(/C)\C=C(/C)\C=C\C=C(/C)\C(=O)[C@@]12[C@@H](O1)[C@](NC2=O)(CCO)O	BGC0001268_MIBiGv4.0_fusarin C
+C[C@@]12[C@H](CC[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@](C4)(C(=C)C5)O)C(=O)O)OC2=O)O	BGC0001269_MIBiGv4.0_gibberellin A1
+C[C@@]12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@](C4)(C(=C)C5)O)C(=O)O)OC2=O)O	BGC0001269_MIBiGv4.0_gibberellin A3
+[H][C@@]12CC[C@@H]3C[C@]1(CC3=C)[C@@H](C(O)=O)[C@]1([H])C3(C)[C@@H](O)CC[C@@]21OC3=O	BGC0001269_MIBiGv4.0_gibberellin A4
+[H][C@@]12CC[C@@H]3C[C@]1(CC3=C)[C@@H](C(O)=O)[C@]1([H])[C@]3(C)[C@@H](O)C=C[C@@]21OC3=O	BGC0001269_MIBiGv4.0_gibberellin A7
+CC12CCC[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@H](C4)C(=C)C5)C(=O)O)OC2=O	BGC0001269_MIBiGv4.0_gibberellin A9
+C[C@@]12[C@H](CC[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@H](C4)C(=C)C5)C(=O)O)OC2=O)O	BGC0001270_MIBiGv4.0_gibberellin A4
+C[C@@]12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@H](C4)C(=C)C5)C(=O)O)OC2=O)O	BGC0001270_MIBiGv4.0_gibberellin A7
+CC1=CC2=C(C(=C1OCC=C(C)C)CO)C(=O)C3=C(C=CC(=C3O2)CC=C(C)C)O	BGC0001271_MIBiGv4.0_emericellin
+CC(C1C(C2=C(C(=C3C(=O)C=C(C4=C5C(=CC(=O)C6=C(C(=C1C(=C56)C2=C43)OC)O)OC)OC)O)OC)C(=O)C)O	BGC0001272_MIBiGv4.0_elsinochrome B
+CC(C1C(C2=C(C(=C3C(=O)C=C(C4=C5C(=CC(=O)C6=C(C(=C1C(=C56)C2=C43)OC)O)OC)OC)O)OC)C(C)O)O	BGC0001272_MIBiGv4.0_elsinochrome C
+C[C@H]1[C@@H](O1)C2=C[C@@H](OC2=O)[C@H](C)O	BGC0001273_MIBiGv4.0_asperlactone
+CC1CCCCCC/C=C/CCCCCCCC(=O)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O[C@@H]3[C@H]([C@@H]([C@H](O[C@H]3O1)COC(=O)C)O)O)COC(=O)C	BGC0001274_MIBiGv4.0_diacetylated lactonic sophorolipid
+CC(CCCCCC/C=C\CCCCCCCC(=O)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	BGC0001274_MIBiGv4.0_non-acetylated open-chain sophorolipid
+CC1=C(C(=CC=C1)O)C(=O)O	BGC0001275_MIBiGv4.0_6-methylsalicyclic acid
+CC1=C(C(=CC=C1)O)C(=O)O	BGC0001276_MIBiGv4.0_6-methylsalicyclic acid
+CC(=O)OC[C@]12[C@H](O)C(=O)C(C)=C[C@H]1O[C@@H]1[C@H](O)C[C@@]2(C)[C@]12CO2	BGC0001277_MIBiGv4.0_15-acetyldeoxynivalenol
+CC1=C[C@@H]2[C@](CC1)([C@]3(C[C@H]([C@H]([C@@]34CO4)O2)O)C)COC(=O)C	BGC0001277_MIBiGv4.0_3-decalonectrin
+CC(=O)OC[C@]12C[C@H](OC(=O)CC(C)C)C(C)=C[C@H]1O[C@@H]1[C@H](O)[C@@H](OC(C)=O)[C@@]2(C)[C@]12CO2	BGC0001278_MIBiGv4.0_T-2 toxin
+CC1=CC23[C@](CC1)([C@]4(CC[C@H]([C@]4(O2)CO)O3)C)C	BGC0001279_MIBiGv4.0_deoxysambucinol
+[H][C@]12C[C@@]3([H])OC(=O)\C=C/C=C/[C@@]([H])(OCC\C(C)=C\C(=O)OC[C@@]4(CCC(C)=C[C@@]4([H])O1)[C@]3(C)[C@]21CO1)[C@@H](C)O	BGC0001279_MIBiGv4.0_roridin E
+CC1=CC23C(CC1)([C@]4(CC(C(C4(O2)CO)O3)O)C)C	BGC0001279_MIBiGv4.0_sambucinol
+CCC(C)C1C2(C3C(CC(CC3C(C1(C)O)(/C(=C/O)/C2=O)O)(C)O)C)C	BGC0001280_MIBiGv4.0_betaenone A
+CCC(C)C1C(C2C(CC(CC2C(=O)C1(C)O)(C)O)C)(C)C(=O)/C=C\O	BGC0001280_MIBiGv4.0_betaenone C
+CC(C)(O)[C@H]1O[C@H]2CC[C@]3(C)[C@]4(C)[C@H](CC5=C4NC4=C5C5=C(C=C4)C(=O)[C@@H]4[C@@H](C5)C(C)(C)OC4(C)C)CC[C@@]3(O)[C@]22OC2[C@@H]1O	BGC0001282_MIBiGv4.0_lolitriol
+CCCCCC[C@H](C)[C@H]1OC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](NC(=O)CNC(=O)[C@@H]1C)C(C)C	BGC0001290_MIBiGv4.0_emericellamide A
+CCCCCC[C@H](C)C[C@H](C)[C@H]1OC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](NC(=O)CNC(=O)[C@@H]1C)C(C)C	BGC0001290_MIBiGv4.0_emericellamide B
+CC1=CC(=C(C2=C1C(=CC(=O)O2)OC)C3=C(C4=C(C=C(C=C4CO)OC)OC3=O)OC)OC	BGC0001304_MIBiGv4.0_aflavarin
+CCC(C)C(=C1C(=O)C(C(OC1=O)C)CO)O	BGC0001305_MIBiGv4.0_fujikurin B
+CCC(C)C(=C1C(=O)C(C(OC1=O)C)C)O	BGC0001305_MIBiGv4.0_fujikurin C
+CCC(C)C(\O)=C1/C(=O)OC(C)C(C)C1=O	BGC0001305_MIBiGv4.0_fujikurin D
+CC1=C(C(=C2C(=C1O)C3(C(=CC(=O)C(C3=O)C(=O)C)O2)C)C(=O)C)O	BGC0001309_MIBiGv4.0_usnic acid
+C[C@@H]1OC=C2C(O)=C(C(O)=O)C(=O)C(C)=C2[C@H]1C	BGC0001338_MIBiGv4.0_citrinin
+CC[C@H](C)C[C@H](C)\C=C\C(=O)O[C@@H]1C[C@]2(CCC(=C)[C@@H](OC(C)=O)[C@H](C)CC3=CC=CC=C3)O[C@@]1(C(O)=O)[C@@](O)([C@H](O2)C(O)=O)C(O)=O	BGC0001339_MIBiGv4.0_squalestatin S1
+O=C(O1)C(/C=C/CC)=C2C1(O)C(CCC)C(C(OC3=O)=O)=C3CC2	BGC0001340_MIBiGv4.0_agnestadride A
+O=C(O1)C(/C=C/CC)=C2C1=C(CCC)C(C(OC3=O)=O)=C3CC2	BGC0001340_MIBiGv4.0_agnestadride B
+CCC[C@@H]1CC2=C(C[C@H](CC)CC3=C1C(=O)OC3=O)C(=O)OC2=O	BGC0001340_MIBiGv4.0_byssochlamic acid
+CC/C=C/C1=C(C(OC1=O)=O)CC(O)=O	BGC0001340_MIBiGv4.0_Triketide maleidride monomer type A
+CCC(C)/C=C/C(=O)N1CC(CC1C(=O)NC(CC(C)CC(CC(=O)CC)O)C(=O)NC(C(C(C)C)O)C(=O)NC(C)(C)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(C)(C)C(=O)NC(C)(C)C(=O)NCCC(=O)NC(C)CN(C)C)C	BGC0001358_MIBiGv4.0_leucinostatin A
+CCC(C)/C=C/C(=O)N1CC(CC1C(=O)NC(CC(C)CC(CC(=O)CC)O)C(=O)NC(C(C(C)C)O)C(=O)NC(C)(C)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(C)(C)C(=O)NC(C)(C)C(=O)NCCC(=O)NC(C)CNC)C	BGC0001358_MIBiGv4.0_leucinostatin B
+Cc1c(c(n2c(cnc2c1Br)CSCCO)C)Br	BGC0001360_MIBiGv4.0_mycophenolic acid
+C/C(=C\COC1C=CC(C[C@]23C(=O)N[C@H](SS2)C(=O)N3)=CC=1)/C	BGC0001365_MIBiGv4.0_dithioclapurine
+C/C(=C\COC1C=CC(C[C@]23C(=O)N[C@H](SSSS2)C(=O)N3)=CC=1)/C	BGC0001365_MIBiGv4.0_tetrathioclapurine
+C/C(=C\COC1C=CC(C[C@]23C(=O)N[C@H](SSS2)C(=O)N3)=CC=1)/C	BGC0001365_MIBiGv4.0_trithioclapurine
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)N[C@H]1C[C@H]([C@H](NC(=O)[C@@H]2[C@H]([C@H](CN2C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]3C[C@H](CN3C(=O)[C@@H](NC1=O)[C@@H](C)O)O)[C@@H]([C@H](C4=CC=C(C=C4)O)O)O)[C@@H](C)O)C)O)O)O	BGC0001371_MIBiGv4.0_echinocandin B
+CC1(CCC(OC1)(C)/C=C/C2=C(C3=C(C=C2)NC(=O)C(C3(C4=CC=C(C=C4)OC)O)OC)O)C	BGC0001372_MIBiGv4.0_penigequinolone A
+C[C@@H]1CC[C@@H]2[C@@H]1C[C@@]3([C@@H]4C[C@]2([C@]3(C(=C4)C(C)C)C(=O)O)C=O)CO[C@H]5[C@H]([C@@H]([C@@H]([C@H](O5)C)OC)O)O	BGC0001373_MIBiGv4.0_sordarin
+CC(=C)[C@@H]1[C@@H]([C@@H]2[C@@]3(O2)[C@@H](O1)CC[C@]4([C@]3(CC[C@@H]5[C@@]4(C6=C7[C@H]5OC([C@H]8C[C@H]9[C@@]8(C1=C7C(=CC(=C1CC9=C)Cl)N6)O)(C)C)C)O)C)O	BGC0001375_MIBiGv4.0_penitrem A
+[H][C@]12C[C@@]3([H])[C@@]1([H])C1=C(CC2=C)C=CC2=C1C1=C(N2)[C@@]2(C)[C@@]([H])(CC[C@@]4(O)[C@@]56O[C@@H]5[C@@H](O)[C@H](O[C@@]6([H])CC[C@]24C)C(C)=C)[C@]1([H])OC3(C)C	BGC0001375_MIBiGv4.0_penitrem B
+CC(=C)C1OC2CCC3(C)C4(C)C(CCC3(O)C2=CC1O)C1OC(C)(C)C2CC3C2C2=C(CC3=C)C(Cl)=CC3=C2C1=C4N3	BGC0001375_MIBiGv4.0_penitrem C
+[H][C@]12C[C@@]3([H])[C@@]1([H])C1=C4C(NC5=C4[C@@]([H])(OC3(C)C)[C@]3([H])CC[C@@]4(O)C6=C[C@@H](O)[C@H](O[C@@]6([H])CC[C@]4(C)[C@@]53C)C(C)=C)=CC=C1CC2=C	BGC0001375_MIBiGv4.0_penitrem D
+[H][C@]12C[C@@]3([H])[C@@]1(O)C1=C(CC2=C)C=CC2=C1C1=C(N2)[C@@]2(C)[C@@]([H])(CC[C@@]4(O)[C@@]56O[C@@H]5[C@@H](O)[C@H](O[C@@]6([H])CC[C@]24C)C(C)=C)[C@]1([H])OC3(C)C	BGC0001375_MIBiGv4.0_penitrem E
+[H][C@]12C[C@@]3([H])[C@@]1([H])C1=C(CC2=C)C(Cl)=CC2=C1C1=C(N2)[C@@]2(C)[C@@]([H])(CC[C@@]4(O)[C@@]56O[C@@H]5[C@@H](O)[C@H](O[C@@]6([H])CC[C@]24C)C(C)=C)[C@]1([H])OC3(C)C	BGC0001375_MIBiGv4.0_penitrem F
+CC\C=C\C1=C2CCC3=C(C(CC)C2(O)OC1=O)C(=O)OC3=O	BGC0001385_MIBiGv4.0_agnestadrides
+CCC[C@H]1CC2=C(C[C@H](CC3=C1C(=O)OC3=O)CC)C(=O)OC2=O	BGC0001385_MIBiGv4.0_byssochlamic acid
+CC1=CC(=C(C(=C1C=O)O)C/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)O	BGC0001390_MIBiGv4.0_LL-Z1272beta
+CCC1CCCCC(=O)C2=C(O1)C=C(C=C2CC(=O)OCC)O	BGC0001398_MIBiGv4.0_phomopsin A
+CCOC(=O)CC1=CC(=CC2=C1C(=O)CCCCCC(O2)C)O	BGC0001398_MIBiGv4.0_phomopsin B
+CC/C(=C(\C(=O)N/C(=C/C(=O)O)/C(=O)O)/NC(=O)[C@@H]1C=CCN1C(=O)[C@@H]2[C@@](OC3=C(C(=CC(=C3)[C@@H]([C@@H](C(=O)N[C@H](C(=O)N2)C(=C)C)N(C)C)O)Cl)O)(C)CC)/C	BGC0001398_MIBiGv4.0_phomopsin E
+[H][C@@](CC(C)C)(NC(=O)[C@]([H])(CCC(N)=O)NC(=O)[C@]([H])(CC(N)=O)NC(=O)C[C@H](O)CCCCCCCCC)C=O	BGC0001399_MIBiGv4.0_fellutamide B
+C[C@@H]1[C@]([C@H]([C@](O1)(C)/C=C(\C)/C=C/C=C/C=C/C2=C(C(=CC(=O)O2)OC)C)O)(C)O	BGC0001400_MIBiGv4.0_citreoviridin
+Cc1c(Br)c(O)cc(O)c1C(=O)OC1CC2(C)C3CC(C)(C)CC3C=C(CO)C12O	BGC0001401_MIBiGv4.0_6'-Bromomelleolide F
+[H][C@@]12CC(C)(C)C[C@]1([H])[C@@]1(C)C[C@@H](OC(=O)C3=C(O)C=C(O)C(Cl)=C3C)[C@@]1(O)C(CO)=C2	BGC0001401_MIBiGv4.0_6'-chloromelleolide F
+CC1=CC(=CC(=C1C(=O)O[C@@H]2C[C@]3([C@@]2(C(=C[C@H]4[C@@H]3CC(C4)(C)C)CO)O)C)O)O	BGC0001401_MIBiGv4.0_melleolide F
+CC1=CC2=C(C(=C1)OC)C(=O)C3(O2)C(=CC(=O)C=C3OC)C(=O)OC	BGC0001403_MIBiGv4.0_trypacidin
+C/C=C/C=C/C(=O)C1=CC(=C(C(=C1O)C)O)C	BGC0001404_MIBiGv4.0_sorbicillin
+[H][C@]12C(=O)O[C@H](C)[C@@H](C)[C@@]1(O)O[C@]1(C)C(=O)C(Cl)=C3C=C(OC=C3[C@]21[H])\C=C\[C@H](C)[C@@H](C)O	BGC0001405_MIBiGv4.0_11-epichaetomugilin A
+CC[C@@H](C)\C=C\C1=CC2=C(Cl)C(=O)[C@@]3(C)OC(=O)C(C(=O)[C@@H](C)[C@@H](C)O)=C3C2=CO1	BGC0001405_MIBiGv4.0_chaetoviridin E
+CC(CCC1)C(C1C(/C=C/C)O2)C3=C2C(C4=CC=CC=C4)=CN(O)C3=O	BGC0001445_MIBiGv4.0_leporin B
+CC(=O)CC(O)C1=C(O)C2=C(C=C1O)C(=O)C1=C(C(O)=CC(O)=C1)C2=O	BGC0001446_MIBiGv4.0_asparasone A
+C[C@H]1C=C[C@H]2CCCC[C@@H]2[C@H]1C(=O)[C@@H]1C(=O)N2CC[C@H]3C(=O)O[C@@H]1[C@]32O	BGC0001449_MIBiGv4.0_ucs1025a
+[H][C@@]12CCC(=C)[C@H](C[C@@]34O[C@@H]3C(=O)C(CO)=CC4=O)[C@@]1(C)CCCC2(C)C	BGC0001450_MIBiGv4.0_4'-oxomacrophorin A
+[H][C@@]12CCC(=C)[C@H](C[C@@]34O[C@@H]3C(=O)C(COC(=O)CC(C)(O)CC(O)=O)=CC4=O)[C@@]1(C)CCCC2(C)C	BGC0001450_MIBiGv4.0_4'-oxomacrophorin D
+C=C1CC[C@@]2([H])C(C)(C)CCC[C@]2(C)[C@H]1C[C@@]34[C@H](O4)C(C(COC(CC(O)=O)=O)=CC3=O)=O	BGC0001450_MIBiGv4.0_4'-oxomacrophorin E
+CC1(CCCC2(C1CCC(=C)C2CC34C(O3)C(C(=CC4=O)CO)O)C)C	BGC0001450_MIBiGv4.0_macrophorin A
+OC(CCCCNC(/C=C/CCCCCCCC/C=C/C[C@H](O)C)=O)=O	BGC0001466_MIBiGv4.0_wortmanamide
+CC(=C1CCC23C1CCC(C(C2)OC3)(C(=O)O)O)C	BGC0001475_MIBiGv4.0_aspterric acid
+C[C@H]1CCC([C@@]12CCC(=CC2)C)C(C)(C)O	BGC0001481_MIBiGv4.0_Œ±-acorenol
+C[C@@H]1CC2=CC(=CC(=C2C(=O)O1)O)O	BGC0001489_MIBiGv4.0_6-hydroxymellein
+[H][C@]12CC[C@@]3(C)[C@@]([H])(C=C(C)[C@@]4(C)C(=O)C(C)=C(O)[C@@]34C(=O)OC)[C@@]1(CC[C@H](OC(C)=O)C2(C)C)C=O	BGC0001508_MIBiGv4.0_andrastin A
+CCC(C)C1=CN=C(C(=O)N1O)CC(C)C	BGC0001516_MIBiGv4.0_aspergillic acid
+C1=CC=C(C=C1)C[C@@H](COC(=O)[C@H](CC2=CC=CC=C2)NC(=O)C3=CC=CC=C3)NC(=O)C4=CC=CC=C4	BGC0001517_MIBiGv4.0_asperphenamate
+CC(=O)OC[C@]1(CCC[C@]2([C@H]1[C@@H](CC3=C2COC3=O)OC(=O)C4=CC=CC=C4)COC(=O)C)C	BGC0001518_MIBiGv4.0_astellolide A
+CC1=CC[C@@](CC[C@H]2C(C)C)(C)[C@]2([H])C/C=C(C)\[C@@]3([H])/C([C@@H](C)CC3)=C/C1	BGC0001528_MIBiGv4.0_betaestacin I
+C[C@H]\1CC[C@@H]/2/C1=C/C/C(=C/C[C@@]3(CC[C@H]([C@H]3C/C=C2/C)C(C(=O)O)C(=O)O)C)/C	BGC0001528_MIBiGv4.0_betaestacin II
+COC1=C(C[C@H](C)O)C2=C3C(C[C@H](C)O)=C(OC)C(=O)C4=C3C3=C(OCOC5=C3C2=C(C(O)=C5)C1=O)C=C4O	BGC0001541_MIBiGv4.0_cercosporin
+C[C@H](CC1=C(C(=C2C(=O)C=C3C4=C5C(=CC(=O)C6=C(C(=C(C(=C56)C1=C42)C[C@@H](C)O)OC)O)OCO3)O)OC)O	BGC0001542_MIBiGv4.0_cercosporin
+COC1=C(C2=C(C(=C1)O)C(=O)C(=C(O2)C3=C(C(=CC=C3)Cl)O)OC)OC	BGC0001544_MIBiGv4.0_chlorflavonin
+C[C@H](O)C1=NC2=C(C=CC=C2)C(=O)N1	BGC0001545_MIBiGv4.0_chrysogine
+CC1=C[C@H]2[C@](C[C@H]3C4[C@]2(CC[C@@H](C4(C)C)OC(=O)C)C(=O)O3)([C@]5([C@@]1(C(=C(C5=O)C)O)C)C(=O)OC)C	BGC0001547_MIBiGv4.0_citreohybridonol
+CCC[C@H]1[C@H](C(=O)C[C@H](/C(=C/C)/CC2=C1C(=O)OC2=O)O)O	BGC0001557_MIBiGv4.0_cornexistin
+CON1C(=C)C2=C([C@H](O)[C@@H](O)[C@@H](O2)\C=C\C=C\C)C1=O	BGC0001563_MIBiGv4.0_curvupallide-B
+C/C=C/C[C@@H](C)[C@H]([C@H]1C(=O)N[C@H](C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C)[C@@H](C)O)O	BGC0001565_MIBiGv4.0_cyclosporin C
+C[C@]12[C@@H](CC(=O)C3=COC(=C31)C(=O)C4=C2C=CC5=C4CCC5=O)O	BGC0001571_MIBiGv4.0_demethoxyviridin
+CN1CC(CC2C1CC3=CNC4=CC=CC2=C34)C(=O)O	BGC0001573_MIBiGv4.0_dihydrolysergic acid
+COC12C3C(OC(C)=O)C4(COC(=O)C5=C(O)C=C(C)C(C3=O)=C45)C1C(=O)C1=COC(=O)C3=C1C2=C(C)C=C3O	BGC0001578_MIBiGv4.0_duclauxin
+[H][C@]12NC3=C(C=CC=C3)C1([C@H](O)C13SS[C@@](CO)(N(C)C1=O)C(=O)N23)[C@]12[C@H](O)C34SS[C@@](CO)(N(C)C3=O)C(=O)N4[C@@]1([H])NC1=C2C=CC=C1	BGC0001585_MIBiGv4.0_melinacidin IV
+C/C=C([C@H]1[C@@H](/C=C/C=C([C@@H](O)[C@H](CO)C)\C)[C@]2([H])CC=C(C)C[C@@]2([H])[C@H]3[C@]1(C)O3)\C	BGC0001600_MIBiGv4.0_fusarielin H
+CC12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@](C4)(C(=C)C5)O)C(=O)O)OC2=O)O	BGC0001604_MIBiGv4.0_gibberellin
+C\C=C(/C)C1=CC=C(C)C(=O)O1	BGC0001606_MIBiGv4.0_gibepyrone-A
+[H][C@@]12O[C@@]11C[C@@]34SSC(C5=CC=C(OC)C(OC)=C5O)[C@@]([H])(NC3=O)C(=O)N4O[C@@]1([H])[C@H](O)C=C2	BGC0001609_MIBiGv4.0_gliovirin
+C[C@@H](CC(=O)NC(=O)C1=COC(\C=C\CCCCCCCCC(O)=O)=CC1=O)C(O)=O	BGC0001616_MIBiGv4.0_himeic acid A
+CC(C[C@@H](C(=O)O)NC(=O)C1CC2=C([C@@H]3N1C(=O)[C@@H](N3)CC4=CNC5=CC=CC=C54)C(=O)C(=C(C2=O)O)OC)CO	BGC0001621_MIBiGv4.0_imizoquin A
+COC1=C(C(=O)C2=C(C1=O)[C@H]3N[C@H](C(=O)N3C(C2)C(=O)N[C@@H](CC(CO)CO)C(=O)O)CC4=CNC5=CC=CC=C54)O	BGC0001621_MIBiGv4.0_imizoquin B
+COC1=C(C2=C(CC(N3[C@@H]2N[C@H](C3=O)CC4=CNC5=CC=CC=C54)C(=O)N[C@@H](CC(CO)CO)C(=O)O)C(=C1O)O)O	BGC0001621_MIBiGv4.0_imizoquin C
+COC1=C(C2=C(CC(N3C2=NC(=C3O)C=C4C=NC5=CC=CC=C54)C(=O)N[C@@H](CC(CO)CO)C(=O)O)C(=C1O)O)O	BGC0001621_MIBiGv4.0_imizoquin D
+COC1=C(O)C=C2C[C@H](N(CC2=C1O)C(=O)[C@@H](N)CC1=CNC2=CC=CC=C12)C(=O)N[C@@H](CC(CO)CO)C(O)=O	BGC0001621_MIBiGv4.0_TMC-2A
+COC1=C(O)C=C2C[C@H](N(CC2=C1O)C(=O)[C@@H](N)CC1=CNC2=C1C=CC=C2)C(=O)N[C@@H](CC(C)CO)C(O)=O	BGC0001621_MIBiGv4.0_TMC-2B
+C1C2=CC=CC=C2C(=O)N1	BGC0001626_MIBiGv4.0_isoindolinone
+CCC(C)C1C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(CC2=CC=C(OC)C=C2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)O)C(=O)N(C)C(C(C)C)C(=O)N1C	BGC0001636_MIBiGv4.0_KK-1
+CC1(CC2C1CCC(C3C2(CC3)C)(C)O)C	BGC0001642_MIBiGv4.0_koraiol
+[H][C@@]12CC[C@H](C)[C@@]11[C@H](O)C[C@H](C)C1=C[C@@]1(C)CC[C@](C)(C[C@H](O)[C@H](O)[C@@](C)(O)CO)[C@@]21[H]	BGC0001659_MIBiGv4.0_mangicol A
+OC1OC(=O)C(=C1CC1=CC=CC=C1)C1=CC=CC=C1	BGC0001668_MIBiGv4.0_microperfuranone
+COC1=C(C\C=C(/C)CCC(O)=O)C(O)=C2C(=O)OCC2=C1C	BGC0001677_MIBiGv4.0_mycophenolic acid
+CC(=O)NC(CC1=CNC2=C1C=CC=C2)C(O)=O	BGC0001679_MIBiGv4.0_N-Acetyltryptophan
+C1=N[C@@H]([C@H]([C@@H]1O)O)CO	BGC0001691_MIBiGv4.0_nectrisine
+[H][C@]12CC3=C(NC4=C3C=CC=C4)[C@]1(C)[C@@]1(C)CC[C@H](O)[C@@](C)(CC\C=C(/C)C(O)=O)[C@]1([H])CC2	BGC0001706_MIBiGv4.0_nodulisporic acid F
+C[C@H]1CCC2[C@@]([C@]13C[C@]4([C@@H]([C@@H]5[C@H]6[C@](OC5=O)(O[C@@]4(O6)O3)C)C)C)(C=CC(=O)OC2(C)C)C=O	BGC0001708_MIBiGv4.0_novofumigatonin
+COC1=C(O)C(C2=CNC3=CC=CC=C23)=C(OC)C(CC=C(C)C)=C1C1=CNC2=C1C=CC=C2	BGC0001712_MIBiGv4.0_ochrindole A
+CO[C@@H]1[C@@]2(O)N(C(=O)\C3=C\C4=C(NC5=CC=CC=C45)C(C)(C)\C=C/N3C2=O)[C@]23[C@H](C)C(C)(C)N2C2=C(C=CC=C2)[C@]13O	BGC0001717_MIBiGv4.0_okaramine B
+CO[C@@H]1[C@@]2(O)N(C(=O)\C3=C\C4=C(NC5=C4C=CC=C5)C(C)(C)\C=C/N3C2=O)[C@]23[C@H](CO)C(C)(C)N2C2=C(C=CC=C2)[C@]13O	BGC0001718_MIBiGv4.0_okaramine D
+CC1=C(O)C(=O)C(=C(O)C1=O)C1=C(O)C(=O)C(C)=C(O)C1=O	BGC0001720_MIBiGv4.0_oosporein
+CC(=CCC/C(=C/CC/C(=C/COC1=C(C=C2C(=C1O)CNC2=O)OC)/C)/C)C	BGC0001722_MIBiGv4.0_aspernidine A
+[H][C@]12OC(=O)[C@]3(C)C[C@@]4([H])[C@H](C)C5=CC(=O)OC(C)(C)C5=C[C@]5([H])OC([C@H](C)O1)=C([C@]45C)[C@]23O	BGC0001729_MIBiGv4.0_paraherquonin
+COC(=O)C1=CC=CC=C1NC(=O)[C@H](CCS(C)=O)NC(=O)C1=NC2=C(N=C1)N(C)C(=O)N(C)C2=O	BGC0001734_MIBiGv4.0_penilumamide A
+[H][C@]12C[C@@H](C)CC[C@]1([H])[C@](C)([C@@H](\C=C\C=C\C)C(C)=C2)C(\O)=C1\C(=O)[C@@H](CO)N(C)C1=O	BGC0001738_MIBiGv4.0_phomasetin
+C[C@H]1CC[C@@]2([H])[C@](C=C[C@H]([C@@H](/C=C/[C@@H](O)C)[C@@H]3C(N([C@@H](C(O)=O)CO)C)=O)[C@]2(C)C3=O)([H])C1	BGC0001738_MIBiGv4.0_wakodecalines A
+C[C@H]1CC[C@@]2([H])[C@](C=C[C@H]([C@@H](/C=C/C(C)=O)[C@@H]3C(N([C@@H](C(O)=O)CO)C)=O)[C@]2(C)C3=O)([H])C1	BGC0001738_MIBiGv4.0_wakodecalines B
+CCN1C(=O)\C2=C3/CO[C@](OC)([C@H]3O)[C@@H](O)CCCCC[C@@]12C	BGC0001741_MIBiGv4.0_phyllostictine A
+CCN1C(=O)\C2=C3/CO[C@](OC)([C@H]3O)[C@@H](O)CCC[C@@]12C	BGC0001741_MIBiGv4.0_phyllostictine B
+C\C=C\[C@H](O)[C@@H](O)\C=C\C1=CC=CC(O)=C1C=O	BGC0001749_MIBiGv4.0_epipyriculol
+CC(C)C[C@@H]1NC(=O)[C@@H](NC(=O)[C@H](CC(C)C)OC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC2=CC=CC=C2)NC1=O)C(C)C	BGC0001768_MIBiGv4.0_sansalvamide
+[H][C@]12CC3=C(NC4=CC=C([C@H](O)C5OC5(C)C)C(CC=C(C)C)=C34)[C@]1(C)[C@@]1(C)CCC(=O)C(C)(C)[C@]1(O)CC2	BGC0001775_MIBiGv4.0_sespendole
+C[C@]12CC[C@]34C(=CC(=O)[C@H](O3)C(O4)(C)C)[C@@]1(CC[C@@H]5[C@@]2(C6=C(C5)C7=CC8=C(C=C7N6)C9=CC(OC([C@H]9[C@@H]8O)(C)C)(C)C)C)O	BGC0001776_MIBiGv4.0_shearinine D
+C1C[C@H]([C@@H]2[C@@H]([C@@H](CN2C1)O)O)O	BGC0001793_MIBiGv4.0_swainsonine
+C1C[C@H]([C@@H]2[C@@H]([C@@H](CN2C1)O)O)O	BGC0001794_MIBiGv4.0_swainsonine
+C[C@]12C(=O)N3[C@@H]4[C@@](C[C@@]3(C(=O)N1C)SS2)(C5=CC=CC=C5N4)C67[C@@H]([C@]89C(=O)N([C@](C(=O)N8[C@H]6NC1=CC=CC=C71)(SS9)C)C)O	BGC0001820_MIBiGv4.0_verticillin
+C[C@]12C(=O)N3[C@@H]4[C@](C[C@@]3(C(=O)N1C)SS2)(C5=CC=CC=C5N4)[C@]67C[C@]89C(=O)N([C@](C(=O)N8[C@H]6NC1=CC=CC=C71)(SS9)C)C	BGC0001821_MIBiGv4.0_verticillins
+[H][C@]12CO[C@]3([H])[C@@]1([H])C(O[C@]1(C)C\C=C\C(C)(C)C\C=C(C)\CC[C@@]31[H])=C(O)C2=O	BGC0001827_MIBiGv4.0_xenovulene A
+O[C@H]([C@@H](CO)O[C@@H](OCCCCCC(O)CCCC(O)C/C=C/CCCCCCCCCC(CC(/C(O)=C1C(N(C[C@H](O)C2)[C@]2([H])C/1=O)=O)C)C)[C@H]3O)[C@@H]3O	BGC0001857_MIBiGv4.0_burnettramic acid A
+CC(C1C(C2=C(C(=C3C(=O)C=C(C4=C5C(=CC(=O)C6=C(C(=C1C(=C56)C2=C43)OC)O)OC)OC)O)OC)C(C)O)O	BGC0001865_MIBiGv4.0_elsinochrome C
+COC1=C(C2=C(C(=C1)O)C(=C3C(=C2)C[C@H](OC3=O)CC(=O)OC)O)C4=C(C=C(C5=C4C=C6C[C@H](OC(=O)C6=C5O)CC(=O)OC)O)OC	BGC0001866_MIBiGv4.0_viriditoxin
+O/C(C)=C(C1=O)/C([C@](N1C2(C)C)([H])[C@@]([C@@]2([H])C3)([H])C4=CNC5=CC=CC3=C54)=O	BGC0001874_MIBiGv4.0_Œ±-cyclopiazonic acid
+CC1C/C=C/C2C(C(=C)C(C3C2(C(/C=C/C(C1)(C)O)OC(=O)C)C(=O)NC3CC4=CC=C(C=C4)OC)C)O	BGC0001881_MIBiGv4.0_pyrichalasin H
+CC1=C(C(=C2C(=C1)C(=O)C3=C(C2=O)C(=CC(=C3O)O)O)O)C(=O)O	BGC0001886_MIBiGv4.0_Clavorubin
+CC1=CC2=C(C(=C1C(=O)O)O)C(=O)C3=C(C2=O)C=C(C=C3O)O	BGC0001886_MIBiGv4.0_Endocrocin
+C[C@@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)O[C@@]6([C@H]([C@@H](CC(=O)C6=C5O)C)O)C(=O)OC)O)O[C@@]2([C@H]1O)C(=O)OC)O	BGC0001886_MIBiGv4.0_Secalonic acid A
+C[C@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)O[C@]6([C@H]([C@H](CC(=O)C6=C5O)C)O)C(=O)OC)O)O[C@]2([C@H]1O)C(=O)OC)O	BGC0001886_MIBiGv4.0_Secalonic acid B
+C[C@@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)O[C@]6([C@H]([C@H](CC(=O)C6=C5O)C)O)C(=O)OC)O)O[C@@]2([C@H]1O)C(=O)OC)O	BGC0001886_MIBiGv4.0_Secalonic acid C
+CC1=CC(=O)CC(C1(/C=C/C(=C\C(=O)O)/C)O)(C)C	BGC0001893_MIBiGv4.0_abscisic acid
+CC1=CC(=O)CC(C1(/C=C/C(=C\C(=O)O)/C)O)(C)C	BGC0001899_MIBiGv4.0_abscisic acid
+C1=C2C=C(C=C(C2=C(C=C1O)O)O)O	BGC0001906_MIBiGv4.0_1,3,6,8-tetrahydroxynaphthalene
+OC1=CC(O)=C2C(C=C(O)C(C(C)=O)=C2O)=C1	BGC0001906_MIBiGv4.0_2-acetyl-1,3,6,8-tetrahydroxynaphthalene
+C/C(=C/C=C/C1=CC=CC=C1)/C(=C\OC)/C(=O)OC	BGC0001909_MIBiGv4.0_strobilurin A
+C[C@@H]1CCC(=O)[C@@H]([C@@]1(C)/C=C/C(=C/CC2=C(C(=C(C(=C2O)Cl)C)C=O)O)/C)C	BGC0001923_MIBiGv4.0_ascochlorin
+CC1=C(C(=C(C(=C1Cl)O)C/C=C(\C)/CC/C=C(\C)/[C@@H]2CC(=O)C(O2)(C)C)O)C=O	BGC0001924_MIBiGv4.0_ascofuranone
+C[C@@H]1[C@@H](C2=C(C(=CC3=C2C[C@H]4[C@]5(C=CC(=O)C([C@@H]5C[C@@H]([C@@]4(O3)C)O)(C)C)C)O)C(=O)O1)O	BGC0001926_MIBiGv4.0_chrodrimanin B
+C/C(=C\CC[C@]1([C@@H]2CC[C@H]3CC4=C([C@@]3([C@]2(CC[C@@H]1O)C)C)NC5=CC=CC=C45)C)/C(=O)O	BGC0001936_MIBiGv4.0_nodulisporic acid F
+CC(NC(CC(OC(CNC1=O)=O)C(C)CCCCCCCCCCCC)=O)C(NC(CCC(O)=O)C(NC(CC(N)=O)C(NC(CO)C(NC(CO)C(NC(C(NC1C(O)C)=O)CO)=O)=O)=O)=O)=O	BGC0001966_MIBiGv4.0_BII-rafflesfungin
+CC1=C2CC3CC(C4(C(CC5=C(C=C(C(=O)C=C5O4)O)C)CC(/C=C/CC3(OC2=CC(=O)C(=C1)O)C)(C)C)C)O	BGC0001976_MIBiGv4.0_eupenifeldin
+CC1=C2CC3CC(C4(C(CC5=C(C=C(C(=O)C=C5O4)O)C)CC(/C=C/CC3(OC2=CC(=O)C(=C1)O)C)(C)C)C)O	BGC0001977_MIBiGv4.0_eupenifeldin
+C[C@H]1C/C=C\[C@H]2[C@@H](C(=C)[C@H]([C@@H]3[C@@]2([C@@H](/C=C\[C@](C1)(C)O)OC(=O)C)C(=O)N[C@H]3CC4=CC=C(C=C4)OC)C)O	BGC0001982_MIBiGv4.0_pyrichalasin H
+C[C@H]1CC(=O)C2=C(C3=C(C=CC(=C3O[C@]2([C@H]1OC(=O)C)C(=O)OC)C4=C(C5=C(C=C4C)O[C@]6([C@H](CCC(=O)C6=C5O)O)C(=O)OC)O)O)O	BGC0001988_MIBiGv4.0_neosartorin
+CC(C)CC1=C([N+](=C(C(=[N+]1O)O)CC(C)C)O)O.[Fe].[Fe]	BGC0001989_MIBiGv4.0_pulcherrimin
+CC(C)C1CCC2(CO2)C3C1C=C(COC3=O)C(=O)O	BGC0001995_MIBiGv4.0_heptelidic acid
+CCCC[C@H]1OC(C([C@@H](C(O)=O)C1)=C)=O	BGC0001996_MIBiGv4.0_oryzine A
+CCCCC1OC(C(C(C(O)=O)=C1)=C)=O	BGC0001996_MIBiGv4.0_oryzine B
+COC1=C(C2=C(C(=C1)O)C(=C3C(=C2)C[C@H](OC3=O)CC(=O)OC)O)C4=C(C=C(C5=C4C=C6C[C@H](OC(=O)C6=C5O)CC(=O)OC)O)OC	BGC0002030_MIBiGv4.0_viriditoxin
+[H][C@]12C[C@@H](C)CC[C@]1([H])C(C)=C[C@@H](C2\C=C\C)C(=O)C1=C(O)C(=CNC1=O)C1=CC=C(O)C=C1	BGC0002035_MIBiGv4.0_8-epi-ilicicolin H
+C/C=C/[C@@H]1[C@H]2C[C@H](CC[C@@H]2C(=C[C@H]1C(=O)C3=C(C(=CNC3=O)C4=CC=C(C=C4)O)O)C)C	BGC0002035_MIBiGv4.0_ilicicolin H
+[H][C@]12CC[C@H](C)C[C@]1([H])C(\C=C\C)=C(C=C2C)C(=O)C1=C(O)C(=CNC1=O)C1=CC=C(O)C=C1	BGC0002035_MIBiGv4.0_ilicicolin J
+CC1=CC2=C(C(=O)C3=C(C=CC=C3O)O2)[C@@H](C(=O)O)[C@H]1O	BGC0002062_MIBiGv4.0_agnestin A
+C[C@]12CC3=C(C(=O)C4=C(C=CC=C4O)O3)[C@@H](C(=O)O1)[C@H]2O	BGC0002062_MIBiGv4.0_agnestin B
+C[C@@]12[C@@H](O1)C(=O)C3=C(C4=C(C=CC(=C4O)C5=C(C6=C(C=C5)O[C@]7([C@H]([C@@]8([C@@H](O8)C(=O)C7=C6O)C)OC(=O)CC(=O)O)C)O)O[C@]3([C@H]2OC(=O)CC(=O)O)C)O	BGC0002063_MIBiGv4.0_cryptosporioptide A
+CCC(C(=O)O)C(=O)O[C@H]1[C@@]2([C@@H](O2)C(=O)C3=C(C4=C(C=CC(=C4O)C5=C(C6=C(C=C5)O[C@]7([C@H]([C@@]8([C@@H](O8)C(=O)C7=C6O)C)OC(=O)CC(=O)O)C)O)O[C@@]13C)O)C	BGC0002063_MIBiGv4.0_cryptosporioptide B
+CCC(C(=O)O)C(=O)O[C@H]1[C@@]2([C@@H](O2)C(=O)C3=C(C4=C(C=CC(=C4O)C5=C(C6=C(C=C5)O[C@]7([C@H]([C@@]8([C@@H](O8)C(=O)C7=C6O)C)OC(=O)C(CC)C(=O)O)C)O)O[C@@]13C)O)C	BGC0002063_MIBiGv4.0_cryptosporioptide C
+C/C(=C/C=C/C1=CC=CC=C1)/C(=C\OC)/C(=O)OC	BGC0002065_MIBiGv4.0_strobilurin A
+CC=CCC(C)C(=O)C1=C(O)C(OC)=C(OC)[NH]C1=O	BGC0002066_MIBiGv4.0_harzianopyridone
+CCC(C)CC(C)C(=O)C1=C(C(=C(NC1=O)OC)OC)O	BGC0002067_MIBiGv4.0_atpenin B
+C/C=C/[C@@H]1[C@H]2C[C@H](CC[C@@H]2C(=C[C@H]1C(=O)C3=C(C(=CNC3=O)C4=CC=C(C=C4)O)O)C)C	BGC0002093_MIBiGv4.0_ilicicolin H
+CC(C)C1C(=O)N(C(C(=O)OC(C(=O)N(C(C(=O)OC(C(=O)N(C(C(=O)O1)CC2=CC=CC=C2)C)C(C)C)CC3=CC=CC=C3)C)C(C)C)CC4=CC=CC=C4)C	BGC0002113_MIBiGv4.0_beauvericin
+O=C([C@H](C)[C@H](O)/C=C/C=C/C=C/C=C/C=C/[C@@]1(C)[C@@](CC[C@@H](C)C2)([H])[C@]2([H])C=C(C(OC)=O)[C@H]1/C(C)=C/C(O)=O)O	BGC0002139_MIBiGv4.0_burnettiene A
+O=C([C@H](C)[C@H](O)/C=C/C=C/C=C/C=C/C=C/[C@@]1(C)[C@@](CC[C@@H](C)C2)([H])[C@]2([H])C=C(C)[C@H]1/C(C)=C/C)O	BGC0002139_MIBiGv4.0_preburnettiene A
+O=C([C@H](C)[C@H](O)/C=C/C=C/C=C/C=C/C=C/[C@@]1(C)[C@@](CC[C@@H](C)C2)([H])[C@]2([H])C=C(C(O)=O)[C@H]1/C(C)=C/C(O)=O)O	BGC0002139_MIBiGv4.0_preburnettiene B
+O=C1[C@@H]2O[C@](C3=C1)(OC2(C)C)CC[C@]([C@@]3(O)[C@@H](OC([C@H](CC(C)C)N)=O)C4)(C)[C@@]([C@]4([H])C5)(C)C6=C5C7=CC=CC=C7N6	BGC0002149_MIBiGv4.0_14-(leucyloxy)paspalinine
+O=C1[C@@H]2O[C@](C3=C1)(OC2(C)C)CC[C@]([C@@]3(O)[C@@H](OC([C@H](CC(C)C)N(C)C)=O)C4)(C)[C@@]([C@]4([H])C5)(C)C6=C5C7=CC=CC=C7N6	BGC0002149_MIBiGv4.0_14-(N,N-dimethylleucyloxy)paspalinine
+C[C@]12CC[C@]34C(=CC(=O)[C@H](O3)C(O4)(C)C)[C@@]1([C@H](C[C@@H]5[C@@]2(C6=C(C5)C7=CC=CC=C7N6)C)O)O	BGC0002149_MIBiGv4.0_14-hydroxypaspalinine
+OC1C(O)C(C)OC(OC2=CC(OC)=CC3=CC(OC)=CC(OC)=C23)C1OC	BGC0002154_MIBiGv4.0_1-(alpha-l-(2-O-methyl)-6-deoxymannopyranosyloxy)-3,6,8-trimethoxynaphthalene
+C1=C2C=C(C=C(C2=C(C=C1O)O)O)O	BGC0002154_MIBiGv4.0_1,3,5,8-tetrahydroxynapthalene
+C/C=C(\C)C1=CC(OC)=C(C)C(=O)O1	BGC0002155_MIBiGv4.0_nectriapyrone
+COC(C=C(/C(C)=C([H])/C)O1)=C(C)C1=O	BGC0002155_MIBiGv4.0_nectriapyrone C_modified
+COC1=C(C)C(=O)OC(/C(C)=C/CO)=C1	BGC0002155_MIBiGv4.0_nectriapyrone D
+CN1[C@H](C(=O)N2[C@H](C1=O)C[C@@]3([C@H]2NC4=CC=CC=C43)[C@@]56C[C@H]7C(=O)N([C@H](C(=O)N7[C@@H]5NC8=CC=CC=C68)CC9=CC=CC=C9)C)CC1=CC=CC=C1	BGC0002157_MIBiGv4.0_(-)-ditryptophenaline
+CC[C@H](C)[C@H]1C(=C(C(=O)N1)C(=O)C)O	BGC0002158_MIBiGv4.0_tenuazonic acid
+CC1=CC(=O)C(=CC1=O)[C@]2(CC(=O)CC2(C)C)C	BGC0002159_MIBiGv4.0_lagopodin A
+CC1(C)CC(=O)C[C@]1(C)C1=C(O)C(=O)C=CC1=O	BGC0002159_MIBiGv4.0_lagopodin B
+C1[C@@H](CC(=O)C2=C(C=C(C=C21)O)O)O	BGC0002161_MIBiGv4.0_scytalone
+OC1=C2C(C=CC=C2O)=CC(O)=C1	BGC0002161_MIBiGv4.0_T3HN
+C/C1=C\CC/C(C)=C([H])\CC/C(C)=C/C[C@](CC[C@@H]2C(C)C)(C)[C@@]2([H])CC1	BGC0002162_MIBiGv4.0_compound 5
+CC(C)[C@H]1CC[C@@]2(C)[C@@]1([H])C[CH+]/C(C)=C/CC/C(C)=C/CC/C(C)=C/C2	BGC0002162_MIBiGv4.0_compound 6
+C/C1=C\C[C@]2([H])[C@@](CC[C@@H]2C(C)C)(C)C/C=C(C)/CC[C@]3([H])C(C)CC[C@@]13[H]	BGC0002162_MIBiGv4.0_compound 7a
+C/C1=C2CCC(C)[C@]([H])\2CC[C+](C)C3C[C@](CC[C@@H]4C(C)C)(C)[C@@]4([H])CC13	BGC0002162_MIBiGv4.0_compound 8
+C/C1=C2\CC[C@@H](C)[C@@H]2CC[C@H](C)[C@H]2C[C@@]3(C(=O)O)CC[C@H](C(C)C)[C@@H]3C[C@]12O	BGC0002162_MIBiGv4.0_sesterfisheric acid
+C/C1=C2\CC[C@@H](C)[C@@H]2CC[C@H](C)[C@H]2C[C@@]3(C)CC[C@H](C(C)C)[C@@H]3C[C@]12O	BGC0002162_MIBiGv4.0_sesterfisherol
+CC1=CN(C2=NC=NC3=C2[NH]C(=O)[NH]3)C=C1	BGC0002163_MIBiGv4.0_8-oxo-fusatin
+CC(C)=CCNC1=NC=NC2=C1[NH]C(=O)[NH]2	BGC0002163_MIBiGv4.0_8-oxo-isopentenyladenine
+CC1=CN(C2=NC=NC3=C2[NH]C=N3)C=C1	BGC0002163_MIBiGv4.0_fusatin
+O=C(O)C1=CN(C2=NC=NC3=C2[NH]C=N3)C=C1	BGC0002163_MIBiGv4.0_fusatinic acid
+CN1C(=CN2C=CC=C2C1=O)CCCN=C(N)N	BGC0002164_MIBiGv4.0_peramine
+CC[C@@H](C)[C@@H]1[C@]([C@H]2[C@@H](C[C@@](C[C@@H]2C(=O)[C@@]1(C)O)(C)O)C)(C)C(=O)/C=C\O	BGC0002165_MIBiGv4.0_betaenone C
+[H][C@]12[C@@](C[C@@H](C)C[C@H]2C)([H])[C@@H]3[C@@](C)(O3)[C@]([H])([C@H](C)CC)[C@]1(C)/C(O)=C/C([H])=O	BGC0002165_MIBiGv4.0_compound 3
+[H][C@]12[C@@](C[C@](C)(O)C[C@H]2C)([H])C([C@@](C)(O)[C@]([H])([C@H](C)CC)[C@]1(C)C(/C=C\O)=O)=O	BGC0002165_MIBiGv4.0_compound 4
+[H][C@@]1([C@@]23C)[C@@](C[C@](C)(O)C[C@H]1C)([H])C(O)(C(O)(C([C@H](C)CC)3C)C)/C(C2=O)=C/O	BGC0002165_MIBiGv4.0_compound 5
+[H][C@]12[C@@](C[C@](C)(O)C[C@H]2C)([H])C([C@@](C)(O)[C@]([H])([C@H](C)CC)[C@]1(C)C(CCO)=O)=O	BGC0002165_MIBiGv4.0_compound 6
+[H][C@]12[C@@](C[C@](C)(O)C[C@H]2C)([H])C([C@@](C)(O)[C@]([H])([C@H](CO)CC)[C@]1(C)C(/C=C\O)=O)=O	BGC0002165_MIBiGv4.0_compound 7
+[H][C@]12[C@@](C[C@](C)(O)C[C@H]2C)([H])C([C@@](C)(O)[C@]([H])([C@H](CO)CC)[C@]1(C)C(CCO)=O)=O	BGC0002165_MIBiGv4.0_compound 9
+[H][C@]12[C@@](C[C@@H](C)C[C@H]2C)([H])C=C(C)[C@]([H])([C@H](C)CC)[C@]1(C)C(CCO)=O	BGC0002165_MIBiGv4.0_dehydroprobetaenone I
+CC[C@@H](C)[C@H]1C(=C[C@H]2C[C@H](C[C@H]([C@@H]2[C@@]1(C)C(=O)CCO)C)C)C	BGC0002165_MIBiGv4.0_probetaenone I
+CC[C@@H](CO)[C@H]1[C@](C)(O)[C@@]2(O)/C(=C/O)C(=O)[C@]1(C)[C@@H]1[C@@H]2C[C@](C)(O)C[C@H]1C	BGC0002165_MIBiGv4.0_stemphyloxin II
+OC1=CC=C(C=C1)CC(O)CO	BGC0002167_MIBiGv4.0_3-(p-hydroxyphenyl)-1,2-propanediol
+C1=CC(=CC=C1CC2=CN=C(C=N2)CC3=CC=C(C=C3)O)O	BGC0002167_MIBiGv4.0_actinopolymorphol C
+OC1=CC=C(CC2=NC=C(CC3=CC=C(O)C=C3)N=C2S(=O)([O-])=O)C=C1	BGC0002167_MIBiGv4.0_C-3 sulfonylated derivative
+OC1=CC=C(C[C@]2(O)CN[C@@H](CC3=CC=C(O)C=C3)CO2)C=C1	BGC0002167_MIBiGv4.0_morpholine containing hemiacetal piperazine compound
+OC1=CC=C(CC2=[N+]([O-])C=C(CC3=CC=C(O)C=C3)[N+]([O-])=C2)C=C1	BGC0002167_MIBiGv4.0_N,N-dioxide containing derivate
+OC1=CC=C(CC2=CN=C(CC3=CC=C(OS(=O)([O-])=O)C=C3)C=N2)C=C1	BGC0002167_MIBiGv4.0_O-sulfonated actinopolymorphol C
+OC1=CC=C(C[C@H]2CN[C@@H](CC3=CC=C(O)C=C3)CN2)C=C1	BGC0002167_MIBiGv4.0_piperazine compound 1
+OC1=CC=C(C[C@@H]2CN[C@@H](CC3=CC=C(O)C=C3)CN2)C=C1	BGC0002167_MIBiGv4.0_piperazine compound 2
+CC(/C=C/C=C(\C)[C@H](O)[C@H](C)C(=O)O[C@H]1C[C@H](C)C=C2C=C[C@@]3(C)O[C@@H](O)CC(=O)[C@]3(C)[C@H]21)=C\C=C\C(=O)O	BGC0002168_MIBiGv4.0_calbistrin A
+C[C@@H]1C[C@@H]([C@H]2C(=C1)C=C[C@@]([C@]2(C)C(=O)CCO)(C)O)OC(=O)C(C)C(/C(=C/C=C/C(=C/C=C/C(=O)O)/C)/C)O	BGC0002168_MIBiGv4.0_calbistrin C
+C[C@H]1C[C@@H]([C@H]2C(=C1)C=C[C@@]([C@]2(C)C(=O)CCO)(C)O)O	BGC0002168_MIBiGv4.0_decumbenone a
+C[C@@H]1C[C@@H]2C=C[C@@]([C@]([C@H]2[C@H](C1)O)(C)C(=O)CCO)(C)O	BGC0002168_MIBiGv4.0_decumbenone B
+C[C@H]1C[C@@H]([C@@H]2[C@@]([C@](C=C[C@]2(C1)O)(C)O)(C)C(=O)CCO)O	BGC0002168_MIBiGv4.0_decumbenone c
+OC(/C=C/C=C(\C=C\C=C([C@@H](O)[C@H](C(O)=O)C)/C)C)=O	BGC0002168_MIBiGv4.0_dioic acid moiety
+C/C=C(\C=C(C)\C=C\C=C\C=C(/C)C(=O)[C@H]1C[C@H](CO)NC1=O)C(=O)OC	BGC0002169_MIBiGv4.0_acurin A
+C[C@H]([C@@H](/C=C/C=C/C=C/C=C/C(C)=C/C(C)=C/CC)OC(C1)=O)C1=O	BGC0002170_MIBiGv4.0_4-methyl-5-dimethyltetradecahexaene-Œ≤-ketolactone
+C\C=C\C=C\C=C(/C)C1OC(=O)CC(=O)C1C	BGC0002170_MIBiGv4.0_4-methyl-5-methylheptatriene-Œ≤-ketolactone
+CC(C)C[C@@H](C1=CC(=CC(=O)O1)OC)NC(=O)C	BGC0002171_MIBiGv4.0_campyrone B
+CC(=O)N[C@@H](CC1=CC=CC=C1)C2=CC(=CC(=O)O2)OC	BGC0002171_MIBiGv4.0_pyrophen
+CC[C@H](C)[C@@H](CC(=O)[C@H](C)NC(=O)CCCN)C(=O)N[C@H](CO)C(=O)N[C@@H](C(=O)N[C@H](CO)C(=O)N[C@H](CC(C)C)C(=O)N[C@H](CO)CC(C)C)C(C)C	BGC0002172_MIBiGv4.0_fusaoctaxin A
+C[C@]12CC[C@H](C(C)(C)O)[C@@H]1CC[C@@]3([C@@H]2CC[C@@H]4[C@]5(CC[C@@H](C(C)([C@@H]5CC[C@]43C)C)O)C)C	BGC0002173_MIBiGv4.0_21-Œ≤-H-hopane-3beta, 22-diol
+C[C@]12CC[C@H](C(C)(C)C(O)=O)[C@@H]1CC[C@@]3([C@@H]2CC[C@@H]4[C@]5(CC[C@@H]([C@](CO)([C@@H]5CC[C@]43C)C)O)C)C	BGC0002173_MIBiGv4.0_compound 3
+C[C@@](O)(C(=O)O)[C@H]1CC[C@@]2(C)[C@H]1CC[C@]1(C)[C@@H]2CC[C@@H]2[C@@]3(C)CC[C@H](O)[C@](C)(CO[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H]3CC[C@]21C	BGC0002173_MIBiGv4.0_fumihopaside A
+CC1(O)CC(=O)C2=C(O)C3=C(O)C=C(O)C=C3C=C2O1	BGC0002175_MIBiGv4.0_YWA1
+CC1(CCCC2(C3C1[C@@H](C2(CC3)C)O)C)C	BGC0002176_MIBiGv4.0_(+)-juniperol(longiborneol)
+CC1=C[C@@H]2[C@]([C@@H](C1=O)O)([C@]3(C[C@H]([C@H]([C@@]34CO4)O2)O)C)COC(=O)C	BGC0002176_MIBiGv4.0_15-acetyldeoxynivalenol
+CC1(C)CCCC2(C)C3C(O)CC2(C)C(O)C31	BGC0002176_MIBiGv4.0_culmorin
+CC1=CC(=C2C(=CC3=C(C(=O)C=C(C3=C2O)O)C4=C5C=C6C(=C(C=C(O6)C)O)C(=C5C(=CC4=O)O)O)O1)O	BGC0002177_MIBiGv4.0_ustilaginoidin A
+C[C@H]1[C@@H](OC2=C(C1=O)C(=C3C(=C2)C(=C(C=C3O)O)C4=C(C=C(C5=C(C6=C(C=C54)O[C@H]([C@@H](C6=O)C)C)O)O)O)O)C	BGC0002177_MIBiGv4.0_ustilaginoidin D
+CC1CC(=O)C2=C(O1)C=C3C(=C2O)C(=CC(=C3C4=C(C=C(C5=C(C6=C(C=C54)OC(C(C6=O)C)C)O)O)O)O)O	BGC0002177_MIBiGv4.0_ustilaginoidin E
+CC1CC(=O)C2=C(O1)C=C3C(=C2O)C(=CC(=C3C4=C(C=C(C5=C(C6=C(C=C54)OC(CC6=O)C)O)O)O)O)O	BGC0002177_MIBiGv4.0_ustilaginoidin F
+CC1CC(=O)C2=C(O1)C=C3C(=C2O)C(=CC(=C3C4=C5C=C6C(=C(C=C(O6)C)O)C(=C5C(=CC4=O)O)O)O)O	BGC0002177_MIBiGv4.0_ustilaginoidin G
+C[C@@H]1[C@H](OC2=C(C1=O)C(=C3C(=C2)C(=C(C=C3O)O)C4=C5C=C6C(=C(C(=C(O6)C)C)O)C(=C5C(=CC4=O)O)O)O)C	BGC0002177_MIBiGv4.0_ustilaginoidin M
+C[C@@H]1[C@H](OC2=C(C1=O)C(=C3C(=C2)C(=C(C=C3O)O)C4=C5C=C6C(=C(C=C(O6)C)O)C(=C5C(=CC4=O)O)O)O)C	BGC0002177_MIBiGv4.0_ustilaginoidin N
+CC1CC(=O)C2=C(O1)C=C3C(=C2O)C(=CC(=C3C4=C5C=C6C(=C(C(=C(O6)C)C)O)C(=C5C(=CC4=O)O)O)O)O	BGC0002177_MIBiGv4.0_ustilaginoidin O
+CCCCCCCC[C@H]1C(=O)N[C@H]2CSSC[C@@H](C(=O)OC(=O)CC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CC(C(=O)N)O)CO)CC(C)C)N)NC2=O	BGC0002178_MIBiGv4.0_gramillin A
+CCCCCCCC[C@H]1C(=O)N[C@H]2CSSC[C@@H](C(=O)OC(=O)CCC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CC(C(=O)N)O)CO)CC(C)C)N)NC2=O	BGC0002178_MIBiGv4.0_gramillin B
+CC(C)C[C@@H]1NC(=O)[C@H](C)N(C)C(=O)CNC(=O)/C(=C/C2=CC=CC=C2)N(C)C1=O	BGC0002179_MIBiGv4.0_tentoxin
+C[C@@H]1[C@H](O1)[C@H]2[C@H](C=CC(=O)O2)OC(=O)C	BGC0002180_MIBiGv4.0_(+)-asperlin
+OC(/C=C\C=C/C=C/C)=O	BGC0002180_MIBiGv4.0_(2Z,4Z,6E)-octa-2,4,6-trienoic acid
+C=C[C@]1(C)C[C@@H](OC(=O)CO)[C@]2(C)[C@@H](C)CC[C@]3(CCC(=O)[C@H]32)[C@@H](C)[C@@H]1O	BGC0002181_MIBiGv4.0_pleuromutilin
+C[C@]12[C@@H]([C@@H](C(=O)C3=COC(=C31)C(=O)C4=C2C=CC5=C4CCC5=O)OC)O	BGC0002182_MIBiGv4.0_viridin
+C1C(C(=O)OCC(C(=O)OCC(C(=O)O1)NC(=O)C2=C(C(=CC=C2)O)O)NC(=O)C3=C(C(=CC=C3)O)O)NC(=O)C4=C(C(=CC=C4)O)O	BGC0002183_MIBiGv4.0_enterobactin
+C[C@@H](CCC=C(C)C)[C@H]1CC[C@]2([C@H]1C/C=C(\[C@@H]3[C@H](C2)[C@](CC3=O)(C)O)/C=O)C	BGC0002184_MIBiGv4.0_ophiobolin C
+CC(C)CCC[C@H](C)[C@H]1CC[C@]2(C)C[C@H]3[C@H](C(=O)C[C@@]3(C)O)[C@@H](C=O)CC[C@@H]12	BGC0002184_MIBiGv4.0_zizanin-A
+CC/C=C/C=C/C1(C(=O)C(=C(O1)OC)C(=O)/C=C/C)C	BGC0002185_MIBiGv4.0_gregatin A
+CCCCCCC(C)CC/C=C(\C)/C=C/C(=O)C(C)CCC1C(C(=O)NC(=C)C(=O)NCC(C(=O)NC(C(=O)O1)CCC(=O)N)C)C	BGC0002186_MIBiGv4.0_fusaristatin A
+C[C@@H]1C/C=C/CC/C=C/C(=O)CC2=C(C(=O)O1)C(O)=CC(O)=C2	BGC0002187_MIBiGv4.0_monocillin II
+C[C@@H]1C/C=C/CCCCC(=O)CC2=CC(=CC(=C2C(=O)O1)O)O	BGC0002187_MIBiGv4.0_monocillin IV
+C[C@@H]1C[C@H]2O[C@@H]2CCCCC(=O)CC2=C(C(=O)O1)C(O)=CC(O)=C2	BGC0002187_MIBiGv4.0_monocillin V
+C[C@H]1OC(=O)C2=C(C=C(O)C=C2O)CC(=O)CCCC/C=C/[C@@H]1O	BGC0002187_MIBiGv4.0_monocillin VI
+C[C@@H]1CC=CC[C@H](O)C=CC2=C(C(=O)O1)C(O)=CC(O)=C2	BGC0002187_MIBiGv4.0_monocillin VII
+CC1C/C=C/CC/C=C/C(=O)CC2=C(C(=O)O1)C(O)=CC(O)=C2Cl	BGC0002187_MIBiGv4.0_monorden D
+C[C@@H]1C[C@H](/C=C/CCCC(=O)CC2=C(C(=CC(=C2Cl)O)O)C(=O)O1)O	BGC0002187_MIBiGv4.0_pochonin M
+CCCCCCCCCC[C@@H](C)[C@@H]1CC(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@H](CC2=CC=C(O)C=C2)C(=O)N[C@@H](C(C)C)C(=O)O1	BGC0002188_MIBiGv4.0_W493 A
+CCCCCCCCCC[C@@H](C)[C@@H]1CC(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@H](CC2=CC=C(O)C=C2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O1	BGC0002188_MIBiGv4.0_W493 B
+CCCCCCC(C)CC/C=C(\C)/C=C/C(=O)C(C)CCC1C(C(=O)NC(=C)C(=O)NCC(C(=O)NC(C(=O)O1)CCC(=O)N)C)C	BGC0002189_MIBiGv4.0_fusaristatin A
+C/C=C/CCC(=O)C1=CC(=C(C(=C1O)C)O)C	BGC0002190_MIBiGv4.0_2'3'-dihydrosorbicillin
+C/C=C/CCC(C1=C[C@](C)(O)C(C(C)=C1O)=O)=O	BGC0002190_MIBiGv4.0_2'3'-dihydrosorbicillinol
+C/C=C/C=C/C(=C/1\[C@@H]2[C@@H]3[C@](C(=C(C(=O)[C@@]3([C@](C1=O)(C(=O)[C@@]2(C)O)C)C(=O)/C=C/C=C/C)C)O)(C)O)/O	BGC0002190_MIBiGv4.0_bisorbicillinol
+C/C=C/C=C/C(=C/1\[C@@H]2[C@@]3(C(=O)/C(=C(\C=C\C=C\C)/O)/C(=O)[C@]([C@]3(O[C@@]2(C(=O)C(=C1O)C)C)O)(C)O)C)/O	BGC0002190_MIBiGv4.0_bisvertinolone (spelled bisvertinolon in paper)
+C/C=C/CCC(=O)C1=C([C@]2([C@H]3/C(=C(\C=C\C=C\C)/O)/C(=C(C(=O)[C@]3(O[C@]2([C@@](C1=O)(C)O)O)C)C)O)C)O	BGC0002190_MIBiGv4.0_dihydrobisvertinolone
+C/C=C/C=C/C(=C\1/C(=C(C(=O)[C@@](C1=O)(C)O)C)O)/O	BGC0002190_MIBiGv4.0_oxosorbicillinol
+C/C=C/C=C/C(=O)C1=CC(=C(C(=C1O)C)O)C	BGC0002190_MIBiGv4.0_sorbicillin
+C/C=C/C=C/C(=O)C1=C[C@](C(=O)C(=C1O)C)(C)O	BGC0002190_MIBiGv4.0_sorbicillinol
+C/C=C/CCC(=O)C1=C(C(=C([C@@]2([C@H]1[C@@]3(C(=C(C(=O)[C@]([C@@]3(O2)O)(C)O)C(=O)CC/C=C/C)O)C)C)O)C)O	BGC0002190_MIBiGv4.0_tetrahydrobisvertinolone
+CC1=CC=C(OC1=O)/C(=C/C(=O)O)/C	BGC0002191_MIBiGv4.0_gibepyrone D
+C/C(=C\C(=O)O)/C1=CC=C(C(=O)O1)CO	BGC0002191_MIBiGv4.0_prolipyrone B
+CC1CC(C2=C(C1)C=CC(=C2/C=C/C(CC(CC(=O)O)O)O)C)OC(=O)C	BGC0002192_MIBiGv4.0_FR901512
+C1=CC=C(C=C1)CC2(OC(=CC3=CC=CC=C3)C(=O)O2)C(=O)O	BGC0002193_MIBiGv4.0_phenguignardic acid
+CCC(C)CC(C)/C=C(/C=C(/C)\C=C\C=C\C=C\C=C\C=C\C1=CC(=C(C(=O)O1)[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O)O)\C(=O)O	BGC0002194_MIBiGv4.0_epipyrone A
+O=C1C=C(CO)OC=C1O	BGC0002195_MIBiGv4.0_kojic acid
+CC[C@H]1CC/C(=C\2/C(=O)[C@H](OC2=O)C)/O1	BGC0002197_MIBiGv4.0_terrestric acid
+NC1=CC=CC=C1C(=O)N[C@H]1CC(=O)C2=CC=CC=C2NC1=O	BGC0002198_MIBiGv4.0_nanangelenin B
+NC1=C(C=CC=C1)C(=O)NC1CC(=O)C2=CC=CC=C2NC1=O	BGC0002198_MIBiGv4.0_terreazepine
+CC1(C)CC[C@@H](O)[C@@]2(C)[C@H]1[C@H](O)C=C1COC(=O)[C@@]12O	BGC0002199_MIBiGv4.0_nanangelenin A
+COC1=CC(OC(/C=C/C=C/C=C/[C@H]2[C@H](OC(C)=O)[C@@](O[C@@H]3CC)(C)[C@H](OC(C)=O)[C@@]3(C)O2)=C1C)=O	BGC0002200_MIBiGv4.0_aurovertin A
+COC1=CC(OC(/C=C/C=C/C=C/[C@H]2[C@H](O)[C@@](O[C@@H]3[C@@H](O)C)(C)[C@H](OC(C)=O)[C@@]3(C)O2)=C1C)=O	BGC0002200_MIBiGv4.0_aurovertin D
+CC[C@@H]1O[C@@]2(C)[C@@H](O)[C@H](C=CC=CC=CC3=C(C)C(OC)=CC(=O)O3)O[C@]1(C)[C@H]2O	BGC0002200_MIBiGv4.0_aurovertin E
+COC1=CC(OC(/C=C/C=C/C=C/[C@H]2[C@H](O)[C@@](O[C@@H]3CC)(C)[C@H](OC(C)=O)[C@@]3(C)O2)=C1)=O	BGC0002200_MIBiGv4.0_aurovertin J
+COC1=CC(OC(/C=C/C=C/C=C/[C@H]2[C@@H]([C@@](C)([C@@H]([C@]3(O2)C)OC(CC)=O)O[C@@H]3CC)O)=C1C)=O	BGC0002200_MIBiGv4.0_aurovertin M
+CCCCCC[C@H]([C@@H]1CC(N[C@@H](C(C)C)C(N[C@@H](CC2=CC=CC=C2)C(N[C@H]([C@@H](CC)C)C(O1)=O)=O)=O)=O)C	BGC0002203_MIBiGv4.0_beauverolide Ba
+CCCCCC[C@H]([C@@H]1CC(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC3=CC=CC=C3)C(N[C@H]([C@@H](CC)C)C(O1)=O)=O)=O)=O)C	BGC0002203_MIBiGv4.0_beauverolide Ca
+CCCCCC[C@H]([C@@H]1CC(N[C@@H](CC2=CNC3=CC=CC=C32)C(N[C@@H](CC4=CC=CC=C4)C(N[C@H]([C@@H](CC)C)C(O1)=O)=O)=O)=O)C	BGC0002203_MIBiGv4.0_beauverolide Ka
+C[C@@H]1[C@@H]2[C@H](NC(=O)[C@]23[C@@H](C=C1C)[C@H]4[C@@H](CC3=O)[C@@H]5[C@H](CC[C@]4(O5)C)O)CC(C)C	BGC0002204_MIBiGv4.0_aspergillin PZ
+C[C@H]1[C@H]2[C@@H](NC(=O)[C@@]23[C@@H](/C=C(/CC[C@@H]([C@H](/C=C/C3=O)O)O)\C)C=C1C)CC(C)C	BGC0002204_MIBiGv4.0_aspochalasin C
+CC1=CC2/C=C(\C)CCC(O)C(O)C(O)CC(=O)C23C(=O)NC(CC(C)C)C3C1C	BGC0002204_MIBiGv4.0_aspochalasin E
+C[C@H]1[C@H]2[C@@H](NC(=O)[C@@]23[C@@H](/C=C(\CCC(=O)[C@H](CCC3=O)O)/C)C=C1C)CC(C)C	BGC0002204_MIBiGv4.0_aspochalasin M
+CO[C@@H]1CC(=O)[C@@]23C(=O)N[C@@H](CC(C)C)[C@@H]2[C@H](C)C(C)=C[C@@H]3/C=C(\C)CC[C@@H](O)[C@H]1O	BGC0002204_MIBiGv4.0_flavichalasine F
+CC1=C[C@@H]2/C=C(\C)CC[C@@H](O)[C@@H](O)CCC(=O)[C@]23C(=O)N[C@@H](CC(C)C)[C@@H]3[C@@H]1C	BGC0002204_MIBiGv4.0_flavichalasine G
+C[C@H]1[C@H]2[C@@H](NC(=O)[C@@]23[C@@H](/C=C(\CCCC(/C=C\C3=O)O)/C)C=C1C)CC(C)C	BGC0002204_MIBiGv4.0_TMC-169
+CC1=C[C@H]2C=C(C)[C@@H](C)[C@H]3[C@H](CC(C)C)NC(=O)[C@@]23C(=O)CCC(=O)C[C@@H](CO)C1	BGC0002205_MIBiGv4.0_phomacin D
+CC1=C[C@H]2C=C(C)[C@@H](C)[C@H]3[C@H](CC(C)C)NC(=O)[C@@]23C(=O)CC(=O)C(=O)C[C@@H](CO)C1	BGC0002205_MIBiGv4.0_phomacin E
+O=C1C(C)(OC(CC(C)O)=O)C(C(C2OC(/C=C/C=C/C)=C3)(O2)C3=C1)=O	BGC0002206_MIBiGv4.0_compound 1
+O=C1C(C)(OC(CC(C)O)=O)C(C(C(O)OC(/C=C/C=C/C)=C2)(O)C2=C1)=O	BGC0002206_MIBiGv4.0_compound 4
+C/C=C/C=C/C1=CC2=C(CO1)C(=O)[C@]([C@@H](C2)O)(C)O	BGC0002206_MIBiGv4.0_harziphilone
+O[C@@H]1[C@@](C)(O)C(C(COC(/C=C/C=C/C)=C2)=C2C1)=O	BGC0002206_MIBiGv4.0_isoharziphilone-1
+O=C1[C@](C)(O)[C@@H](O)C(COC(/C=C/C=C/C)=C2)C2=C1	BGC0002206_MIBiGv4.0_isoharziphilone-2
+C/C=C/C=C/C1=CC2=CC(=O)[C@](C(=O)C2=CO1)(C)OC(=O)[C@H](C)O	BGC0002206_MIBiGv4.0_t22azaphilone
+CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O	BGC0002207_MIBiGv4.0_psilocybin
+CC[C@H](C)C1=C2N=C3OC=CC=C[C@]3(OC)C(=O)N2[C@@H](CC2=CC=CC=C2)C(=O)N1	BGC0002208_MIBiGv4.0_oxepinamide F
+COC1=C(CO)C(O)=C(C=O)C(CCO)=C1	BGC0002209_MIBiGv4.0_ustethylin A
+CCC/C=C/C1=C(OC)C(=O)C2=C(O1)[C@@H](O)NC2=O	BGC0002210_MIBiGv4.0_pyranoviolin A
+CC1=CC(=CC(=C1C(=O)O)O)O	BGC0002212_MIBiGv4.0_Orsellinic acid
+O=C(OC1=O)C2=C1[C@@]([C@H](O)CCCC)([H])CC(C(OC3=O)=O)=C3[C@H](CCCC)C2	BGC0002222_MIBiGv4.0_zopfiellin
+O=C1OC(C2=C1C[C@@H](CCCC)CC(C(OC3=O)=O)=C3C[C@H]2CCCCC)=O	BGC0002223_MIBiGv4.0_deoxyscytalidin
+O=C1OC(C2=C1C[C@](CCCC)(O)CC(C(OC3=O)=O)=C3C[C@H]2CCCCC)=O	BGC0002223_MIBiGv4.0_scytalidin
+CCCCC[C@@H]1CC2=C(C(=O)OC2=O)[C@H](O)[C@H](CCCC)CC2=C1C(=O)OC2=O	BGC0002224_MIBiGv4.0_5-hydroxy-deoxyscytalidin
+CCCCC[C@@H]1CC2=C(C(=O)OC2=O)[C@H](O)[C@H](CCCC)CC2=C1C(=O)OC2=O	BGC0002224_MIBiGv4.0_5-hydroxy-deoxyscytalidin
+O=C(OC1=O)C2=C1C[C@](CCCC)([H])CC3=C(C(OC3=O)=O)C[C@H]2CCCCC	BGC0002224_MIBiGv4.0_deoxyscytalidin
+O=C(OC1=O)C2=C1C[C@@H](CCCC)C(C(OC3=O)=O)=C3CC2CCCCC	BGC0002224_MIBiGv4.0_deoxyzopfiellin
+CCCC[C@@H](O)[C@]1([H])CC2=C(C(OC2=O)=O)[C@H](CCCC)CC3=C1C(OC3=O)=O	BGC0002224_MIBiGv4.0_zopfiellin
+CCC1=CC(=O)[C@@]2(C1=CC=C(C[C@@H]2OC(=O)[C@@H]3CCCN3)C)C	BGC0002225_MIBiGv4.0_aculene A
+CCC1=CC(=O)[C@@]2([C@@H]1CC=C(C[C@@H]2OC(=O)[C@@H]3CCCN3)C)C	BGC0002225_MIBiGv4.0_aculene B
+CCC1=CC(=O)[C@@]2(C1=CC=C(C[C@@H]2O)C)C	BGC0002225_MIBiGv4.0_aculene C
+CCC1=CC(=O)[C@@]2([C@@H]1CC=C(C[C@@H]2O)C)C	BGC0002225_MIBiGv4.0_aculene D
+C/C(=C\1/CC[C@@]2([C@@H]1CC=C(C[C@@H]2O)CO)C)/C(=O)O	BGC0002225_MIBiGv4.0_asperaculane A
+CCC1=CC(=O)[C@@]2([C@@H]1CC=C(C[C@@H]2O)CO)C	BGC0002225_MIBiGv4.0_asperaculane B
+[H][C@]12NC3=CC=CC=C3[C@@]1(C(C)(C)C=C)CC4C2C([C@@H](CC5=CC=CC=C5)OC4=O)=O	BGC0002226_MIBiGv4.0_acu-dioxomorpholine A
+C=CC(C)(C)[C@]12C[C@@H]3C(=O)O[C@H](CC4=CC=CC=C4)C(=O)N3[C@H]1N(C)C1=CC=CC=C12	BGC0002226_MIBiGv4.0_acu-dioxomorpholine B
+O[C@H](CCCCCCCC/C=C/CCC[C@H]1C)C/C=C/[C@@H](O)C/C=C/C(O1)=O	BGC0002227_MIBiGv4.0_AKML A
+O[C@H](CCCCCCCC/C=C/CCC[C@H]1C)[C@H](O)[C@@H](O2)[C@H]2[C@@H](O)C/C=C/C(O1)=O	BGC0002227_MIBiGv4.0_AKML B
+O[C@H](CCCCCCCC/C=C/CCC[C@H]1C)C/C=C/[C@@H](OP(OCCN)(O)=O)C/C=C/C(O1)=O	BGC0002227_MIBiGv4.0_AKML C
+C[C@@H]1CCC/C=C/CCCCCCCC[C@@H](O)[C@H](O)[C@H]2O[C@H]2[C@@H](OP(=O)(O)OCCN)C/C=C/C(=O)O1	BGC0002227_MIBiGv4.0_AKML D
+O[C@@H](C/C=C/C(O1)=O)/C=C/CCCCCCCCCCCCCCC[C@H]1C	BGC0002228_MIBiGv4.0_CIML A
+O[C@@H](C/C=C/C(O1)=O)[C@@H]2[C@H](O2)[C@H](O)CCCCCCCCCCCCCC[C@H]1C	BGC0002228_MIBiGv4.0_CIML B
+O=C(O1)/C=C/C[C@H](OP(OCC[N+](C)(C)C)(O)=O)/C=C/CCCCCCCCCCCCCCC[C@H]1C	BGC0002228_MIBiGv4.0_CIML C
+C[C@@H]1CCCCCCCCCCCC[C@H](O)[C@H]2O[C@@H]2[C@@H](OP(=O)(O)OCC[N+](C)(C)C)C=CC=C(O)O1	BGC0002228_MIBiGv4.0_CIML D
+CCC1=CC(=O)[C@@]2(C1=CC=C(C[C@@H]2OC(=O)C3CCCN3C(=O)CC4COC(CC4=O)O)C)C	BGC0002229_MIBiGv4.0_aculin A
+C/C=C/C[C@H](C)C[C@H](C)C(=O)C1=C(O)C(C2=CC=C(O)C=C2)=CNC1=O	BGC0002230_MIBiGv4.0_tolypyridone C
+CCCCC1=CN=C(C(=O)O)C=C1	BGC0002231_MIBiGv4.0_fusaric acid
+C[C@@]1(C(=O)N2[C@H](C(=O)N3CCC[C@H]3[C@@]2(O1)O)CC4=CC=CC=C4)NC(=O)[C@H]5CN([C@@H]6CC7=CNC8=CC=CC(=C78)C6=C5)C	BGC0002232_MIBiGv4.0_ergotamine
+CCCCC/C=C/C=C/C=C/C1=C(CO)[C@@H](O)[C@H]2O[C@H]2[C@@H]1O	BGC0002233_MIBiGv4.0_trichoxide
+CCCCCCCC1=C(O)C=C(CC=C(C)C)C(O)=C1C=O	BGC0002234_MIBiGv4.0_flavoglaucin
+OC1=CC(OC(/C(C)=C/C=C/C(O)C(O)/C(C)=C/C)=C1)=O	BGC0002235_MIBiGv4.0_10,11-dihydroxymagnaporthepyrone
+OC1=CC(OC(/C(C)=C/C=C/C=C/C(O)(C)C(O)C)=C1)=O	BGC0002235_MIBiGv4.0_12,13-dihydroxymagnaporthepyrone
+OCC(NC(CC(CCCC/C(C)=C/C(C/C=C/C=C/C(C)=C/C)C)=O)=O)CC1=CC=C(O)C=C1	BGC0002235_MIBiGv4.0_Unknown amide 8
+O=C1OC(C[C@@H](O)C)=CC2=CC(OC)=CC(OC)=C21	BGC0002236_MIBiGv4.0_8-methyldiaporthin
+COC1=CC(=C2C(=C1)C=C(OC2=O)C[C@H](C(Cl)Cl)O)O	BGC0002237_MIBiGv4.0_dichlorodiaporthin
+COC1=C(O)C=CC(C(=O)C(C)O)=C1	BGC0002238_MIBiGv4.0_2,4'-dihydroxy-3'-methoxypropiophenone
+C[C@@H]1C[C@@H]([C@H]2[C@@H]3[C@@H]4[C@H]([C@@H](C=C([C@@H]4[C@@]2(C1)C)C)C=C)C(=O)C5=C[C@](CC6=CC=C(O3)C=C6)(NC5=O)O)C	BGC0002239_MIBiGv4.0_pyrrocidine A
+C[C@@H]1C[C@@H]([C@H]2[C@@H]3[C@@H]4[C@H]([C@@H](C=C([C@@H]4[C@@]2(C1)C)C)C=C)C(=O)[C@@H]5C[C@](CC6=CC=C(O3)C=C6)(NC5=O)O)C	BGC0002239_MIBiGv4.0_pyrrocidine B
+C/C=C/C(O)C/C=C/C=C/C=C\C(=O)O	BGC0002240_MIBiGv4.0_BAA
+C/C=C/C(O)C/C=C/C=C/C=C/C(=O)O	BGC0002240_MIBiGv4.0_BAB
+CC1(O)CC(=O)C2=C(O)C3=C(O)C=C(O)C=C3C=C2O1	BGC0002241_MIBiGv4.0_ywa1
+C[C@@H]1C(=O)N[C@@](C2=NC3=C(C=CC=CO3)C(=O)N12)(CC4=CC=CC=C4)O	BGC0002242_MIBiGv4.0_oxepinamide D
+COC1=C(O)C2=C3C(=C1)OC(=O)C1=C3C(=C(O)C=C1C)C(=O)C2=O	BGC0002243_MIBiGv4.0_biruloquinone
+Cc1cc(O)c(Oc2c(C(OC3)=O)c(OC)c(/C=C/C(C)(O)C)cc2)c3c1	BGC0002244_MIBiGv4.0_1,2-dehydropenicillide
+Cc1cc(O)c(Oc2c(C(OC3)=O)c(OC)c(C4C(O4)C(C)=C)cc2)c3c1	BGC0002244_MIBiGv4.0_1,2-epoxy-3,4-didehydropenicillide
+Cc1cc(O)c(Oc2c(C(OC3)=O)c(OC)c(/C=C/C(C)(OC)C)cc2)c3c1	BGC0002244_MIBiGv4.0_3-methoxy-1,2-dehydropenicillide
+CC1=CC(=C2C(=C1)COC(=O)C3=C(O2)C=CC(=C3OC)[C@@H]([C@H](C(=C)C)O)O)O	BGC0002244_MIBiGv4.0_pestalotiollide B
+C=C(C)[C@@H](O)[C@@H](O)C1=C(OC)C2=C(C=C1)OC1=C(C=C(C)C=C1O)COC2=O	BGC0002244_MIBiGv4.0_pestalotiollide C
+CC(C)[C@@H]1CC[C@@]2(C)C/C=C(C)/CC/C=C(C)/CC[C@H](O)/C(C)=C/CC21	BGC0002245_MIBiGv4.0_preterpestacin 1
+C[C@H](CO)C1CC[C@@]2(C)C/C=C(C)/CC/C=C(C)/CC[C@H](O)/C(C)=C/CC21	BGC0002245_MIBiGv4.0_preterpestacin 2
+C[C@H](CO)C1[C@@H](O)[C@@H](O)[C@@]2(C)C/C=C(C)/CC/C=C(C)/CC[C@H](O)/C(C)=C/CC21	BGC0002245_MIBiGv4.0_preterpestacin 3
+C/C/1=C/CC/C(=C\C[C@]2([C@H](C/C=C(\[C@H](CC1)O)/C)C(=C(C2=O)O)[C@H](C)CO)C)/C	BGC0002245_MIBiGv4.0_terpestacin
+C=C1C(=O)[C@H](OC(C)=O)/C=C(/C)[C@@H](O)[C@@H](O)[C@H]2[C@@H]1CC2(C)C	BGC0002246_MIBiGv4.0_naematolin
+[H][C@@]1([C@H](C2=CC=CC=C2)C(N3C)=O)[C@H](C)C(C)=CC([C@]14C3=O)[C@]5([H])C([C@@]6(O)[C@@H](C)C[C@@H](C)C[C@]5(C)O6)C4=O	BGC0002247_MIBiGv4.0_chaetoconvosins A
+[H][C@@]1([C@H](C2=CC=CC=C2)C(N3C)=O)[C@H](C)C(C)=C[C@@]([C@]14C3=O)(O)[C@]5([H])C([C@@]6(O)[C@@H](C)C[C@@H](C)C[C@]5(C)O6)C4=O	BGC0002247_MIBiGv4.0_chaetoconvosins B
+CC1=C[C@@]2(O)[C@@H]([C@]3(C)C[C@H](C)C[C@H](C)C(=O)O3)CC(=O)[C@]23C(=O)N(C)C(=O)[C@@H](C2=CC=CC=C2)[C@@H]3[C@@H]1C	BGC0002247_MIBiGv4.0_chamiside A
+O=C1C(OC(C)=O)/C=C([C@H]([C@H](C2C(C[C@@H]2C1=C)(C)C)O)O)/C	BGC0002247_MIBiGv4.0_naematolin
+C[C@@H]1CC[C@@H]2[C@]3(C)OC4(C)CC(OC(=O)[C@@H]5CCC(C)(C)CN5)[C@@]21C[C@@H]4[C@@H]3NCCCCCN(C)C	BGC0002248_MIBiGv4.0_flavunoidine
+C[C@H]1C[C@@H](O)C[C@@H](O)C/C=C/[C@@H](O)C/C=C/[C@@H](O)C[C@@H](O)C[C@@H](O)C/C=C/C=C/C=C/C=C/C=C/C=C/CCC(=O)O1	BGC0002249_MIBiGv4.0_phaeospelide A
+C=C1C(=O)C2(C(=O)N1OC)/C(=C\CC)C=CC(=O)[C@H]2O	BGC0002250_MIBiGv4.0_triticone A
+C=C1C(=O)[C@@]2(C(=O)N1OC)/C(=C\CC)C=CC(=O)[C@H]2O	BGC0002250_MIBiGv4.0_triticone B
+CC/C=C1C=CC([C@@H](O)C/12C(C(N(OC)C2=O)=C)O)=O	BGC0002250_MIBiGv4.0_triticone C
+CC/C=C1C=CC([C@@H](O)C/12C([C@](N(OC)C2=O)(C)O)O)=O	BGC0002250_MIBiGv4.0_triticone F
+CC[C@H]1C(=O)N2C[C@H]([C@H]([C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](CC(=O)N1)C3=CC=CC=C3)CO)[C@H](C)O)Cl)Cl	BGC0002251_MIBiGv4.0_astin A
+CC[C@H]1C(=O)N2C[C@H]([C@H]([C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](CC(=O)N1)C3=CC=CC=C3)CO)[C@H](C)O)Cl)Cl	BGC0002251_MIBiGv4.0_astin B
+CCC1C(=O)NC(C(=O)NC(CC(=O)NC(C(=O)N2CC(C(C2C(=O)N1)Cl)Cl)CC)C3=CC=CC=C3)CO	BGC0002251_MIBiGv4.0_astin C
+CC[C@H]1C(N[C@@H](CO)C(N[C@@H](C2=CC=CC=C2)CC(N[C@@H](CC)C(N3C=C(Cl)C[C@@]3([H])C(N1)=O)=O)=O)=O)=O	BGC0002251_MIBiGv4.0_astin D
+CC[C@H]1C(N[C@@H](CO)C(N[C@@H](C2=CC=CC=C2)CC(N[C@@H](CC)C(N3CC([H])[C@@H](Cl)[C@@]3([H])C(N1)=O)=O)=O)=O)=O	BGC0002251_MIBiGv4.0_astin F
+CC[C@H]1C(=O)N[C@H](C(=O)N[C@H](CC(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N1)CC)C3=CC=CC=C3)CO	BGC0002251_MIBiGv4.0_astin G
+CC[C@H]1C(N[C@@H](CO)C(N[C@@H](C2=CC=CC=C2)CC(N[C@@H]([C@H](O)C)C(N3C=C(Cl)C[C@@]3([H])C(N1)=O)=O)=O)=O)=O	BGC0002251_MIBiGv4.0_astin H
+C=C1C2=C(C[C@](C)(CO)C2)C(=O)[C@@]2(CCC3=C(CCO)C(C)=C4C[C@@](C)(CO)CC4=C3O2)C12CC2	BGC0002252_MIBiGv4.0_bovistol B
+C=C1C2=C(C[C@](C)(CO)C2)C(=O)[C@@]2(CCC3=C(CCO)C(C)=C4C[C@@](C)(C(=O)O)CC4=C3O2)C12CC2	BGC0002252_MIBiGv4.0_bovistol D
+C[C@@]1(C2=C(CC(C2)(C)C)C(=O)C(=C)C13CC3)O	BGC0002252_MIBiGv4.0_illudin c
+CC(C1)(CO)CC2=C1C(C(C3(CC3)C2(C)O)=C)=O	BGC0002252_MIBiGv4.0_illudin c3
+CC(C1)(CO)CC2=C1C(OC3(C4(CC4)C(C)(O)C(CC(C)(CO)C5)=C5C3=O)CC6)=C6C7(CC7)C2(C)O	BGC0002252_MIBiGv4.0_prebovistol
+CC1=C2CCOCC2=C(O)C2=C1CC(C)(CO)C2	BGC0002252_MIBiGv4.0_strossmayerin
+C[C@@H]1CC2=CC3=CC(=CC(=C3C(=C2C(=O)O1)O)O)OC	BGC0002253_MIBiGv4.0_(+)-semivioxanthin
+C[C@@H]1CC2=CC3=CC(=CC(=C3C(=C2C(=O)O1)O)O)OC	BGC0002253_MIBiGv4.0_semivioxanthin
+COC1=CC2=CC3=C(C(=O)O[C@H](C)C3)C(O)=C2C2=C1[C@H]1[C@@]3(O2)C(=[N+]([O-])C2=C3C=CC3=C2C=CC(C)(C)O3)C(C)(C)[C@@H]2C[C@]34CCCN3C(=O)[C@@]21NC4=O	BGC0002253_MIBiGv4.0_waikikiamide A
+COC1=CC2=CC3=C(C(=O)O[C@H](C)C3)C(O)=C2C2=C1[C@H]1[C@@]3(O2)C(=NC2=C3C=CC3=C2C=CC(C)(C)O3)C(C)(C)[C@@H]2C[C@]34CCCN3C(=O)[C@@]21NC4=O	BGC0002253_MIBiGv4.0_waikikiamide B
+CO[C@H]1C2=C(N(O)C3=C2C=CC2=C3[C@@H](OC)[C@H](ON3C(=O)[C@@]4(C[C@@]56NC(=O)[C@]7(CCCN7C5=O)C[C@H]6C4(C)C)C4=C3C3=C(C=C4)OC(C)(C)C=C3)C(C)(C)O2)C(C)(C)[C@@H]2C[C@]34CCCN3C(=O)[C@]12NC4=O	BGC0002253_MIBiGv4.0_waikikiamide C
+C[C@@H]1CC2=CC3=CC(=CC(=C3C(=C2C(=O)O1)O)O)OC	BGC0002254_MIBiGv4.0_(+)-semivioxanthin
+CC1(C=CC2=C(O1)C=CC3=C2N(C(=O)[C@@]34C[C@]56[C@H](C4(C)C)C[C@@]7(CCCN7C5=O)C(=O)N6)O)C	BGC0002254_MIBiGv4.0_notoamide A
+CC1(C=CC2=C(O1)C=CC3=C2NC4=C3[C@@H]([C@]56[C@H](C4(C)C)C[C@@]7(CCCN7C5=O)C(=O)N6)OC)C	BGC0002254_MIBiGv4.0_notoamide F
+COC1=CC2=CC3=C(C(=O)O[C@H](C)C3)C(O)=C2C2=C1[C@H]1[C@@]3(O2)C(=[N+]([O-])C2=C3C=CC3=C2C=CC(C)(C)O3)C(C)(C)[C@@H]2C[C@]34CCCN3C(=O)[C@@]21NC4=O	BGC0002254_MIBiGv4.0_waikikiamide A
+COC1=CC2=CC3=C(C(=O)O[C@H](C)C3)C(O)=C2C2=C1[C@H]1[C@@]3(O2)C(=NC2=C3C=CC3=C2C=CC(C)(C)O3)C(C)(C)[C@@H]2C[C@]34CCCN3C(=O)[C@@]21NC4=O	BGC0002254_MIBiGv4.0_waikikiamide B
+CO[C@H]1C2=C(N(O)C3=C2C=CC2=C3[C@@H](OC)[C@H](ON3C(=O)[C@@]4(C[C@@]56NC(=O)[C@]7(CCCN7C5=O)C[C@H]6C4(C)C)C4=C3C3=C(C=C4)OC(C)(C)C=C3)C(C)(C)O2)C(C)(C)[C@@H]2C[C@]34CCCN3C(=O)[C@]12NC4=O	BGC0002254_MIBiGv4.0_waikikiamide C
+CC[C@H](C)C(=O)C[C@]1(C)C(=O)C=C2C=C([C@H]3C(=O)C=CC[C@@H]3C)OC=C2C1=O	BGC0002255_MIBiGv4.0_lijiquinone
+OC1=CC(N)=C(C(CC(N)CC(O)=O)=O)C=C1	BGC0002256_MIBiGv4.0_4-hydroxykynurenine
+CC1(C)C=CC2=C(C=CC(C(CC(N)CO)=O)=C2N)O1	BGC0002256_MIBiGv4.0_desacetylfusarochromene
+CC1(CC(=O)C2=C(O1)C=CC(=C2N)C(=O)CC(CO)N)C	BGC0002256_MIBiGv4.0_fusarochromanone
+CC(=O)N[C@@H](CO)CC(=O)C1=C(N)C2=C(C=C1)OC(C)(C)C=C2	BGC0002256_MIBiGv4.0_fusarochromene
+COC1=CC2=C(C(OC)=C1)C(O)=C(C(C)=O)C(C)=C2C1=C(C)C(C(C)=O)=C(O)C2=C1C=C(OC)C=C2OC	BGC0002257_MIBiGv4.0_rufoschweinitzin
+C/C=C(\C)/[C@H]([C@@]1([C@H]2C(=CC(=C[C@]2([C@H]1/C(=C/[C@@]3([C@@H]4[C@H](C(=O)[C@]3(C(=O)O4)C)C)C)/C)C)C)C)C)O	BGC0002258_MIBiGv4.0_shimalactone A
+C/C=C(\C)[C@@H](O)[C@@]1(C)[C@@H]2C(C)=CC(C)=C[C@]2(C)[C@@H]1/C(C)=C/[C@]1(C)[C@H]2OC(=O)[C@]1(C)C(=O)[C@@H]2C	BGC0002258_MIBiGv4.0_shimalactone B
+CCCC[C@H](C)[C@@H]1CC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)O1)CC(C)C)C)CC2=CC=CC=C2	BGC0002259_MIBiGv4.0_beauveriolide I
+CCCC[C@H](C)[C@@H]1CC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)O1)[C@H](C)CC)C)CC2=CC=CC=C2	BGC0002259_MIBiGv4.0_beauveriolide III
+CC1CCC\2C1CC(C/C2=C(/C)\CO[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)NC(=O)C)(C)C	BGC0002260_MIBiGv4.0_brasilane A
+CC(=O)N[C@H]1[C@@H](OC/C(CO)=C2\CC(C)(C)C[C@H]3[C@@H](C)CC[C@H]23)O[C@H](CO)[C@@H](O)[C@@H]1O	BGC0002260_MIBiGv4.0_brasilane D
+CC(=O)N[C@H]1[C@@H](OC[C@@]2(C=O)O[C@@]23CC(C)(C)C[C@H]2[C@@H](C)CC[C@@H]23)O[C@H](CO)[C@@H](O)[C@@H]1O	BGC0002260_MIBiGv4.0_brasilane E
+CC(CO)=C1CC(C)(C)C[C@@H]2[C@@H]1C[C@@H](O)[C@@H]2C	BGC0002260_MIBiGv4.0_brasilane F
+C/C(CO)=C1/CC(C)(C)C[C@H]2[C@@H](C)CC[C@H]12	BGC0002260_MIBiGv4.0_trichobrasilenol
+CC(C(=O)O)=C1CC(C)(C)C[C@@H]2[C@@H]1C[C@@H](O)[C@@H]2C	BGC0002260_MIBiGv4.0_xylarenic acid B
+C/C=C(\C=C(/C)\C=C\C=C\C=C(/C)\C(=O)[C@@H]1[C@@H]2[C@@](CCO2)(NC1=O)O)/C(=O)OC	BGC0002261_MIBiGv4.0_lucilactaene
+CCCCCC[C@@H]1C[C@@H](C(=O)O1)C(=C)C(=O)O	BGC0002262_MIBiGv4.0_deoxysporothric acid
+C[C@@H]1[C@H](C(O)=O)[C@]([H])([C@H](O)CCCCCC)OC1=O	BGC0002262_MIBiGv4.0_dihydroisosporothric acid
+CCCCCC[C@@H]1[C@H]2[C@H]([C@H](C(=O)O2)C)C(=O)O1	BGC0002262_MIBiGv4.0_dihydrosporothriolide
+CC1=C(C(O)=O)[C@]([H])([C@H](O)CCCCCC)OC1=O	BGC0002262_MIBiGv4.0_isosporothric acid
+O=C1O[C@@]([C@@H]2[C@]13[C@H](CC[C@H]4[C@@H](O)C[C@@H](C)O4)C=CCC3)([H])[C@@H](CCCCCC)OC2=O	BGC0002262_MIBiGv4.0_sporochartine B
+C=C(C(O)=O)[C@H]1[C@H]([C@H](OC1=O)CCCCCC)O	BGC0002262_MIBiGv4.0_sporothric acid
+CCCCCC[C@@H]1[C@H]2[C@H](C(=C)C(=O)O2)C(=O)O1	BGC0002262_MIBiGv4.0_sporothriolide
+CCCCCC1OC(=O)C=C2C3=C(OC(C)(C)[C@@H](O)C3)C(=O)C(O)=C21	BGC0002263_MIBiGv4.0_spiromarmycin
+COC1=CC(C[C@H]2CN[C@@H](CC3=CC=CC=C3)CN2C(=O)/C=C/C2=CC=CC=C2)=CC(OC)=C1O	BGC0002264_MIBiGv4.0_hancockiamide A
+COC1=CC(C[C@H]2CN(C(C)=O)[C@@H](CC3=CC=CC=C3)CN2C(=O)/C=C/C2=CC=CC=C2)=CC(OC)=C1O	BGC0002264_MIBiGv4.0_hancockiamide B
+COC1=CC(C[C@H]2CN(C(C)=O)[C@@H](CC3=CC=CC=C3)CN2C(=O)/C=C/C2=CC=CC=C2)=CC2=C1OCO2	BGC0002264_MIBiGv4.0_hancockiamide C
+COC1=CC(C[C@H]2CN[C@@H](CC3=CC=CC=C3)CN2)=CC(OC)=C1O	BGC0002264_MIBiGv4.0_hancockiamide D
+COC1=CC(C[C@H]2CN[C@@H](CC3=CC4=C(OCO4)C(OC)=C3)CN2C(=O)/C=C/C2=CC=CC=C2)=CC(OC)=C1O	BGC0002264_MIBiGv4.0_hancockiamide E
+COC1=CC(CC(=O)CN(C(C)=O)[C@H](CNC(=O)/C=C/C2=CC=CC=C2)CC2=CC=CC=C2)=CC2=C1OCO2	BGC0002264_MIBiGv4.0_hancockiamide F
+CC1=CC(=C(C(=C1C(=O)OC2=C(C(=C(C(=C2)C)O)C(=O)OC)C)O)C=O)O	BGC0002265_MIBiGv4.0_atranorin
+CC1(C)CCC[C@@]2(C)[C@H]1[C@H](OC(=O)/C=C/C=C/CO)C=C1COC(=O)[C@@]12O	BGC0002266_MIBiGv4.0_calidoustene A
+CC1(C)CCC[C@@]2(C)[C@H]1[C@H](OC(=O)/C=C/C=C/C=C/C=O)C=C1COC(=O)[C@@]12O	BGC0002266_MIBiGv4.0_calidoustene B
+C/C=C/C=C/C=C/C(=O)O[C@@H]1C=C2C(=O)O[C@@H](O)[C@]2(O)[C@@]2(C)CCCC(C)(C)[C@H]12	BGC0002266_MIBiGv4.0_calidoustene C
+C[C@H]1[C@@H]2C3=C(C(=CNC3=O)C4=CC=CC=C4)O[C@@]2(C=C1C)C	BGC0002268_MIBiGv4.0_citridone A
+CC([C@]1([C@H]2[C@@]([C@H](O1)O)(C3=C(O2)NC=C(C3=O)C4=CC=CC=C4)C)C)O	BGC0002268_MIBiGv4.0_citridone B
+CC([C@]1([C@H]2[C@@]([C@@H](O1)O)(C3=C(O2)NC=C(C3=O)C4=CC=CC=C4)C)C)O	BGC0002268_MIBiGv4.0_citridone B'
+C/C=C(\C)/[C@@H]1[C@](C2=C(O1)NC=C(C2=O)C3=CC=CC=C3)(C)C=O	BGC0002268_MIBiGv4.0_CJ-15,696
+C/C=C/1\CO[C@@H]([C@]2([C@@H]1OC3=C2C(=O)C(=CN3)C4=CC=CC=C4)C)O	BGC0002268_MIBiGv4.0_CJ-16,173
+C/C=C/C=C/C=C/C(O)=C1\C(=O)N[C@@H](CC(=O)O)C1=O	BGC0002269_MIBiGv4.0_MCA17-1
+C1C[C@H]([C@@H]2[C@@H]([C@@H](CN2C1)O)O)O	BGC0002270_MIBiGv4.0_swainsonine
+CC(=CCC1=C(C2=CC=CC=C2N1)C3=C(C(=O)C(=C(C3=O)O)C4=C(NC5=CC=CC=C54)CC=C(C)C)O)C	BGC0002271_MIBiGv4.0_asterriquinone CT5
+CC(=O)N1[C@@H]2[C@@](C[C@]3(N2C(=O)C4=CC=CC=C4NC3=O)O)(C5=CC=CC=C51)C(C)(C)C=C	BGC0002272_MIBiGv4.0_asterrelenin
+CC(=O)N1[C@H]2[C@](C[C@@H]3N2C(=O)C4=CC=CC=C4NC3=O)(C5=CC=CC=C51)C(C)(C)C=C	BGC0002272_MIBiGv4.0_epi-aszonalenin A
+COC(=O)[C@]1(CC2=CC(CC=C(C)C)=C(O)C=C2)OC(=O)C(OC)=C1C1=CC=C(O)C=C1	BGC0002273_MIBiGv4.0_butyrolactone I
+CC(=CCC1=C(C=CC(=C1)/C=C\2/C(=C(C(=O)O2)C3=CC(=C(C=C3)O)CC=C(C)C)O)O)C	BGC0002274_MIBiGv4.0_aspulvinone H
+CC(C)C[C@@H](C1=CC(=CC(=O)O1)OC)NC(=O)C	BGC0002275_MIBiGv4.0_campyrone B
+CC(=O)N[C@@H](CC1=CC=CC=C1)C2=CC(=CC(=O)O2)OC	BGC0002275_MIBiGv4.0_pyrophen
+COC1=CC(C/C(=C/NC(C)=O)N(CC(=O)CC2=CC=CC=C2)C(C)=O)=CC2=C1OCO2	BGC0002278_MIBiGv4.0_brasiliamide A
+COC1=CC(CC2=CN(C(C)=O)C(CC3=CC=CC=C3)CN2C(C)=O)=CC2=C1OCO2	BGC0002278_MIBiGv4.0_brasiliamide B
+CC(=O)N1C[C@@H](N(CC1CC2=CC3=C(C(=C2)OC)OCO3)C(=O)C)CC4=CC=CC=C4	BGC0002278_MIBiGv4.0_brasiliamide D
+COC1=CC(C[C@H]2CN(C(C)=O)[C@@H](CC3=CC=CC=C3)CN2)=CC(OC)=C1O	BGC0002278_MIBiGv4.0_brasiliamide I
+CC1=C2CC[C@@]2([C@H]3CC(C[C@H]3C1)(C)C)C	BGC0002279_MIBiGv4.0_Œ¥-6 protoilludene
+CC1=C2CC[C@@]2([C@H]3CC(C[C@H]3C1)(C)C)C	BGC0002280_MIBiGv4.0_Œ¥-6 protoilludene
+CCC(C)CC(C)/C=C(\C)/[C@H]1[C@@H](CC[C@H](O1)C2=C(C(=CN(C2=O)C)C3=CC=C(C=C3)O)O)C	BGC0002281_MIBiGv4.0_sambutoxin
+C/C(C)=C/CC1=C(O)C=CC(C(O)=O)=C1	BGC0002290_MIBiGv4.0_4-hydroxy-3-prenylbenzoic acid
+CC(=CC[C@@]12[C@@H](O1)[C@@H](C=C([C@H]2O)C#CC(=C)C)O)C	BGC0002290_MIBiGv4.0_biscognienyne B
+CC(C#CC1=C(C(O)=CC(C(O)=O)=C1)OC)=C	BGC0002290_MIBiGv4.0_compound 11
+CC(C#CC1=C(C(OC)=CC(C(O)=O)=C1)O)=C	BGC0002290_MIBiGv4.0_compound 12
+C/C(C)=C\C[C@]1(O)CC(C=C(C#CC(C)=C)[C@@H]1O)=O	BGC0002290_MIBiGv4.0_compound 15
+C/C(C)=C/CC1=C(O)C(O)=CC(C(O)=O)=C1	BGC0002290_MIBiGv4.0_compound 3
+CC(C#CC1=C(C(O)=CC(C(O)=O)=C1)O)=C	BGC0002290_MIBiGv4.0_compound 6
+CC(C(CC1=C(O)C=CC(C(O)=O)=C1)=O)C	BGC0002290_MIBiGv4.0_compound 7
+CC(C(C(O)C1=C(O)C=CC(C(O)=O)=C1)=O)C	BGC0002290_MIBiGv4.0_compound 8
+CC(=C)C#CC1=C(C=CC(=C1)C(=O)O)O	BGC0002290_MIBiGv4.0_eutypinic acid
+CC(C#CC1=C(O)C(C/C=C(C)/C)=CC(O)=C1)=C	BGC0002290_MIBiGv4.0_pestalodiol E
+C/C(C)=C/CC1=C(O)C=CC(O)=C1	BGC0002290_MIBiGv4.0_prenylhydroquinone
+CC[C@H](C)[C@H]1C(=O)C(=C(O)[C@@H]2[C@H]3CCCC[C@H]3C=C[C@H]2C(=O)O)C(=O)N1C	BGC0002304_MIBiGv4.0_varicidin A
+C[C@H]1[C@@H](CC(=O)[C@]2([C@@]13C[C@]4(CCC([C@H]4[C@@H]3CC2)(C)C)C)C)O	BGC0002320_MIBiGv4.0_conidiogenone
+O=C(C(CC(C)C)N1O)N(O)C(CC(C)C)C1=O	BGC0002321_MIBiGv4.0_compound 3
+O=C(C(CC(C)C)N1)NC(CC(C)C)C1=O	BGC0002321_MIBiGv4.0_cyclodileucine
+CC(C)CC1=C(O)[N+](O)=C(CC(C)C)C(O)=[N+]1O.[Fe].[Fe]	BGC0002321_MIBiGv4.0_pulcherrimin
+CC(C)CC1=C(O)N(=O)=C(CC(C)C)C(O)=N1=O	BGC0002321_MIBiGv4.0_pulcherriminic acid
+C1=CC(=CC=C1/C=C\2/C(=C(C(=O)O2)C3=CC=C(C=C3)O)O)O	BGC0002348_MIBiGv4.0_aspulvinone E
+CN[C@]12CN3[C@@H](C)C[C@@H](OC(=O)[C@@H](C(C)C)N(C)C)C[C@@H]3C[C@]1(O)C(C)(C)[C@]1(C2)C(=O)NC2=C(C(=O)[C@@H]3OC3(C)C)C=CC=C21	BGC0002368_MIBiGv4.0_21R-citrinadin A
+N#CC1=C(N2C(Br)=C(Br)C3=C2C=CC(Br)=C3)[NH]C2=C1C=C(Br)C=C2Br	BGC0002368_MIBiGv4.0_aetokthonotoxin
+CC(C)[C@H]1NC(=O)/C(=C2/C=CC[C@H](C)O2)C1=O	BGC0002375_MIBiGv4.0_cladosporiumin I
+CC(C)=C1NC(=O)C2=C1O[C@H](CC(C)O)CC2=O	BGC0002375_MIBiGv4.0_cladosporiumin J
+CC1=C(OC(=O)C(=C1O)C[C@@H]2C(=C)CC[C@@H]3[C@@]2(CC[C@H]4[C@]3(C[C@H](O4)C=C(C)C)C)C)C	BGC0002427_MIBiGv4.0_subglutinol A
+C=C1CC[C@H]2[C@]3(C)C[C@H](C=C(C)C)O[C@H]3CC[C@]2(C)[C@@H]1CC1=C(O)C(C)=C(C)OC1=O	BGC0002427_MIBiGv4.0_subglutinol B
+O=C1C(C[C@@H]2C(CC[C@]3([H])[C@]2(C)CCC([C@]3(CC/C=C(C)/C)C)=O)=C)=C(O)C(C)=C(C)O1	BGC0002428_MIBiGv4.0_BR-051
+CC1=C(C)OC(OC)=C(C[C@@H]2C(CC[C@]3([H])[C@]2(C)CC[C@@H](O)[C@]3(CC/C=C(C)/C)C)=C)C1=O	BGC0002428_MIBiGv4.0_FDDP-B
+O=C1C(C[C@@H]2C(CC[C@]3([H])[C@]2(C)CC[C@@H](O)[C@]3(CC/C=C(C)/C)C)=C)=C(OC)OC(CO)=C1C(OC)=O	BGC0002428_MIBiGv4.0_FDDP-D
+O=C1C(C[C@@H]2C(CC[C@]3([H])[C@]2(C)CC[C@@H](O)[C@]3(CC/C=C(C)/C)C)=C)=C(OC)OC(C[H])=C1C(OC)=O	BGC0002428_MIBiGv4.0_FDDP-E
+CC1=C(OC(=O)C(=C1O)C[C@@H]2C(=C)CC[C@@H]3[C@@]2(CC[C@H]([C@@]3(C)CCC=C(C)C)O)C)C	BGC0002428_MIBiGv4.0_Higginsianin B
+CC1=C(OC(=O)C(=C1O)C[C@@H]2C(=C)CC[C@@H]3[C@@]2(CC[C@@H]4[C@]3(CC[C@@H](O4)C(C)(C)O)C)C)C	BGC0002429_MIBiGv4.0_13-epi-higginsianin C
+CC(C)=C[C@@H]1C[C@]2(C)C(CC[C@]3(C)[C@H](CC4=C(O)C(C)=C(C)OC4=O)C(=C)CC[C@@H]23)O1	BGC0002429_MIBiGv4.0_higginsianin A
+CC1=C(OC(=O)C(=C1O)C[C@@H]2C(=C)CC[C@@H]3[C@@]2(CC[C@H]([C@@]3(C)CCC=C(C)C)O)C)C	BGC0002429_MIBiGv4.0_higginsianin B
+CC1=C(OC(=O)C(=C1O)C[C@@H]2C(=C)CC[C@@H]3[C@@]2(CC[C@@H]4[C@]3(CC[C@H](O4)C(C)(C)O)C)C)C	BGC0002429_MIBiGv4.0_higginsianin C
+CC1=C(O[C@](C1=O)(C[C@@H]2C(=C)CC[C@@H]3[C@@]2(CC[C@H]([C@@]3(C)CCC=C(C)C)O)C)C(=O)OC)C	BGC0002429_MIBiGv4.0_higginsianin D
+CC1=C(O[C@@](C1=O)(C[C@@H]2C(=C)CC[C@@H]3[C@@]2(CC[C@H]([C@@]3(C)CCC=C(C)C)O)C)C(=O)OC)C	BGC0002429_MIBiGv4.0_higginsianin E
+COC1=C(Cl)C=C2C(=C1OC)N(C)[C@@H]1N3C(=O)[C@@]4(C)SS[C@@]3(C(=O)N4C)[C@H](O)[C@]21O	BGC0002438_MIBiGv4.0_sporidesmin A
+CC1=C2CC[C@]2(C)[C@H]2CC(C)(C)C[C@H]2[C@@H]1O	BGC0002445_MIBiGv4.0_8Œ±-hydroxy-6-protoilludene
+CC1=C(C(=C(C2=C1OC3=CC(=C(C(=O)C32C)C(=O)C)O)O)C(=O)C)O	BGC0002483_MIBiGv4.0_usnic acid
+COC1=C(OC)C(O)=C([C@@H]2SS[C@@]34C[C@@]5(O)[C@@H](ON3C(=O)[C@@H]2N(C)C4=O)[C@H](O)C=C[C@H]5Cl)C=C1	BGC0002501_MIBiGv4.0_adametizine A
+COC1=C(OC)C(O)=C([C@H]2SS[C@@]34C[C@]56O[C@H]5C=C[C@@H](O)[C@@H]6ON3C(=O)[C@@H]2N(C)C4=O)C=C1	BGC0002501_MIBiGv4.0_FA2097
+CN1[C@@H]2[C@H](S[C@@]3(C1=O)C[C@@]4([C@@H](C=C[C@H]([C@@H]4ON3C2=O)O)O)O)C5=C(C(=C(C=C5)OC)OC)O	BGC0002501_MIBiGv4.0_outovirin A
+CN1[C@@H]2[C@H](SSS[C@@]3(C1=O)C[C@@]4([C@@H](C=C[C@H]([C@@H]4ON3C2=O)O)O)O)C5=C(C(=C(C=C5)OC)OC)O	BGC0002501_MIBiGv4.0_outovirin C
+COC1=C(OC)C(O)=C([C@@H]2SSS[C@@]34C[C@@]5(O)[C@@H](ON3C(=O)[C@@H]2N(C)C4=O)[C@H](O)C=C[C@H]5Cl)C=C1	BGC0002501_MIBiGv4.0_penigainamide A
+COC1=C(OC)C(O)=C([C@@H]2S[C@@]34C[C@]56O[C@H]5C=C[C@@H](O)[C@@H]6ON3C(=O)[C@@H]2N(C)C4=O)C=C1	BGC0002501_MIBiGv4.0_penigainamide B
+COC1=C(OC)C(O)=C([C@@H]2S[C@@]34C[C@@]5(O)[C@@H](ON3C(=O)[C@@H]2N(C)C4=O)[C@H](O)C=C[C@H]5Cl)C=C1	BGC0002501_MIBiGv4.0_penigainamide C
+CN1[C@@H]2[C@H](SS[C@@]3(C1=O)C[C@@]4([C@@H](C=C[C@H]([C@@H]4ON3C2=O)O)O)O)C5=C(C(=C(C=C5)OC)OC)O	BGC0002501_MIBiGv4.0_pretrichodermamide C
+CCCC[C@@H](C)[C@H]([C@H](C[C@@H](C)C[C@@H](CCCC[C@H](C[C@@H]([C@H](C)N)O)O)O)OC(=O)C[C@H](CC(=O)O)C(=O)O)OC(=O)C[C@H](CC(=O)O)C(=O)O	BGC0002502_MIBiGv4.0_fumonisin B1
+CCCC[C@@H](C)[C@H]([C@H](C[C@@H](C)CCCCCC[C@H](C[C@@H]([C@H](C)N)O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O	BGC0002502_MIBiGv4.0_fumonisin B2
+CCCC[C@@H](C)[C@H]([C@H](C[C@@H](C)C[C@@H](CCCCCC[C@@H]([C@@H](C)N)O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O	BGC0002502_MIBiGv4.0_fumonisin B3
+C=C[C@@H]1C=C[C@@H]2[C@@H]3C[C@H](C)C[C@H](C)[C@H]3[C@H]3OC4=CC=C(C=C4)C[C@@]4(O)NC(=O)C(=C(O)[C@H]1[C@@H]23)[C@@H]4O	BGC0002505_MIBiGv4.0_xenoacremone A
+COC1=C(C2=C(OC)C=C3C=C(C)C(C(C)=O)=C(O)C3=C2O)C(O)=C2C(O)=C(C(C)=O)C(C)=CC2=C1	BGC0002507_MIBiGv4.0_sporandol
+COC1=C(O)C2=C3C(=C1)OC(=O)C1=C3C(=C(O)C=C1C)C(=O)C2=O	BGC0002511_MIBiGv4.0_biruloquinone
+CCC1=C(C2=C(C(=C1O)O)C(=O)C(=C(C2=O)C)OC)O	BGC0002513_MIBiGv4.0_6-methylcristazarin
+CCC1=C(C2=C(C(=C1O)O)C(=O)C(=CC2=O)OC)O	BGC0002513_MIBiGv4.0_cristazarin
+C[C@H]1C=C[C@H]2CCCC[C@H]2[C@@H]1C3=CC(=C(C(=O)O3)C=O)OC	BGC0002515_MIBiGv4.0_solanapyrone A
+CC1(O)CC(=O)C2=C(C=C(O)C3=C2C=C(O)C=C3O)O1	BGC0002516_MIBiGv4.0_prephenalenone
+COC1=CC2=C(C=C1)C(C[C@@H]1NC(=O)[C@@H]3CCCN3C1=O)=C(C(=O)[C@H]1OC1(C)C)N2	BGC0002519_MIBiGv4.0_20-epoxy-18-oxotryprostatin A
+COC1=CC2=C(C=C1)C(C[C@@H]1NC(=O)[C@@H]3CCCN3C1=O)=C(C(=O)CC(C)(C)O)N2	BGC0002519_MIBiGv4.0_20-hydroxy-18-oxotryprostatin A
+CC(=CC(=O)O)C=C(C)CC(C)CCCCC1OC(=O)C1CO	BGC0002525_MIBiGv4.0_1233A
+CC(=CC(=O)O)C=C(C)CC(C)CCCCC(O)C(CO)C(=O)O	BGC0002525_MIBiGv4.0_1233B
+CC1(CC2=C(CO1)C(=C3C(=O)C=C(C(=O)C3=C2O)OC)O)O	BGC0002525_MIBiGv4.0_fusarubin
+C/C=C(\C=C(/C)\C=C\C=C\C=C(/C)\C(=O)[C@@H]1[C@@H]2[C@@](CCO2)(NC1=O)O)/C(=O)OC	BGC0002525_MIBiGv4.0_lucilactaene
+C/C=C(\C=C(/C)\C=C\C=C\C=C(/C)\C(=O)[C@@]12[C@@H](O1)[C@](NC2=O)(CCO)O)/C(=O)OC	BGC0002525_MIBiGv4.0_NG-391
+CC1(C)C(=O)C=C[C@@]2(C)[C@H]1CC[C@@]13C[C@@]4(C)C=C5C(=O)OC[C@]51[C@]1(CO1)[C@H](C4=O)[C@@]23O	BGC0002537_MIBiGv4.0_emeridone F
+C/C=C(\C)[C@@H]1C(C)=C[C@]2(C)C[C@H](C)CC[C@H]2[C@@H]1C(=O)C1=C/C(=C/C2=CC=CC=C2)NC1=O	BGC0002538_MIBiGv4.0_chaetolivacine A
+C/C=C(\C)[C@@H]1C(C)=C[C@]2(C)C[C@H](C)CC[C@H]2[C@@H]1C(=O)C1=C[C@](CC2=CC=CC=C2)(OC)NC1=O	BGC0002538_MIBiGv4.0_chaetolivacine B
+C/C=C(\C)[C@@H]1C(C)=C[C@]2(C)C[C@H](C)CC[C@H]2[C@@H]1C(=O)C1=C[C@@](CC2=CC=CC=C2)(OC)NC1=O	BGC0002538_MIBiGv4.0_chaetolivacine C
+C/C1=C/[C@@H](C)C/C=C/[C@H]2[C@@H]3O[C@]3(C)[C@@H](C)[C@H]3[C@H]([C@@H](C)C4=C[NH]C5=CC=CC=C45)NC(=O)[C@@]23C(=O)/C=C/C(=O)[C@@H]1O	BGC0002539_MIBiGv4.0_Chaetoglobosin P
+CCCCCCCCCCCCCC(=O)N[C@H]1C[C@@H](O)[C@@H](O)NC(=O)[C@@H]2[C@@H](O)[C@@H](C)CN2C(=O)[C@H]([C@H](O)CC(N)=O)NC(=O)[C@H]([C@H](O)[C@@H](O)C2=CC=C(O)C=C2)NC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@H]([C@@H](C)O)NC1=O	BGC0002543_MIBiGv4.0_acrophiarin
+CC1=C(C)[C@@H](O)[C@@H]2/C=C/C[C@H](C)/C=C(\C)[C@H](O)[C@H](O)CC[C@H](O)[C@]23C(=O)N[C@@H](CC2=C[NH]C4=CC=CC=C24)C13	BGC0002546_MIBiGv4.0_cytoglobosin X
+CC[C@@](C)(NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)[C@@](C)(CC)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)[C@@H](NC(C)=O)C(C)C)C(=O)NC(C)(C)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(CCC(N)=O)C(=O)N[C@](C)(CC)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(C)(C)C(=O)N[C@H](CO)CC1=CC=CC=C1	BGC0002555_MIBiGv4.0_emerimicin IX
+CC[C@@](C)(NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)[C@@](C)(CC)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)[C@H](CC1=CC=CC=C1)NC(C)=O)C(=O)NC(C)(C)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(CCC(N)=O)C(=O)N[C@](C)(CC)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(C)(C)C(=O)N[C@H](CO)CC1=CC=CC=C1	BGC0002555_MIBiGv4.0_emerimicin V
+CC[C@@](C)(NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)[C@H](CC1=CC=CC=C1)NC(C)=O)C(=O)NC(C)(C)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(CCC(N)=O)C(=O)N[C@](C)(CC)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(C)(C)C(=O)N[C@H](CO)CC1=CC=CC=C1	BGC0002555_MIBiGv4.0_emerimicin VI
+CC[C@@](C)(NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)[C@@](C)(CC)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)[C@H](CC(C)C)NC(C)=O)C(=O)NC(C)(C)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(CCC(N)=O)C(=O)N[C@](C)(CC)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(C)(C)C(=O)N[C@H](CO)CC1=CC=CC=C1	BGC0002555_MIBiGv4.0_emerimicin VII
+CC[C@@](C)(NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)[C@H](CC(C)C)NC(C)=O)C(=O)NC(C)(C)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(CCC(N)=O)C(=O)N[C@](C)(CC)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(C)(C)C(=O)N[C@H](CO)CC1=CC=CC=C1	BGC0002555_MIBiGv4.0_emerimicin VIII
+CC[C@@](C)(NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)C(C)(C)NC(=O)[C@@H](NC(C)=O)C(C)C)C(=O)NC(C)(C)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(CCC(N)=O)C(=O)N[C@](C)(CC)C(=O)N1C[C@H](O)C[C@H]1C(=O)NC(C)(C)C(=O)N[C@H](CO)CC1=CC=CC=C1	BGC0002555_MIBiGv4.0_emerimicin X
+C[C@@]12CC(=O)O[C@@H]3[C@@]14[C@@H](CC[C@H]4C(C2)(C)C)C(=O)O3	BGC0002557_MIBiGv4.0_penifulvin A
+CC1=C(C2=C(C(=C1Cl)O)C(=O)C3(O2)C(=CC(=O)C=C3OC)C(=O)OC)Cl	BGC0002592_MIBiGv4.0_geodin
+CC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)C)C(=O)O)O)O)O	BGC0002593_MIBiGv4.0_lecanoric acid
+CC1=CC(=CC(=C1C(=O)O)O)O	BGC0002593_MIBiGv4.0_orsellinic acid
+CC1=CC(O)=CC(O)=C1	BGC0002594_MIBiGv4.0_orcinol
+CC1=CC(=CC(=C1C(=O)O)O)O	BGC0002594_MIBiGv4.0_orsellinic acid
+CC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)C)C(=O)O)O)O)O	BGC0002596_MIBiGv4.0_lecanoric acid
+CC1=CC(=CC(=C1C(=O)O)O)O	BGC0002596_MIBiGv4.0_orsellinic acid
+C[C@@H]1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)Cl	BGC0002598_MIBiGv4.0_ochratoxin A
+C[C@H]1[C@@H]2C(=O)[C@H]([C@]3([C@H]([C@]2(C=CC1=O)C)CC[C@@]\4([C@@]3(C[C@@H](/C4=C(/CC=C(C)C)\C(=O)O)OC(=O)C)C)C)C)OC(=O)C	BGC0002600_MIBiGv4.0_helvolic acid
+CC(=CC[C@@H]1[C@@](O1)(C)[C@H]2[C@@H]([C@@H](CC[C@]23CO3)OC(=O)/C=C/C=C/C=C/C=C/C(=O)O)OC)C	BGC0002601_MIBiGv4.0_fumagillin
+CCC(C)C1=CN=C(CC(C)C)C(=O)N1O	BGC0002602_MIBiGv4.0_aspergillic acid
+CC1=CC(=O)C2=C(O[C@@]3(C)CC[C@H]4[C@@](C)(CC[C@H]5C(C)(C)[C@@H](O)CC[C@@]54C)[C@@H]3C2)O1	BGC0002603_MIBiGv4.0_chevalone E
+CC1=CC(=C(C(=O)O1)C/C=C(\C)/CC/C=C(\C)/CC[C@@H]2C(=C)CC[C@@H](C2(C)C)OC(=O)C)O	BGC0002604_MIBiGv4.0_sartorypyrone A
+C[C@@H]1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)Cl	BGC0002605_MIBiGv4.0_ochratoxin A
+C[C@@H]1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)Cl	BGC0002606_MIBiGv4.0_ochratoxin A
+C[C@@H]1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)Cl	BGC0002607_MIBiGv4.0_ochratoxin A
+C[C@@H]1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)Cl	BGC0002608_MIBiGv4.0_ochratoxin A
+C[C@@H]1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)Cl	BGC0002609_MIBiGv4.0_ochratoxin A
+C=C(C)[C@H]1CC[C@]2(C)[C@@H]1CC[C@]1(C)C/C=C(\C(=O)O)CC/C=C(\C)CC[C@H]12	BGC0002610_MIBiGv4.0_stellatic acid
+CC[C@H](C)CCCCCCCCCCC(=O)N[C@H]1C[C@@H]([C@@H](NC(=O)[C@H]2[C@@H]([C@@H](CN2C(=O)[C@H](NC(=O)[C@@H](NC(=O)[C@@H]3C[C@@H](CN3C(=O)[C@H](NC1=O)[C@H](C)O)O)[C@H]([C@H](C4=CC=C(C=C4)O)O)O)CO)C)O)O)O	BGC0002611_MIBiGv4.0_mulundocandin
+C=C1C2C(=O)[C@]3(C)C[C@@H]4C(=O)OC[C@]14[C@@]1(CC[C@H]4C(C)(C)OC(=O)C=C[C@]4(C)[C@H]21)C3	BGC0002612_MIBiGv4.0_anditomin
+CC1=C(C(=O)C(=C(O1)OC)C[C@H]2C(=C)CC[C@H]3[C@]2(CC[C@@H]([C@]3(C)CCC(C)(C)O)O)C)C(=O)OC	BGC0002614_MIBiGv4.0_colletotrichin
+CC[C@H](C)[C@H](C(=O)O[C@H]1CC[C@]2([C@H]([C@]1(C)CCC=C(C)C)CCC(=C)[C@H]2CC3=C(C(=C(OC3=O)C)C)O)C)O	BGC0002614_MIBiGv4.0_metarhizin A
+CC1=C(OC(=O)C(=C1O)C[C@@H]2C(=C)CC[C@@H]3[C@@]2(CC[C@@H]([C@@]3(C)CCC=C(C)C)OC(=O)C)C)C	BGC0002614_MIBiGv4.0_sesquicillin A
+CC1=C(OC(=O)C(=C1O)C[C@@H]2C(=C)CC[C@@H]3[C@@]2(CC[C@H]4[C@]3(C[C@H](O4)C=C(C)C)C)C)C	BGC0002614_MIBiGv4.0_subglutinol A
+C[C@]12CCCC([C@@H]1CCC(=C)[C@@H]2C[C@]34[C@H](O3)C(=O)C(=CC4=O)CO)(C)C	BGC0002615_MIBiGv4.0_4-oxomacrophorin A
+C=C1CC[C@H]2C(C)(C)C(=O)CC[C@]2(C)[C@H]1C[C@]12O[C@H]1[C@H](O)C(CO)=CC2=O	BGC0002615_MIBiGv4.0_5'-epimacrophorin B
+C[C@]12CCCC([C@@H]1CCC(=C)[C@@H]2C[C@]34[C@H](O3)[C@@H](C(=CC4=O)CO)O)(C)C	BGC0002615_MIBiGv4.0_macrophorin A
+CC1=C(C(=C(C2=C1COC2=O)O)C/C=C(\C)/CCC(=O)O)OC	BGC0002616_MIBiGv4.0_mycophenolic acid
+C1C[C@H]2C(=O)NC3=CC=CC=C3C(=O)N4C=C(C[C@@H](C(=O)N2C1)[N+](=O)[O-])C5=CC=CC=C54	BGC0002617_MIBiGv4.0_psychrophilin A
+CC(C)[C@H]1C(=O)NC2=CC=CC=C2C(=O)N3C=C(C[C@@H](C(=O)N1)[N+](=O)[O-])C4=CC=CC=C43	BGC0002617_MIBiGv4.0_psychrophilin B
+C[C@H]1C(=O)NC2=CC=CC=C2C(=O)N3C=C(C[C@@H](C(=O)N1)[N+](=O)[O-])C4=CC=CC=C43	BGC0002617_MIBiGv4.0_psychrophilin C
+CC(C)C[C@H]1C(=O)NC2=CC=CC=C2C(=O)N3C=C(C[C@@H](C(=O)N1)[N+](=O)[O-])C4=CC=CC=C43	BGC0002617_MIBiGv4.0_psychrophilin D
+CC(=O)N[C@@H]1CC2=CN(C3=CC=CC=C23)C(=O)C4=CC=CC=C4NC(=O)[C@@H]5CCCN5C1=O	BGC0002617_MIBiGv4.0_psychrophilin E
+CC(=O)N(C)[C@H]1CC2=CN(C3=CC=CC=C23)C(=O)C4=CC=CC=C4NC(=O)[C@@H]5CCCN5C1=O	BGC0002617_MIBiGv4.0_psychrophilin F
+CC(=O)N(C)[C@H]1[C@@H](C2=CN(C3=CC=CC=C32)C(=O)C4=CC=CC=C4NC(=O)[C@@H]5CCCN5C1=O)O	BGC0002617_MIBiGv4.0_psychrophilin G
+CC(=O)N(C)[C@H]1[C@@H](C2=CN(C3=C2C(=CC=C3)O)C(=O)C4=CC=CC=C4NC(=O)[C@@H]5CCCN5C1=O)O	BGC0002617_MIBiGv4.0_psychrophilin H
+CC(C)[C@H]1C(=O)NC2=CC=CC=C2C(=O)N3C=C(C[C@@H](C(=O)N1)N)C4=CC=CC=C43	BGC0002617_MIBiGv4.0_psychrophilin I
+O[C@]12[C@]34[C@](O3)([C@@H](O)[C@@H](C(C)=C)O[C@]4(CC[C@]1(C)[C@@]5(C)C6=C7[C@]([C@@]5(CC2)[H])(OC(C)(C)[C@@]8([C@@]9(O)C%10=C7C(N6)=CC(Cl)=C%10CC(=C)[C@]9(C8)[H])[H])[H])[H])[H]	BGC0002618_MIBiGv4.0_penitrem A
+CC(=C)[C@@H]1[C@@H]([C@@H]2[C@@]3(O2)[C@@H](O1)CC[C@]4([C@]3(CC[C@@H]5[C@@]4(C6=C7[C@H]5OC([C@H]8C[C@H]9[C@@H]8C1=C(CC9=C)C=CC(=C17)N6)(C)C)C)O)C)O	BGC0002618_MIBiGv4.0_penitrem B
+CC(=C)[C@@H]1[C@@H](C=C2[C@@H](O1)CC[C@]3([C@]2(CC[C@@H]4[C@@]3(C5=C6[C@H]4OC([C@H]7C[C@H]8[C@@H]7C9=C(CC8=C)C=CC(=C96)N5)(C)C)C)O)C)O	BGC0002618_MIBiGv4.0_penitrem D
+CC(=C)[C@@H]1[C@@H]([C@@H]2[C@@]3(O2)[C@@H](O1)CC[C@]4([C@]3(CC[C@@H]5[C@@]4(C6=C7[C@H]5OC([C@H]8C[C@H]9[C@@]8(C1=C(CC9=C)C=CC(=C71)N6)O)(C)C)C)O)C)O	BGC0002618_MIBiGv4.0_penitrem E
+CC(=C)[C@@H]1[C@@H]([C@@H]2[C@@]3(O2)[C@@H](O1)CC[C@]4([C@]3(CC[C@@H]5[C@@]4(C6=C7[C@H]5OC([C@H]8C[C@H]9[C@@H]8C1=C7C(=CC(=C1CC9=C)Cl)N6)(C)C)C)O)C)O	BGC0002618_MIBiGv4.0_penitrem F 
+CC1=C(C(=C(C2=C1COC2=O)O)C/C=C(\C)/CCC(=O)O)OC	BGC0002619_MIBiGv4.0_mycophenolic acid
+C[C@@H]1CC[C@@H]2[C@@H]1C[C@@]3([C@@H]4C[C@]2([C@]3(C(=C4)C(C)C)C(=O)O)C(=O)O)CO	BGC0002651_MIBiGv4.0_sordaricin B
+CC1=CC(=O)C2=C(O1)C=C3C(=C2O)C(=O)C(=C(C3=O)OC)C4=C(C(=O)C5=CC6=C(C(=O)C=C(O6)C)C(=C5C4=O)O)OC	BGC0002709_MIBiGv4.0_aurofusarin
+CCC1=CC(=O)[C@@]2(C1=CC=C(C[C@@H]2OC(=O)[C@@H]3CCCN3)C)C	BGC0002728_MIBiGv4.0_aculene A
+CCC1=CC(=O)[C@@]2([C@@H]1CC=C(C[C@@H]2OC(=O)[C@@H]3CCCN3)C)C	BGC0002728_MIBiGv4.0_aculene B
+CCC1=CC(=O)[C@@]2(C1=CC=C(C[C@@H]2O)C)C	BGC0002728_MIBiGv4.0_aculene C
+CC(=C[C@H]1C2=C([C@@H]([C@]3(N1C(=O)[C@@H]4CCCN4C3=O)O)OC)C5=C(N2)C=C(C=C5)OC)C	BGC0002730_MIBiGv4.0_cyclotryprostatin B
+COC1=CC2=C(C=C1)C1=C([NH]2)[C@H](C=C(C)C)N2C(=O)[C@]3(O)CCCN3C(=O)[C@@]2(O)[C@H]1OC	BGC0002730_MIBiGv4.0_cyclotryprostatin F
+CO[C@H]1C2=C([NH]C3=CC=CC=C23)[C@H](C=C(C)C)N2C(=O)[C@@H]3CCCN3C(=O)[C@@]12O	BGC0002730_MIBiGv4.0_cyclotryprostatin G
+C/C(C)=C/[C@H]1C2=C(C3=C(C=C(OC)C=C3)N2)[C@H](O)[C@@]4(O)N1C([C@@H]5CCCN5C4=O)=O	BGC0002730_MIBiGv4.0_spirocyclic diketopiperazine alkaloid
+CC(=C[C@H]1[C@]2(C=C3N1C(=O)[C@@H]4CCCN4C3=O)C5=CC=CC=C5NC2=O)C	BGC0002730_MIBiGv4.0_spirotryprostatin G
+CC1(C)CC[C@@H](O)[C@@]2(C)[C@H]1[C@H](O)C=C1COC(=O)[C@@]12O	BGC0002731_MIBiGv4.0_nanangenine A
+COC1=C(C)C(=O)OC([C@]2(C)O[C@H]2/C(C)=C/C(C)=C/[C@]2(C)O[C@H](C)[C@@]3(C)O[C@@H]23)=C1C	BGC0002745_MIBiGv4.0_verrucosidin
+CC[C@H](C)[C@@H]1NC(=O)[C@@H](C(C)C)N(C)C(=O)[C@H](CC2=C[NH]C3=CC=CC=C23)NC(=O)CN(C)C(=O)[C@H]([C@@H](C)CC)N(C)C(=O)[C@@H](C(C)C)NC(=O)CNC(=O)[C@@H](C(C)C)N(C)C(=O)[C@H]([C@@H](C)CC)N(C)C(=O)CN(C)C(=O)[C@H]([C@@H](C)O)N(C)C(=O)[C@@H](C(C)C)N(C)C1=O	BGC0002746_MIBiGv4.0_dendrothelin A
+CC[C@H](C)[C@@H]1NC(=O)[C@@H]([C@@H](C)CC)N(C)C(=O)[C@H](CC2=C[NH]C3=CC=CC=C23)NC(=O)CN(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@@H](C(C)C)NC(=O)CNC(=O)[C@@H](C(C)C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)CN(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@@H](C(C)C)N(C)C1=O	BGC0002747_MIBiGv4.0_lentinulin A
+OC1=CC=CC2=C1NC([C@]3([H])CC2=O)=CC(N3)=O	BGC0002749_MIBiGv4.0_aspcandine
+OC1=CC(C(O)=CC2=C1COC(C)=C2)=O	BGC0002758_MIBiGv4.0_Anhydrosepedonin
+OC1=C2C(C=C(C)OC2)=CC(O)=C(O)C1=O	BGC0002758_MIBiGv4.0_Antibiotic C
+CC1=CC(C2=CO1)=CC([C@@](C)(C2=O)O)=O	BGC0002758_MIBiGv4.0_Azanidulone
+[H]C(C1=C(CC(C)=O)C=C(O)C(C)=C1O)=O	BGC0002758_MIBiGv4.0_DHMBA
+CC1=CC(O2)=C(C(O1)=O)C=C(C2(O)[C@]3(O)C)C(CC(C)=O)=CC3=O	BGC0002758_MIBiGv4.0_Tripyrnidone
+CC1=C[C@](O2)([H])[C@@]3([H])[C@]4([C@]15[C@@](C/C(O5)=C(C)\C(C)=O)([H])O[C@H]4OC(C)=O)CC[C@]6([H])[C@]3(C)[C@]2([H])CC(C=C6C)=O	BGC0002759_MIBiGv4.0_brevione E
+[H][C@@]12C\C(O[C@@]11C(C)=C[C@]3([H])O[C@]4([H])CC(=O)C=C(C)[C@@]5([H])CC[C@@]1([C@@H](OC(C)=O)O2)[C@]3([H])[C@]45C)=C(/C)C(C)=O	BGC0002759_MIBiGv4.0_isobrevione E
+CC1=C(C(=C(C(=C1Cl)O)C/C=C(\C)/CC[C@H](C(C)(C)O)O)O)C=O	BGC0002812_MIBiGv4.0_Colletochlorin A
+CC1=C(C(=C(C(=C1Cl)O)C/C=C(\C)/CCC=C(C)C)O)C=O	BGC0002812_MIBiGv4.0_Colletochlorin B
+CC1=C(C(=C(C(=C1Cl)O)CC=C(C)C)O)C=O	BGC0002812_MIBiGv4.0_Colletochlorin D
+CC1=CC(=C(C(=C1C=O)O)C/C=C(\C)/CCC(C(C)(C)O)O)O	BGC0002812_MIBiGv4.0_Colletorin A
+CC1=CC(=C(C(=C1C=O)O)C/C=C(\C)/CCC=C(C)C)O	BGC0002812_MIBiGv4.0_Colletorin B
+CC1=CC(=C(C(=C1C=O)O)CC=C(C)C)O	BGC0002812_MIBiGv4.0_Colletorin D
+CC1=CC(=C(C(=C1C(=O)O)O)CC=C(C)C)O	BGC0002812_MIBiGv4.0_Colletorin D acid
+CC1=CC(=CC(=C1C(=O)O)O)O	BGC0002812_MIBiGv4.0_Orsellinic acid
+C=C(CCC/C(C)=C/CC1=C(O)C=C(C)OC1=O)CC/C=C(C)/CC/C=C(C(O)=O)\C	BGC0002845_MIBiGv4.0_(2E,6E,14E)-16-(4-hydroxy-6-methyl-2-oxo-2H-pyran-3-yl)-2,6,14-trimethyl-10-methylenehexadeca-2,6,14-trienoic acid
+C=C(CCC/C(C)=C/CC1=C(O)C=C(C)OC1=O)CC[C@H](O)C(C)(O)C	BGC0002845_MIBiGv4.0_(S,E)-3-(10,11-dihydroxy-3,11-dimethyl-7-methylenedodec-2-en-1-yl)-4-hydroxy-6-methyl-2H-pyran-2-one
+C=C(CCC/C(C)=C/CC1=C(O)C=C(C)OC1=O)CC[C@H]2C(C)(O2)C	BGC0002845_MIBiGv4.0_(S,E)-3-(9-(3,3-dimethyloxiran-2-yl)-3-methyl-7-methylenenon-2-en-1-yl)-4-hydroxy-6-methyl-2H-pyran-2-one
+C=C(CCC/C(C)=C/CC1=C(O)C=C(C)OC1=O)CC[C@H](O)C(C)(OC)C	BGC0002845_MIBiGv4.0_(S,E)-4-hydroxy-3-(10-hydroxy-11-methoxy-3,11-dimethyl-7-methylenedodec-2-en-1-yl)-6-methyl-2H-pyran-2-one
+C=C(CCC/C(C)=C/CC1=C(O)C=C(C)OC1=O)CC/C=C(C)/CC[C@H](O2)C2(C)C	BGC0002845_MIBiGv4.0_3-((2E,10E)-13-((S)-3,3-dimethyloxiran-2-yl)-3,11-dimethyl-7-methylenetrideca-2,10-dien-1-yl)-4-hydroxy-6-methyl-2H-pyran-2-one
+C=C(CCC/C(C)=C/CC1=C(O)C=C(C)OC1=O)CC/C=C(C)/CC[C@H](O)C(C)(O)C	BGC0002845_MIBiGv4.0_3-((S,2E,10E)-14,15-dihydroxy-3,11,15-trimethyl-7-methylenehexadeca-2,10-dien-1-yl)-4-hydroxy-6-methyl-2H-pyran-2-one
+C=C(CCC/C(C)=C/CC1=C(O)C=C(C)OC1=O)CC/C=C(C)/CC/C=C(C)\C	BGC0002845_MIBiGv4.0_4-hydroxy-6-methyl-3-((2E,10E)-3,11,15-trimethyl-7-methylenehexadeca-2,10,14-trien-1-yl)-2H-pyran-2-one
+CC1=CC(=C(C(=O)O1)C/C=C(\C)/CC/C=C(\C)/CC[C@@H]2C(=C)CC[C@@H](C2(C)C)OC(=O)C)O	BGC0002845_MIBiGv4.0_Sartorypyrone A
+C=C1[C@](CC/C(C)=C/CC/C(C)=C/CC2=C(O)C=C(C)OC2=O)([H])C(C)(C)[C@](O)([H])CC1	BGC0002845_MIBiGv4.0_Sartorypyrone D
+O[C@@]1([H])CC[C@@]([C@@]2([H])CC/C(C)=C/CC3=C(O)C=C(C)OC3=O)(C)[C@](CCC2=C)([H])C1(C)C	BGC0002845_MIBiGv4.0_Sartorypyrone F
+[H][C@]1(OC(C)=O)CC[C@@]([C@@]2([H])CC/C(C)=C/CC3=C(O)C=C(C)OC3=O)(C)[C@](CCC2=C)([H])C1(C)C	BGC0002845_MIBiGv4.0_Sartorypyrone G
+O=C(O)C=1C(O)=CC(O)=CC1C=CCCCCC	BGC0002847_MIBiGv4.0_2-(1E)-1-Hepten-1-yl-4,6-dihydroxybenzoic acid 
+O=C(O)C=1C(O)=CC(O)=CC1C=CCCC	BGC0002847_MIBiGv4.0_2,4-Dihydroxy-6-(1E)-1-penten-1-ylbenzoic acid
+O=C(O)C=1C(O)=CC(O)=CC1CCCCC	BGC0002847_MIBiGv4.0_olivetolic acid
+O=C(O)C=1C(O)=CC(O)=CC1CCCCCCC	BGC0002847_MIBiGv4.0_sphaerophorolcarboxylic acid
+OC1=C(C(O)=O)C(C)=C(C)C(OC(C2=C(O)C(C)=C(O)C=C2C)=O)=C1C	BGC0002848_MIBiGv4.0_CJ-20557
+OC1=C(C(N[C@@H](C(O)=O)[C@H](O)C)=O)C(C)=C(C)C(OC(C2=C(O)C(C)=C(O)C=C2C)=O)=C1C	BGC0002848_MIBiGv4.0_duricamidepside
+OC(C(C)(C)[C@@H](O)/C(C)=C/C=C/C)=O	BGC0002849_MIBiGv4.0_Luteodiene A
+O[C@H]1[C@H](OC(C(C)(C)[C@@H](O)/C(C)=C/C=C/C)=O)[C@@H](CO)O[C@@H](O[C@H]([C@H]2O)[C@H](O)[C@@H](O)[C@H](O)[C@@H]2O)[C@@H]1O	BGC0002849_MIBiGv4.0_Luteodienoside A
+O=C1OC(/C=C/C)=CC(O)=C1CC	BGC0002852_MIBiGv4.0_3,6-dialkyl-Œ±-pyrone
+O=C1OC(/C=C/C)=CC(O)=C1	BGC0002852_MIBiGv4.0_4-Hydroxy-6-(1E)-1-propen-1-yl-2H-pyran-2-one
+C=C1[C@@H](CC2=CNC3=C2C=CC=C3)[C@](CC[C@H](O)[C@@]4(C)CC/C=C(C)\C)(C)[C@@]4([H])CC1	BGC0002855_MIBiGv4.0_emindole SA
+O=C1OC2=C(C(C)=C(C/C=C(C)/C)C(O)=C2[H])OC3=C(CO)C(O)=CC(C)=C31	BGC0002864_MIBiGv4.0_Mollicellin Z 
+O=C1OC2=C(C(C)=C(C/C=C(C)/C)C(O)=C2C)OC3=C(CO)C(O)=CC(C)=C31	BGC0002864_MIBiGv4.0_Mollicellin Z1
+CC(/C=C/C1=CC2=C(Cl)C([C@](C)(O)C(C2=CN1CCCO)=O)=O)=C\C(CC)C	BGC0002867_MIBiGv4.0_7-deacetylisochromophilone VI
+OC(C(C(CC)C)O)(C)CCC1=CC2=C(Cl)C([C@](C)(OC(C3C(C)=O)=O)C3C2=CO1)=O	BGC0002867_MIBiGv4.0_chlorogeumsanol B
+O[C@]([C@@H]([C@H](CC)C)O)(C)CCC1=CC2=CC([C@](C)(OC([C@@]3([H])C(C)=O)=O)[C@@]3([H])C2=CO1)=O	BGC0002867_MIBiGv4.0_geumsanol B
+CC[C@H](C)/C=C(\C)/C=C/C1=CC2=C(C(=O)[C@](C(=O)C2=CN1CCO)(C)OC(=O)C)Cl	BGC0002867_MIBiGv4.0_isochromophilone VI
+CC[C@H](C)/C=C(\C)/C=C/C1=CC2=CC(=O)[C@]3(C(C2CO1)C(C(=O)O3)C(=O)C)C	BGC0002867_MIBiGv4.0_isorotiorin
+CC[C@H](C)/C=C(\C)/C=C/C1=CC2=CC(=O)[C@]3([C@@H](C2=CO1)[C@@H](C(=O)O3)C(=O)C)C	BGC0002867_MIBiGv4.0_ochrephilone
+CC[C@H](C)/C=C(\C)/C=C/C1=CC2=C(C(=O)[C@](C(=O)C2=CO1)(C)OC(=O)C)Cl	BGC0002867_MIBiGv4.0_Sclerotiorin
+[C@@]([C@H](CCCCC/C(=C/[C@@H](CC1=CC=CC=C1)C)/C)C(O)=O)(CC(O)=O)(C(O)=O)O	BGC0002872_MIBiGv4.0_L-731.120
+CC[C@H](C)C[C@H](C)/C=C/C(=O)O[C@@H]1[C@H]([C@]2(O[C@@H]([C@]([C@@]1(O2)C(=O)O)(C(=O)O)O)C(=O)O)CCC(=C)[C@H]([C@H](C)CC3=CC=CC=C3)OC(=O)C)O	BGC0002872_MIBiGv4.0_Zaragozic acid A
+CCC1=C(C2=C(C(=C1O)O)C(=O)C(=CC2=O)OC)O	BGC0002874_MIBiGv4.0_cristazarin
+C=C1[C@H](CC2=CNC3=C2C=CC=C3)[C@](CC[C@H](O)[C@@]4(C)CC/C=C(C)\C)(C)[C@@]4([H])CC1	BGC0002876_MIBiGv4.0_emindole DA
+C/C=C/C=C/C=C/CCCCCC/C=C/C=C/C1=CC(O)=CC(=O)O1	BGC0002877_MIBiGv4.0_Cordypyrone A
+O=C1C=C(O)C=C(/C=C/C=C/CCCCCC/C=C/C=C/C=C/CO)O1	BGC0002877_MIBiGv4.0_Cordypyrone B
+CC1=CC(=C2C3=C1C(=O)OC4=CC(=C(C(=C43)C(=O)C2=O)O)OC)O	BGC0002883_MIBiGv4.0_biruloquinone
+CC1=[O+][Fe-3]2345ON1CCC[C@@H]1NC(=O)CNC(=O)[C@H](CO)NC(=O)CNC(=O)[C@H](CCCN(O2)C(C)=[O+]3)NC(=O)[C@H](CCCN(O4)C(C)=[O+]5)NC1=O	BGC0002884_MIBiGv4.0_ferricrocin
+C[C@@H]1C[C@@H]2[C@H](O2)/C=C\C=C\C(=O)CC3=C(C(=CC(=C3)O)O)C(=O)O1	BGC0002887_MIBiGv4.0_monocillin I
+C[C@H]1C/C=C/CC/C=C/C(=O)CC2=C(C(=CC=C2)O)C(=O)O1	BGC0002887_MIBiGv4.0_monocillin II
+C[C@@H]1C[C@@H]2[C@H](O2)CC/C=C/C(=O)CC3=C(C(=CC(=C3)O)O)C(=O)O1	BGC0002887_MIBiGv4.0_monocillin III
+C[C@@H]1C[C@@H]2[C@H](O2)/C=C\C=C\C(=O)CC3=C(C(=CC(=C3Cl)O)O)C(=O)O1	BGC0002887_MIBiGv4.0_radicicol
+CCC(C)C(C(C)C1=CC(=C2C(=O)C3C(CCC4C3(C(CC(O4)C(C)(C)O)O)C)(OC2=C1O)C)O)OC(=O)C	BGC0002891_MIBiGv4.0_arthripenoid C
+O=C(NC(C(O)=O)C1=CC(OC2=C(Cl)C=C(C(NC(C3NC(C(C4=CC(O)=CC(O)=C4)NC(C(NC(C(N)CC5=CC=C(O)C=C5)=O)CC6=CNC7=CC8=CC=C76)=O)=O)=O)C(N9)=O)C=C2)=C(O)C=C1)C9CC(C=C%10)=CC=C%10OC%11=CC3=CC8=C%11O	BGC0002892_MIBiGv4.0_kistamicin
+CCCC[C@@H](C)[C@H]([C@H](C[C@@H](C)CCCCCC[C@H](C[C@@H]([C@H](C)N)O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O	BGC0002904_MIBiGv4.0_fumonisin B2
+CCCC[C@@H](C)[C@H]([C@H](C[C@@H](C)CCCCCCCC[C@H]([C@H](C)N)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O	BGC0002904_MIBiGv4.0_fumonisin B4
+C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O	BGC0002911_MIBiGv4.0_naringenin
+C1=CC(=CC=C1/C=C/C(=O)C2=C(C=C(C=C2O)O)O)O	BGC0002911_MIBiGv4.0_naringenin chalcone
+CC1=C2C(=C(C3=C1COC3=O)OC)C[C@H]4[C@@]5(CCC(=O)OC([C@H]5CC[C@]4(O2)C)(C)C)C	BGC0002930_MIBiGv4.0_13-deacetoxyaustalide I
+CC1=C2C(=C(C3=C1COC3=O)OC)C[C@H]4[C@@]5(CCC(=O)OC([C@H]5[C@H](C[C@]4(O2)C)O)(C)C)C	BGC0002930_MIBiGv4.0_13-O-deacetylaustalide I
+[H][C@@]12CC[C@]3(C)OC4=C(C)C5=C(C(=O)OC5)C(O)=C4C[C@]3([H])[C@@]1(C)CC[C@H](O)C2(C)C	BGC0002930_MIBiGv4.0_6'-O-demethyl-dihydroaustalide K
+CC1=C2COC(=O)C2=C(C3=C1O[C@]4(C[C@H]([C@@]56[C@@]([C@H]4C3)(CC[C@@](O5)(OC6(C)C)OC)C)O)C)OC	BGC0002930_MIBiGv4.0_austalide B
+CC1=C2COC(=O)C2=C(C3=C1O[C@]4(C[C@H]([C@@]56[C@@]([C@H]4C3)([C@@H](C[C@@](O5)(OC6(C)C)OC)O)C)O)C)OC	BGC0002930_MIBiGv4.0_austalide F
+[H][C@@]12CC[C@]3(C)OC4=C(C)C5=C(C(=O)OC5)C(OC)=C4C[C@]3([H])[C@@]1(C)CCC(=O)C2(C)C	BGC0002930_MIBiGv4.0_austalide K
+[H][C@]12CC3=C(OC)C4=C(COC4=O)C(C)=C3O[C@@]1(C)C[C@@H](O)[C@]1(O)[C@]2(C)CCC(=O)OC1(C)C	BGC0002930_MIBiGv4.0_austalide U
+[H][C@@]12CC[C@]3(C)OC4=C(C)C5=C(C(=O)OC5)C(O)=C4C[C@]3([H])[C@@]1(C)CCC(=O)C2(C)C	BGC0002930_MIBiGv4.0_austalide V
+O=C1CC[C@@]2(C)[C@@](C1(C)C)(O)CC[C@@]([C@]32C)([H])CC4=C3NC5=CC=CC(C/C=C(C)/C)=C54	BGC0002933_MIBiGv4.0_16-prenyllecanindole B
+O=C1CC[C@@]2(C)[C@@](C1(C)C)(O)CC[C@@]([C@]32C)([H])CC4=C3NC5=CC=C(C/C=C(C)/C)C(C/C=C(C)/C)=C54	BGC0002933_MIBiGv4.0_16,17-diprenyllecanindole B
+O=C1CC[C@@]2(C)[C@@](C1(C)C)(O)CC[C@@]([C@]32C)([H])CC4=C3NC5=CC=CC=C54	BGC0002933_MIBiGv4.0_lecanindole B
+O[C@H]1CC[C@@]2(C)[C@@](C1(C)C)([H])CC[C@@]([C@]32C)([H])CC4=C3NC5=CC=CC=C54	BGC0002933_MIBiGv4.0_prelecanindole
+O=C1CC[C@@]2(C)[C@@](C1(C)C)(O)CC[C@@]([C@]32C)([H])CC4=C3NC5=CC=C([C@H](O)[C@@H](O6)C6(C)C)C(C/C=C(C)/C)=C54	BGC0002933_MIBiGv4.0_sespendole
+O=C1CC[C@@]2(C)[C@@](C1(C)C)(O)CC[C@@]([C@]32C)([H])CC4=C3NC5=CC=C6C(C[C@](C(C)(C)OC7(C)C)([H])[C@@]7([H])C6=O)=C54	BGC0002933_MIBiGv4.0_trans-cyclosespendole
+CC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)C)C(=O)OC3=CC(=C(C(=C3)C)C(=O)O)O)O)O)O	BGC0002936_MIBiGv4.0_Gyrophoric acid
+[H][C@@]12CC[C@@](C)(O)[C@H](COC3=C(C)C(OC)=C4C(C(O)OC4=O)C3CO)C1[C@H](C)CCC2(C)C	BGC0002953_MIBiGv4.0_11'-O-desmethyl fendlerol
+CC1=CC[C@@](CC[C@H]2C(C)C)(C)[C@]2([H])C/C=C(C)\[C@@]3([H])/C([C@@H](C)CC3)=C/C1	BGC0002956_MIBiGv4.0_betaestacin I
+C[C@H]\1CC[C@@H]/2/C1=C/C/C(=C/C[C@@]3(CC[C@H]([C@H]3C/C=C2/C)[C@H](C)CO)C)/C	BGC0002956_MIBiGv4.0_betaestacin III
+C[C@H]\1CC[C@@H]/2/C1=C/C/C(=C/C[C@@]3(CC[C@H]([C@H]3C/C=C2/C)[C@H](C)C(=O)O)C)/C	BGC0002956_MIBiGv4.0_betaestacin IV
+C/C/1=C/C[C@@H]2[C@@H](CC[C@]2(C[C@H]([C@](C/C=C\3/[C@H]1CC[C@@]3(C)O)(C)O)O)C)[C@H](C)C(=O)O	BGC0002956_MIBiGv4.0_betaestacin Va
+C/C/1=C/C[C@@H]2[C@@H](CC[C@]2(C[C@H]([C@@](C/C=C\3/[C@H]1CC[C@@]3(C)O)(C)O)O)C)[C@H](C)C(=O)O	BGC0002956_MIBiGv4.0_betaestacin Vb
+C/C/1=C/C[C@@H]2[C@@H](CC[C@]2(C[C@H](C(=C)C/C=C\3/[C@H]1CC[C@@]3(C)O)O)C)[C@H](C)C(=O)O	BGC0002956_MIBiGv4.0_betaestacin Vc
+C[C@H]1CCC/2=C1[C@H](C/C(=C/C[C@@]3(CC[C@H]([C@H]3C/C=C2/C)[C@H](C)C(=O)O)C)/C)O	BGC0002956_MIBiGv4.0_betaestacin VI
+C/C=C/C=C(C)/[C@H](O)C(C)(C)C(O[C@H]1[C@H](O)[C@@H](O)[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O)[C@H](O)[C@@H]2O)O[C@@H]1CO)=O	BGC0002966_MIBiGv4.0_luteodienoside A
+CCCCC1=C(C)OC(C=C1)=O	BGC0002970_MIBiGv4.0_prexylariolide D
+CCCC(C1=C(OC(=O)C=C1)C)O	BGC0002970_MIBiGv4.0_xylariolide D
+COC(C(C)(C)C(C(C)C(O)/C=C/C)=O)=O	BGC0002971_MIBiGv4.0_Fugralin A
+O=C(C1(C)C)OC(/C=C/C)C(C)C1=O	BGC0002971_MIBiGv4.0_Fugralin B
+CCCCCCC(CCCCCC/C=C/[C@@H]([C@H]([C@@H]([C@@H](C(=O)O)N)O)O)O)O	BGC0002980_MIBiGv4.0_sphingofungin B
+CCCCCCC(O)CCCCCCC=C[C@H](OC(C)=O)[C@@H](O)[C@H](O)[C@H](N)C(=O)O	BGC0002980_MIBiGv4.0_sphingofungin C
+CCCCCCC(CCCCCC/C=C/[C@@H]([C@H]([C@@H]([C@@H](C(=O)O)NC(=O)C)O)O)O)O	BGC0002980_MIBiGv4.0_sphingofungin D
+C[C@H]1CCCC=C[C@@H]2C[C@@H](C[C@H]2[C@@H](/C=C/C(=O)O1)O)O	BGC0002984_MIBiGv4.0_Brefeldin A
+CCC(C)[C@@H]1NC(=O)CNC(=O)[C@H](CC2=CC=CC=C2)N(C)C(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)O)N(C)C(=O)[C@H](CC(C)C)NC(=O)[C@@H]([C@@H](O)[C@H](O)CO)OC(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC1=O	BGC0002985_MIBiGv4.0_xylomyrocin A
+CCC(C)[C@@H]1NC(=O)CNC(=O)[C@H](CC2=CC=CC=C2)N(C)C(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)O)N(C)C(=O)[C@H](CC(C)C)NC(=O)[C@H](O)[C@@H](O)[C@@H](CO)OC(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC1=O	BGC0002985_MIBiGv4.0_xylomyrocin B
+CCC(C)[C@@H]1NC(=O)CNC(=O)[C@H](CC2=CC=CC=C2)N(C)C(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)O)N(C)C(=O)[C@H](CC(C)C)NC(=O)[C@H](O)[C@@H](O)[C@H](O)COC(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC1=O	BGC0002985_MIBiGv4.0_xylomyrocin C
+OC1=CC(/C(C)=C/C(C)=C/C(C)=C/CC/C(C)=C/C=C/C(C)CC)=CC(O)=C1	BGC0002987_MIBiGv4.0_scirpilin A
+COC1=C(Cl)C(/C(C)=C/C(C)=C/C(C)=C/CC/C(C)=C/C=C/C(C(O)=O)CC(O)=O)=C(Cl)C(OC)=C1	BGC0002987_MIBiGv4.0_scirpilin B
+COC1=C(Cl)C(/C(C)=C/C(C)=C/C(C)=C/CC/C(C)=C/C=C/C(C(O)=O)C(O)C(O)=O)=C(Cl)C(OC)=C1	BGC0002987_MIBiGv4.0_scirpilin C
+OC1=CC(/C(C)=C/C(C)=C/C(C)=C/CC/C(C)=C/C=C/C(C(O)=O)C(O)C(O)=O)=CC(O)=C1	BGC0002987_MIBiGv4.0_scirpilin D
+OC1=CC(/C(C)=C/C(C)=C/C(C)=C/CC/C(C)=C/C=C/C(C(O)=O)C(O)C(OC)=O)=CC(O)=C1	BGC0002987_MIBiGv4.0_scirpilin E
+OC1=C(Cl)C(/C(C)=C/C(C)=C/C(C)=C/CC/C(C)=C/C=C/C(C(O)=O)C(O)C(O)=O)=C(Cl)C(O)=C1	BGC0002987_MIBiGv4.0_scirpilin F
+OC1=C(Cl)C(/C(C)=C/C(C)=C/C(C)=C/CC/C(C)=C/C=C/C(C(O)=O)C(O)C(OC)=O)=C(Cl)C(O)=C1	BGC0002987_MIBiGv4.0_scirpilin G
+CC(/C=C/C=C(\C)C(O)=C1C(=O)N[C@@H](CC2=CC=C(O)C=C2)C1=O)=C\[C@@H](C)[C@H](C)O	BGC0002993_MIBiGv4.0_Oxopyrrolidine A
+CC(/C=C/C=C(\C)C(O)=C1C(=O)N[C@@H](CC2=CC=C(O)C=C2)C1=O)=C\[C@H](C)[C@@H](C)O	BGC0002993_MIBiGv4.0_Oxopyrrolidine B
+C[C@H]1C(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)NC2=CC=CC=C2C(=O)N1)CC3=CC=C(C=C3)O)C)CC(C)C)CC4=CC=CC=C4)C	BGC0002995_MIBiGv4.0_cycloaspeptide A
+C[C@H]1C(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)NC2=CC=CC=C2C(=O)N1)CC3=CC=CC=C3)C)CC(C)C)CC4=CC=CC=C4)C	BGC0002995_MIBiGv4.0_cycloaspeptide E
+CN1C(=O)C2=CC=CC=C2NC(=O)[C@]13[C@@H](O3)C4=CC(=CC=C4)O	BGC0002996_MIBiGv4.0_Cyclopenol
+O=C1NC2=CC=CC=C2C(C2=CC=CC=C2)=C1O	BGC0002996_MIBiGv4.0_viridicatin
+C1=CC=C2C(=C1)C(=C(C(=O)N2)O)C3=CC(=CC=C3)O	BGC0002996_MIBiGv4.0_viridicatol
+CC(C)=CCC\C(C)=C\CC\C(C)=C\CC1=C(O)C(C=O)=C(C)C(Cl)=C1O	BGC0002998_MIBiGv4.0_ilicicolinal
+CC(C)=CCC\C(C)=C\CC\C(C)=C\CC1=C(O)C(C(O)=O)=C(C)C(Cl)=C1O	BGC0002998_MIBiGv4.0_ilicicolinic acid A
+CCCCC1C2=C(C3=C(CC(O3)C(C)(C)O)C=C2)C(=O)O1	BGC0002999_MIBiGv4.0_(2S)-annullatin A
+CCCCCC1=C(C(=CC=C1)O)CO	BGC0002999_MIBiGv4.0_2-hydroxymethyl-3-pentylphenol
+C/C=C(\C)/C[C@H](C)C[C@H](C)[C@@H]1[C@@H](C=CC(=O)O1)OC(=O)/C=C/C(=C/[C@H](CCO)CO)/C	BGC0003006_MIBiGv4.0_Rasfonin
+O=C1C(O)=CC2=C(C[C@](CC[C@](OC(C=C(O)C(C=C3C)=O)=C3C4)(C)[C@]4([H])CC(C)(C)/C=C/C5)([H])[C@@]5(C)O2)C(C)=C1	BGC0003011_MIBiGv4.0_Dehydroxyeupenifeldin
+CC1=CC(=O)C(O)=CC2=C1C[C@@H]1C[C@@H](O)[C@]3(C)OC4=C(C[C@@H]3CC(C)(C)C=CC[C@@]1(C)O2)C(C)=CC(=O)C(O)=C4	BGC0003011_MIBiGv4.0_Eupenifeldin
+O=C1C(O)=CC2=C(C[C@](C[C@H](O)[C@](OC(C=C(O)C=C3C)=C3C4)(C)[C@]4([H])CC(C)(C)/C=C/C5)([H])[C@@]5(C)O2)C(C)=C1	BGC0003011_MIBiGv4.0_Noreupenifeldin B
+C/C(C1=CC(O)=C(C)C2=C1OC3=C(C(O2)=O)C(C)=C(Cl)C(O)=C3)=C\C	BGC0003013_MIBiGv4.0_2-chlorounguinol
+CC1=C(Cl)C(O)=CC(O2)=C1C(OC3=C2C(/C(C)=C/C)=CC(O)=C3C)=O	BGC0003013_MIBiGv4.0_2-chlorounguinol
+C/C(C1=C(Cl)C(O)=C(C)C2=C1OC3=C(C(O2)=O)C(C)=C(Cl)C(O)=C3C)=C\C	BGC0003013_MIBiGv4.0_2,7-dichlorounguinol
+C/C=C(C1=C(Cl)C(OC)=C(C)C(O)=C1C(OC2=CC(/C(C)=C/C)=C(C(O)=O)C(O)=C2C)=O)\C	BGC0003013_MIBiGv4.0_3-chloroagonodepsiode
+CC1=C(Cl)C(O)=C(Cl)C(O)=C1C(OC2=CC(/C(C)=C/C)=CC(O)=C2C)=O	BGC0003013_MIBiGv4.0_3,5-dichlorodecarboxyunguidepside
+CC1=C(Cl)C(O)=C(Cl)C(O)=C1C(OC2=CC(/C(C)=C/C)=C(C(O)=O)C(O)=C2C)=O	BGC0003013_MIBiGv4.0_3,5-dichlorunguidepside
+CC1=CC(O)=C(Cl)C(O)=C1C(OC2=CC(/C(C)=C/C)=CC(O)=C2C)=O	BGC0003013_MIBiGv4.0_5-chlorodecarboxyunidepside
+CC1=CC(O)=C(Cl)C(O)=C1C(OC2=CC(/C(C)=C/C)=C(C(O)=O)C(O)=C2C)=O	BGC0003013_MIBiGv4.0_5-chlorounguidepside
+C/C(C1=CC(O)=C(C)C2=C1C(OC3=C(C(/C(C)=C/C)=C(C(O)=O)C(O)=C3C)O2)=O)=C\C	BGC0003013_MIBiGv4.0_7-carbocyfolipastatin
+C/C=C(C1=CC(O)=C(C)C(OC(C2=C(O)C(C)=C(O)C=C2/C(C)=C/C)=O)=C1)\C	BGC0003013_MIBiGv4.0_agonodepside A
+C/C=C(C1=CC(OC)=C(C)C(O)=C1C(OC2=CC(C)=C(C(O)=O)C(O)=C2)=O)\C	BGC0003013_MIBiGv4.0_asperdepside A
+C/C=C(C1=C(C(O)=O)C(O)=C(C)C2=C1OC3=C(C(O2)=O)C(C)=CC(O)=C3)\C	BGC0003013_MIBiGv4.0_aspergillusidone A
+C/C=C(C1=C(Cl)C(O)=C(C)C2=C1OC3=C(C(O2)=O)C(C)=CC(OC)=C3Cl)\C	BGC0003013_MIBiGv4.0_aspergillusidone B
+C/C=C(C1=C(Cl)C(O)=C(C)C2=C1OC3=C(C(O2)=O)C(C)=C(Cl)C(O)=C3)\C	BGC0003013_MIBiGv4.0_aspergillusidone C
+C/C(C1=CC(O)=C(C)C(O)=C1)=C\C	BGC0003013_MIBiGv4.0_aspergillusphenol A
+C/C(C1=C(C(O)=O)C(O)=C(C)C(O)=C1)=C\C	BGC0003013_MIBiGv4.0_aspergillusphenol A carboxylic acid
+C/C=C(C1=CC(O)=C(C)C2=C1C(OC3=C(C(/C(C)=C/C)=C(Cl)C(O)=C3C)O2)=O)\C	BGC0003013_MIBiGv4.0_emeguisin A
+C/C=C(C1=CC(OC)=C(C)C2=C1C(OC3=C(C(/C(C)=C/C)=C(Cl)C(O)=C3C)O2)=O)\C	BGC0003013_MIBiGv4.0_emeguisin B
+C/C(C1=CC(O)=C(C)C2=C1C(OC3=C(C(/C(C)=C/C)=CC(O)=C3C)O2)=O)=C\C	BGC0003013_MIBiGv4.0_folipastatin
+CC1=CC(O)=CC(O)=C1C(OC2=CC(C)=C(C(O)=O)C(O)=C2C)=O	BGC0003013_MIBiGv4.0_lecanoric acid   
+C/C=C(C1=C2C(OC(C3=C(C)C(Cl)=C(O)C(Cl)=C3O2)=O)=C(C)C(OC)=C1Cl)\C	BGC0003013_MIBiGv4.0_nidulin
+C/C(C1=C(Cl)C(O)=C(C)C2=C1OC3=C(Cl)C(O)=C(Cl)C(C)=C3C(O2)=O)=C\C	BGC0003013_MIBiGv4.0_nornidulin
+C/C(C1=CC(OC(C2=C(O)C=C(O)C=C2C)=O)=C(C)C(O)=C1C(O)=O)=C\C	BGC0003013_MIBiGv4.0_unguidepside A
+CC1=CC(O)=CC(O2)=C1C(OC3=C2C(/C(C)=C/C)=CC(O)=C3C)=O	BGC0003013_MIBiGv4.0_unguinol
+CCCCC(C)CC(C)C(O)=C1C(=O)NC(CC2=CC=CC=C2)C1=O	BGC0003017_MIBiGv4.0_Macrollin A
+CCCCC(C)CC(C)C(O)=C1C(=O)NC(CC2=CC=C(O)C=C2)C1=O	BGC0003017_MIBiGv4.0_Macrollin B
+CCCCC(C)CC(C)C(O)=C1C(=O)NC(C(O)C2=CC=CC=C2)C1=O	BGC0003017_MIBiGv4.0_Macrollin C
+CCCCC(C)CC(C)C(O)=C1C(=O)NC(C(O)C2=CC=C(O)C=C2)C1=O	BGC0003017_MIBiGv4.0_Macrollin D
+CC[C@H](C)/C=C(\C)/C=C/C1=CC2=C(C(=O)[C@]3([C@@H](C2=CO1)[C@@H](C(=O)O3)C(=O)C)C)Cl	BGC0003018_MIBiGv4.0_isochromophilone I
+CC[C@H](C)/C=C(\C)/C=C/C1=CC2=C(C(=O)[C@](C(=O)C2=CO1)(C)OC(=O)C)Cl	BGC0003018_MIBiGv4.0_sclerotiorin
+CC[C@H]1CC/C(=C2/C(=O)O[C@H](C)C2=O)O1	BGC0003028_MIBiGv4.0_Terrestric acid
+C/C=C(CCCCCCC/C=C\C=C\C=C/C[C@@H](O)CC(O)=O)\C	BGC0003032_MIBiGv4.0_soppiline A
+C/C=C(CCCCCCC/C=C\C=C\C=C/CC1=CC(O)=CC(O)=C1)\C	BGC0003032_MIBiGv4.0_soppiline B
+C/C=C(CCCCCCC/C=C\C=C\C=C/CC1=CC(O)=CC(O)=C1)\C(O)=O	BGC0003032_MIBiGv4.0_soppiline C
+C[C@H]\1CC/C=C(/CC[C@H](/C=C1)C(C)(C)O)\C	BGC0003034_MIBiGv4.0_Germacradienol
+CC(C)[C@@H]1[C@@]([C@@]([H])([C@@H](O)OC2)C3=C)([H])[C@H]2[C@@]3(C)CC1	BGC0003041_MIBiGv4.0_prehelminthosporol
+CC(C)[C@@H]1[C@@]([C@@]([H])(CC2)C3=C)([H])[C@H]2[C@@]3(C)CC1	BGC0003041_MIBiGv4.0_sativene
+CC(C)[C@@H]1C(=O)N([C@H](C(=O)O[C@@H](C(=O)N([C@H](C(=O)O[C@@H](C(=O)N([C@H](C(=O)O1)CC2=CC=CC=C2)C)C(C)C)CC3=CC=CC=C3)C)C(C)C)CC4=CC=CC=C4)C	BGC0003047_MIBiGv4.0_Beauvericin
+CC1(C)C=C2C/C=C(CO)\[C@@]3([H])[C@@]([C@@H](C)[C@H](O)[C@@H]3O)([H])C[C@@]2(C)CC1	BGC0003054_MIBiGv4.0_talaronoid C
+CC1(C=C2C/C=C([C@]3([C@@]([H])(C[C@]2(CC1)C)[C@H](CC3)C)[H])/C)C	BGC0003054_MIBiGv4.0_talaronoide
+CC(C)C[C@@H]1NC(=O)[C@@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@@H]2CC[C@H]3O[C@H](C)[C@@H](NC1=O)C(=O)N32	BGC0003072_MIBiGv4.0_Fusahexin
+C[C@H]1C(=O)N[C@H](C(=O)N1)CC2=C(NC3=C(C=C(C=C23)CC=C(C)C)CC=C(C)C)C(C)(C)C=C	BGC0003076_MIBiGv4.0_echinulin
+OC1=CC2=C(C(C/C=C(C)/C)=C1O)OC3=C2C(OC)=CC(C4=CC=C(O)C(O)=C4C/C=C(C)/C)=C3OC	BGC0003077_MIBiGv4.0_uscandidusin A 
+CC(C)C[C@H](N1)C(N2[C@]3([H])N(C(C)=O)C4=CC=CC=C4[C@]3(OC(C)=O)C[C@H]2C1=O)=O	BGC0003085_MIBiGv4.0_(-)-protubonine B
+CC(C)C[C@H](N1)C(N2[C@]3([H])NC4=CC=CC=C4[C@]3(OC(C)=O)C[C@H]2C1=O)=O	BGC0003085_MIBiGv4.0_protubonine C 
+CC(C)C[C@H](N1)C(N2[C@]3([H])NC4=CC=CC=C4[C@]3(O)C[C@H]2C1=O)=O	BGC0003085_MIBiGv4.0_protubonine D 
+O=C(C(C)(C)C=C)NC1=C(C(CCN2C(CC[C@H]2O)=O)=O)C=CC=C1	BGC0003088_MIBiGv4.0_(-)-(R)-penindolene A
+O=C(C(C)(C)C=C)NC1=C(C(CCN2C(CC[C@H]2OC)=O)=O)C=CC=C1	BGC0003088_MIBiGv4.0_(-)-(R)-penindolene B
+CC(C=C)(C)C1=CC2=C(CCN3C(CC[C@H]3O)=O)C=CC=C2N1	BGC0003088_MIBiGv4.0_(-)-(R)-penindolene C
+CC(C=C)(C)C1=CC2=C(CCN3C(CC[C@H]3OC)=O)C=CC=C2N1	BGC0003088_MIBiGv4.0_(-)-(R)-penindolene D
+O=C(C(C)(C)C=C)NC1=C(C(CCN2C(CC[C@@H]2O)=O)=O)C=CC=C1	BGC0003088_MIBiGv4.0_(+)-(S)-penindolene A
+O=C(C(C)(C)C=C)NC1=C(C(CCN2C(CC[C@@H]2OC)=O)=O)C=CC=C1	BGC0003088_MIBiGv4.0_(+)-(S)-penindolene B
+CC(C=C)(C)C1=CC2=C(CCN3C(CC[C@@H]3O)=O)C=CC=C2N1	BGC0003088_MIBiGv4.0_(+)-(S)-penindolene C
+CC(C=C)(C)C1=CC2=C(CCN3C(CC[C@@H]3OC)=O)C=CC=C2N1	BGC0003088_MIBiGv4.0_(+)-(S)-penindolene D
+C[C@@H]1CC(=O)C2=C(C3=C(C=CC(=C3O[C@@]2([C@@H]1OC(=O)C)COC(=O)C)C4=C5C(=C(C=C4)O)C(=C6C(=O)C[C@H]([C@H]([C@]6(O5)COC(=O)C)OC(=O)C)C)O)O)O	BGC0003093_MIBiGv4.0_Phomoxanthone A
+CC1=CC(=C(C2=C1C(=O)OC3=C(C(=O)[C@H]([C@]([C@H]3O2)(C)OC)O)C)C)O	BGC0003094_MIBiGv4.0_Roseopurpurin C
+CC1=CC(=C(C2=C1C(=O)OC3=C(C(=O)[C@@H]([C@]([C@H]3O2)(C)OC)O)C)C)O	BGC0003094_MIBiGv4.0_Roseopurpurin D
+CC1=CC(=C(C2=C1C(=O)OC3=C(C(=C(C(=C3O2)C)O)O)C)C)O	BGC0003094_MIBiGv4.0_Roseopurpurin G
+O=C1OC(CC2=CC(O)=C(C(O)=C12)CC=CC)CCC=CC	BGC0003099_MIBiGv4.0_7-But-15-enyl-6,8-dihydroxy-3(R)-pent-11-enylisochroman-1-one
+O=C1OC(CC2=CC(O)=C(C(O)=C12)CCCC)CCC=CC	BGC0003099_MIBiGv4.0_7-Butyl-6,8-dihydroxy-3(R)-pent-11-enylisochroman-1-one
+O=C1OC(/C=C/C=C/C)CC2=CC(O)=C(CCCC)C(O)=C12	BGC0003099_MIBiGv4.0_7-Butyl-6,8-dihydroxy-3(R)-pent-9,11-dienylisochroman-1-one
+CCCCCC(O1)CC2=CC(O)=C(CCCC)C(O)=C2C1=O	BGC0003099_MIBiGv4.0_7-Butyl-6,8-dihydroxy-3(R)-pentylisochroman-1-one
+CC1=C2CC3CC(C4(C(CC5=C(C=C(C(=O)C=C5O4)O)C)CC(C=CCC3(OC2=CC(=O)C(=C1)O)C)(C)C)C)O	BGC0003108_MIBiGv4.0_pycnidione
+OC1=C(C=O)C(/C=C/C=C/CCCCC)=CC=C1	BGC0003109_MIBiGv4.0_stachysalicyloid C
+O=C([C@@H](C)CC)[C@@H]1[C@@]2([H])C3=COC([C@@H]4C(C=CC[C@H]4C)=O)=CC3=CC([C@@]2(C)OC1=O)=O	BGC0003113_MIBiGv4.0_multiformin A
+O=C([C@@H](C)CC)C1=C2C3=COC([C@@H]4C(C=CC[C@H]4C)=O)=CC3=CC([C@@]2(C)OC1=O)=O	BGC0003113_MIBiGv4.0_multiformin B
+O=C([C@@H](C)CC)C1=C2C3=COC(C4=C(O)C=CC=C4C)=CC3=CC([C@@]2(C)OC1=O)=O	BGC0003113_MIBiGv4.0_multiformin C
+O=C([C@@H](C)CC)C1=C2C3=COC([C@@H]4C(C[C@@H](O)C[C@H]4C)=O)=CC3=CC([C@@]2(C)OC1=O)=O	BGC0003113_MIBiGv4.0_multiformin D
+O=C([C@@H](C)CC)[C@@H]1[C@@]2([H])C3=COC([C@@H]4C(C[C@@H](O)C[C@H]4C)=O)=CC3=CC([C@@]2(C)OC1=O)=O	BGC0003113_MIBiGv4.0_multiformin E
+O=C([C@@H](C)CC)[C@@H]1[C@@]2([H])C3=COC(C4=C(O)C=CC=C4C)=CC3=CC([C@@]2(C)OC1=O)=O	BGC0003113_MIBiGv4.0_multiformin F
+O=C([C@@H](C)CC)C1=C2C3=COC(C4=C(C)C[C@H](O)CC4=O)=CC3=CC([C@@]2(C)OC1=O)=O	BGC0003113_MIBiGv4.0_multiformin G
+O=C([C@@H](C)CC)[C@@H]1[C@@]2([H])C3=COC(C4=C(C)C[C@H](O)CC4=O)=CC3=CC([C@@]2(C)OC1=O)=O	BGC0003113_MIBiGv4.0_multiformin H
+O[C@]1(C)C(C=C2C=C([C@@H]3C(C[C@@H](O)C[C@H]3C)=O)OC=C2[C@]1([H])CC([C@@H](C)CC)=O)=O	BGC0003113_MIBiGv4.0_multiformin I
+O[C@]1(C)C(C=C2C=C(C3=C(O)C=CC=C3C)OC=C2[C@]1([H])CC([C@@H](C)CC)=O)=O	BGC0003113_MIBiGv4.0_multiformin J
+OC1=CC(C)=C(C(OCCC(O)=O)=O)C(O)=C1	BGC0003115_MIBiGv4.0_orsellinoxypropanoic acid
+C/C=C/C1=C(C(=C(C(=O)O1)CO)OC)COC(=O)C	BGC0003118_MIBiGv4.0_Multiforisin H
+C[C@H]1C[C@@]2([C@@H]/3[C@H]1C[C@]4(CC[C@@]5(CC[C@@H]([C@H]5[C@@H]4C/C=C3/C(=O)O2)C(=C)C)C)C)O	BGC0003119_MIBiGv4.0_Variecolactone
+C=C(C)[C@H]1CC[C@@]2(C)CC[C@]3(C)C[C@]4([H])[C@](CC[C@@H]4C)([H])/C(C)=C\C[C@@]3([H])[C@@]21[H]	BGC0003119_MIBiGv4.0_Variecoladiene
+C[C@H]1CC(=O)[C@@H]/2[C@H]1C[C@]3(CC[C@@]4(CC[C@@H]([C@H]4[C@@H]3C/C=C2/C=O)C(=C)C)C)C	BGC0003119_MIBiGv4.0_Variecolin
+O=C(C=C1O)C2=C(C=CC(C3=C(C=CC=C4O)C4=C(O)C=C3)=C2O)C1=O	BGC0003120_MIBiGv4.0_Hinnulin A
+CCCCCCCC(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C4=C(C[C@@H](CC4=O)O)C	BGC0003120_MIBiGv4.0_Minutellin A
+C[C@]1(O2)C(C=C3C=C(C4=C(C)C[C@H](O)CC4=O)OC=C3C1=C(C(CCCCC)=O)C2=O)=O	BGC0003120_MIBiGv4.0_Minutellin B
+C[C@]1(O2)C(C=C3C=C(C4=C(C)C=CC=C4O)OC=C3C1=C(C(CCCCCCC)=O)C2=O)=O	BGC0003120_MIBiGv4.0_Minutellin C
+C[C@]1(O2)C(C=C3C=C(C4=C(C)C=CC=C4O)OC=C3C1=C(C(CCCCCCCCC)=O)C2=O)=O	BGC0003120_MIBiGv4.0_Minutellin D
+CC1=CC(=C(C2=C1C(=CC(=O)O2)OC)C3=C(C=C(C4=C3OC(=O)C=C4OC)C)OC)OC	BGC0003126_MIBiGv4.0_kotanin
+CC(N(CCCC1NC(CNC(CNC(CNC(C(NC(C(NC1=O)CCCN(C(C)=O)O)=O)CCCN(C(C)=O)O)=O)=O)=O)=O)O)=O	BGC0003130_MIBiGv4.0_Desferriferrichrome
+C[C@H]1CCCC2=CC[C@@H](C[C@]12C)C(=C)C	BGC0003140_MIBiGv4.0_(+)-Aristolochene
+COC1=C(C[C@H]2[C@](CC[C@@H](O)[C@]3(CC/C=C(C)\C)C)(C)[C@@]3([H])CCC2=C)C(C(C(OC)=O)=C(CO)O1)=O	BGC0003142_MIBiGv4.0_FDDP D
+CC1=C(C(OC)=O)C(C(C[C@H]2[C@](CC[C@@H](O)[C@]3(CC/C=C(C)\C)C)(C)[C@@]3([H])CCC2=C)=C(OC)O1)=O	BGC0003142_MIBiGv4.0_FDDP E
+CCCCCC(=O)Cc1cc(O)cc2c1C(=O)Oc1cc(O)c(C(=O)O)c(CCCCC)c1O2	BGC0003144_MIBiGv4.0_Physodic acid
+O=C(/C1=C([C@@]2([H])[C@@H](/C(C)=C/C)C(C)=C[C@@]3([H])C[C@@H](C)CC[C@]23[H])\O)N[C@](C)([H])C1=O	BGC0003145_MIBiGv4.0_macrophasetin A
+O=C(/C1=C([C@@H]2[C@H](/C(C)=C/C)C(C)=C[C@]3([H])C[C@@H](C)CC[C@@]23[H])\O)N[C@@H](C)C1=O	BGC0003145_MIBiGv4.0_macrophasetin B
+O=C(/C1=C([C@@]2([H])[C@@H](/C(CO)=C/C)C(C)=C[C@@]3([H])C[C@@H](C)CC[C@]23[H])\O)N[C@](C)([H])C1=O	BGC0003145_MIBiGv4.0_macrophasetin C
+O=C1C[C@@]2(C)[C@](CC(C)C)(C(O2)=O)N1	BGC0003147_MIBiGv4.0_Taslactam C
+CC(C)C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H]2CSSC[C@H](C(=O)N[C@H](C(=O)N1)C(C)C)NC2=O)C(C)C	BGC0003148_MIBiGv4.0_Malformin A2
+CC(C[C@@H](C(N[C@@H]1CC(C)C)=O)NC([C@H](NC([C@@H](N2)CSSC[C@H](NC1=O)C2=O)=O)C(C)C)=O)C	BGC0003148_MIBiGv4.0_Malformin C
+O=C1C[C@@]2(C)[C@]([C@H](CC)C)(C(O2)=O)N1	BGC0003149_MIBiGv4.0_Taslactam D
+CC[C@H](C)C1=C(C)C2=CC(O)=C(C(=O)O)C(=O)C2=CO1	BGC0003150_MIBiGv4.0_Ascochitine
+CCCCC1C2=C(C3=C(CC(O3)C(C)(C)O)C=C2)C(=O)O1	BGC0003151_MIBiGv4.0_Annullatin D
+C/C/1=C/CC/C(=C\CC2(C(C/C=C(\C(CC1)O)/C)C(=C(C2=O)O)C(C)COC(=O)C)C)/C	BGC0003153_MIBiGv4.0_Fusaproliferin
+C/C/1=C/CC/C(=C\C[C@]2([C@H](C/C=C(\[C@H](CC1)O)/C)C(=C(C2=O)O)[C@H](C)CO)C)/C	BGC0003153_MIBiGv4.0_Terpestacin
+CC(=O)C1=C([C@@H]2[C@@H]3[C@@H](CC4=C5C3=CNC5=CC=C4)C(N2C1=O)(C)C)O	BGC0003154_MIBiGv4.0_cyclopiazonic acid
+C12CC\C(C)=C\CC\C(C)=C\CC1(C)CC=C2C(C)CC\C=C(/C)CCC=C(C)C	BGC0003157_MIBiGv4.0_Talaropentaene
+[H][C@@]12CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\[C@@]1([H])C2(C)C	BGC0003158_MIBiGv4.0_Macrophomene
+CC(C)=CCC\C(C)=C\CC[C@](C)(O)[C@@H]1CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\C1	BGC0003159_MIBiGv4.0_Colleterpenol 
+CC1=C[C@@H]2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C	BGC0003161_MIBiGv4.0_Agroclavine I
+C/C(=C\[C@H]1[C@@H](CC2=CNC3=CC=CC1=C23)NC)/CO	BGC0003161_MIBiGv4.0_chanoclavine I
+C[C@H]1[C@]2(N([C@H](C(=O)N1)CC(C)C)C(=O)[C@](O2)(C)NC(=O)[C@H]3CN([C@@H]4CC5=CNC6=CC=CC(=C56)C4=C3)C)O	BGC0003161_MIBiGv4.0_Ergobalansine
+C[C@@H](CO)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C	BGC0003161_MIBiGv4.0_ergonovine
+CC(NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C)O	BGC0003161_MIBiGv4.0_lysergic acid alpha-hydroxyethylamide
+CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)N	BGC0003161_MIBiGv4.0_lysergic acid amide
+CC(C)[C@H]1C(=O)N2CCC[C@H]2[C@]3(N1C(=O)[C@](O3)(C)NC(=O)[C@H]4CN([C@@H]5CC6=CNC7=CC=CC(=C67)C5=C4)C)O	BGC0003162_MIBiGv4.0_ergovaline
+C[C@@]12CC[C@H](O[C@H]1CC[C@]3([C@H]2CC[C@@H]4[C@@]3(C5=C(C4)C6=CC=CC=C6N5)C)C)C(C)(C)O	BGC0003163_MIBiGv4.0_Paspaline
+CC(C)(O)[C@@H]1CC[C@]2(C=O)C(CC[C@@]3(C)[C@H]2CCC2CC4=C(NC5=CC=CC=C45)[C@@]23C)O1	BGC0003163_MIBiGv4.0_Paspaline B
+CC(C)(O)[C@H]1O[C@H]2CC[C@@]3(C)[C@@](O)(CC[C@H]4CC5=C([NH]C6=CC=CC=C56)[C@@]43C)C2=CC1=O	BGC0003163_MIBiGv4.0_Paxilline
+C[C@@]12CC[C@@H]3[C@]4([C@]1(CC[C@H]5[C@]2(C6=C(C5)C7=CC=CC=C7N6)C)O)[C@@H](O4)[C@@H]8[C@@H](O3)C(O[C@@H](O8)C9C(O9)(C)C)(C)C	BGC0003163_MIBiGv4.0_Terpendole A
+CC(=C[C@H]1O[C@H]2[C@@H]3[C@@]4(O3)[C@H](CC[C@]5([C@]4(CC[C@@H]6[C@@]5(C7=C(C6)C8=CC=CC=C8N7)C)O)C)O[C@@H]2C(O1)(C)C)C	BGC0003163_MIBiGv4.0_Terpendole C
+C[C@]12CC[C@H]3[C@]([C@@H]1CC[C@@H]4[C@@]2(C5=C(C4)C6=CC=CC=C6N5)C)([C@@H](C[C@H](O3)C(C)(C)O)O)C	BGC0003163_MIBiGv4.0_Terpendole E
+C[C@]12CC[C@H]3[C@@]4([C@@]1(CC[C@@H]5[C@@]2(C6=C(C5)C7=CC=CC=C7N6)C)O)[C@H](O4)[C@@H]([C@H](O3)C(C)(C)O)O	BGC0003163_MIBiGv4.0_Terpendole I
+CC(=CCOC(C)(C)[C@@H]1[C@H]([C@@H]2[C@@]3(O2)[C@@H](O1)CC[C@]4([C@]3(CC[C@@H]5[C@@]4(C6=C(C5)C7=CC=CC=C7N6)C)O)C)O)C	BGC0003163_MIBiGv4.0_Terpendole J
+CC(=C[C@H]1O[C@H]2[C@@H]3[C@@]4(O3)C(=CC[C@]5([C@]4(CC[C@@H]6[C@@]5(C7=C(C6)C8=CC=CC=C8N7)C)O)C)O[C@@H]2C(O1)(C)C)C	BGC0003163_MIBiGv4.0_Terpendole K
+CC(=C[C@H]1O[C@H]2[C@@H]3[C@@]4(O3)[C@H](CC[C@]5([C@]4([C@H](C[C@@H]6[C@@]5(C7=C(C6)C8=CC=CC=C8N7)C)O)O)C)O[C@@H]2C(O1)(C)C)C	BGC0003163_MIBiGv4.0_Terpendole M
+CC(C)=C[C@@H]1O[C@H]2[C@@H](O[C@@H]3CC[C@]4(C)[C@](O)(CC[C@H](CC5(O)C(=O)NC6=C5C(CC5OC5(C)C)=CC=C6)[C@@]4(C)O)[C@@]34O[C@@H]24)C(C)(C)O1	BGC0003163_MIBiGv4.0_Terpendole N
