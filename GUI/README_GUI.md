@@ -4,4 +4,4 @@ In this directory you will find instructions and code for a fully automated tool
 same analyses as the tutorial but without you having to look at the code. It requires, however, some setting up (installing python if you don't yet have it) as well as some libraries.
 We hope you find this useful.
 
-The GUI wrapper was composed by Tyler Graf.
+The GUI wrapper was composed by Tyler Graf. Hear over to https://github.com/UNCG-tngraf for some cool LCMS in-house dereplication code. 
