@@ -1,0 +1,359 @@
+# The following modules need to be installed to run this script:
+# rdkit, pandas, scipy, matplotlib, openpyxl, and numpy
+# To install rdkit for Jupyter Lab, open a command prompt and type "pip install rdkit"
+# Repeat "pip install ___" for each of the other modules listed above.
+
+import pandas as pd
+import numpy as np
+import rdkit
+from rdkit import Chem
+from rdkit.Chem import Draw
+from rdkit.Chem import Descriptors
+from rdkit.Chem import AllChem
+from rdkit import DataStructs
+from scipy.cluster.hierarchy import linkage, dendrogram
+import matplotlib.pyplot as plt
+#############################################
+############################################
+############################################
+
+import tkinter as tk
+import os
+from tkinter import *
+from tkinter import filedialog as fd
+from tkinter.messagebox import showinfo
+
+import io
+from io import StringIO
+
+import ntpath
+import time
+import sys, math
+
+# Function to calculate Tanimoto similarity
+def calculate_tanimoto(fp1, fp2):
+    return DataStructs.FingerprintSimilarity(fp1, fp2)
+
+
+## _____INPUTS_window__________Take in all of the parameters
+root= tk.Tk()
+root.title("      Structure Similarity Search")
+btn20 = StringVar()
+
+ent1 = tk.Entry(root,font='serif 10')
+ent1.grid(row=2,column=1,ipadx=70,sticky=W+E)
+
+ent2 = tk.Entry(root,font='serif 10')
+ent2.grid(row=4,column=1,ipadx=70,sticky=W+E)
+
+root.lift()
+root.attributes('-topmost',True)
+root.after_idle(root.attributes,'-topmost',False)
+
+def select_MiBiG():
+    global MiBiG_directory
+    global MiBiG_filepath
+    global MiBiG_filename
+    global MiBiG_filepath_trim
+        
+    filetypes1 = (("CSV files", '*.csv'),("All files", '*.*'))
+
+    MiBiG_filepath = fd.askopenfilename(
+        title="Open MiBiG file",
+        initialdir='/Users/', #Add the path to your working directory here to save time in future runs of the program
+        filetypes=filetypes1)
+    MiBiG_filename = ntpath.basename(MiBiG_filepath)
+    ent1.insert(tk.END, MiBiG_filename)
+    print(MiBiG_filepath,"\n")
+    MiBiG_directory = ntpath.dirname(MiBiG_filepath[0])
+    MiBiG_filepath_trim = MiBiG_filepath[:-4] #Removes ".csv" from filepath to get the filename.
+    
+def get_SMILES():
+    global SMILES_directory
+    global SMILES_filepath
+    global SMILES_filename
+    global SMILES_filepath_trim
+    global SMILES_data
+    
+    filetypes2 = (("XLSX files", '*.xlsx'),("XLS files", '*.xls'),("All files", '*.*'))
+    
+    SMILES_filepath = fd.askopenfilename(
+        title="Open file(s)",
+        initialdir='/Users/', #Add the path to your working directory here to save time in future runs of the program
+        filetypes=filetypes2)
+    SMILES_filename = ntpath.basename(SMILES_filepath)
+    ent2.insert(tk.END, SMILES_filename)
+    SMILES_directory = ntpath.dirname(SMILES_filepath)
+    SMILES_filepath_trim = SMILES_filepath[:-5] #Removes ".xlsx" from filepath to get the filename.
+    SMILES_data = pd.read_excel (SMILES_filepath, engine='openpyxl')
+    
+def Button_fun():
+    global Dendro_count
+    global SMILES_count
+    global Sim_hits
+    global Create_dendro
+    
+    Sim_hits = entry07.get()
+    Create_dendro = btn20.get()
+    Dendro_count = entry22.get()
+
+    def isfloat(value):
+        try:
+            float(value)
+            return True
+        except ValueError:
+            return False
+
+    def is_int(value):
+        try:
+            int(value)
+            return True
+        except ValueError:
+            return False
+
+    if Dendro_count == "": #for when there is no input, it designates a default value
+        Dendro_count = 20
+    elif ((type(Dendro_count) == str) & (is_int(Dendro_count) == True)):
+        Dendro_count = int(Dendro_count)
+    else:
+        print(Dendro_count, " is an invalid entry.  Try again.")
+
+    if Sim_hits == "": #for when there is no input, it designates a default value
+        Sim_hits = 10
+    elif ((type(Sim_hits) == str) & (is_int(Sim_hits) == True)):
+        Sim_hits = int(Sim_hits)
+    else:
+        print(Sim_hits, " is an invalid entry.  Try again.")
+
+    root.destroy()
+
+
+###### All operations should be above this line
+#### Start of the GUI ####
+Gap01 = Label(root)
+Gap01.grid(row=1, columnspan=3)
+
+cmpd_button=tk.Button(root,text="     MiBiG file (*.csv)     ", bg='green', fg='white', command=select_MiBiG)
+cmpd_button.grid(row=2, sticky=E, padx=7)
+Gap03= Label(root)
+Gap03.grid(row=3, columnspan=3)
+
+cmpd_button=tk.Button(root,text="     SMILES file (*.xlsx)     ", bg='green', fg='white', command=get_SMILES)
+cmpd_button.grid(row=4, sticky=E, padx=7)
+Gap05 = Label(root)
+Gap05.grid(row=5, columnspan=3)
+
+label07 = Label(root, text="Number of similar compounds for data table (default = 10): ")
+label07.grid(row=7, column=0, sticky=E)
+entry07 = Entry(root)
+entry07.grid(row=7, column=1, pady=2, sticky=W)
+
+Gap10 = Label(root)
+Gap10.grid(row=10, columnspan=3)
+labelS2 = Label(root, text="____________________Special processing settings______________________")
+labelS2.grid(row=11)
+
+label20 = Label(root, text="Create a dendrogram for each input compound?")
+label20.grid(row=20, column=0, sticky=E)
+btn20.set("no")
+button20=Radiobutton(root,text="Yes",value = "yes",variable = btn20).grid(row=21, column=0, sticky=E)
+button20=Radiobutton(root,text="No",value = "no",variable = btn20).grid(row=21, column=1, sticky=W)
+
+label22 = Label(root, text="Similarity count for dendrogram (default = 20): ")
+label22.grid(row=24, column=0, sticky=E)
+entry22 = Entry(root)
+entry22.grid(row=24, column=1, pady=2, sticky=W)
+
+Gap37 = Label(root)
+Gap37.grid(row=37, columnspan=3)
+
+CMPD_LIST = Button(root, text="     Start processing     ", fg='black', bg='lightsteelblue2', relief='raised', command=Button_fun)
+CMPD_LIST.grid(row=38, columnspan=3)
+
+Gap39 = Label(root)
+Gap39.grid(row=39, columnspan=3)
+
+root.mainloop()
+
+#### End of the GUI ####
+#### ----------------------------- Above are all the data inputs --------------
+
+start_time = time.time()  ## Start of time function to measure how long processing takes
+
+SMILES_avail = len(SMILES_data)  ## Computes how many compounds are in the imported compounds table
+SMILES_count = SMILES_avail ## Auto set this value to search for all
+
+#########################################
+#########################################
+##########################################
+print("Similarity hits: ",Sim_hits)
+print("Dendro_count: ",Dendro_count)
+print("Create dendrogram?: ",Create_dendro)
+
+#### ----------------------------- Start of fingerprinting -------- Need function to load existing FNGPRT file if already computed before------
+FNGPRT_filepath = MiBiG_filepath_trim + ".fngprt" # Fingerprint file name for output
+print("Fingerprint data path: \n",FNGPRT_filepath)
+
+if os.path.exists(FNGPRT_filepath): ##If a ".fngprt" file exists, it will be loaded
+    data_MiBiG = pd.read_csv(FNGPRT_filepath, sep='\t') ## Opens the existing ".fngprt" file as a CSV file (tab delimited)
+    print("\nFingerprint_df shape: ",data_MiBiG.shape)
+    print("\nFingerprint file already exists and has been loaded:\n %s \n" % (FNGPRT_filepath))
+else:
+    data_MiBiG = pd.read_csv(MiBiG_filepath, sep='\t', header=None, names=['SMILES', 'Name']) ## Opens MIBig CSV file (tab delimited)
+    print("Input accepted for MiBiG file:\n  %s \n" % (MiBiG_filename))
+    print("data_MiBiG shape",data_MiBiG.shape,"\n")
+   
+    #2 Check SMILES
+    # Assuming data_MiBiG is your DataFrame with 'SMILES' column
+    data_MiBiG['Molecule'] = data_MiBiG['SMILES'].apply(Chem.MolFromSmiles)
+    # Check for invalid SMILES
+    invalid_smiles = data_MiBiG[data_MiBiG['Molecule'].isnull()]
+    # Display invalid SMILES, if any
+    if(len(invalid_smiles)>0):
+        print("Invalid SMILES: ",invalid_smiles[['SMILES', 'Name']])
+    # Add a new column for fingerprints
+    data_MiBiG['Fingerprint'] = data_MiBiG['SMILES'].apply(lambda x: AllChem.GetMorganFingerprintAsBitVect(Chem.MolFromSmiles(x), 2, nBits=2048))
+    # Convert fingerprints to binary strings
+    data_MiBiG['Fingerprint'] = data_MiBiG['Fingerprint'].apply(lambda x: x.ToBitString())
+    data_MiBiG.to_csv(FNGPRT_filepath, sep='\t', header=True, index = False)  ## WRITE Results for if there was only 1 input file
+    print("Fingerprint file saved as: \n", FNGPRT_filepath)
+
+    
+#### ----------------------------- Add compounds to search for --------------
+
+#Generate fingerprint for search compounds, then append them to main table
+#Drop unnecessary columns from SMILES file
+columns_to_keep = ['SMILES', 'Name']
+columns_to_drop = [col for col in SMILES_data.columns if col not in columns_to_keep]
+SMILES_data = SMILES_data.drop(columns=columns_to_drop)
+print("Smiles_data shape:\n",SMILES_data.shape)
+SMILES_data['Name'] = "__" + SMILES_data['Name'].astype(str) ##Adds "__" to compound names to add tabs in output for alignment
+SMILES_data['Molecule'] = SMILES_data['SMILES'].apply(Chem.MolFromSmiles)
+SMILES_data['Fingerprint'] = SMILES_data['SMILES'].apply(lambda x: AllChem.GetMorganFingerprintAsBitVect(Chem.MolFromSmiles(x), 2, nBits=2048))
+SMILES_data['Fingerprint'] = SMILES_data['Fingerprint'].apply(lambda x: x.ToBitString())
+
+
+#5 Let's add our experimental structure to one of the data frames
+SMILES_len = len(SMILES_data)
+data_MiBiG = pd.concat([data_MiBiG, SMILES_data], ignore_index=True) ### Concatenate SMILES_data to data_MiBiG
+
+Mid1_time = time.time()  ## Start of dendrogram function to measure how long dendrogram takes
+print("\n\n---Time to complete fingerprinting: %s seconds ---" % (Mid1_time - start_time))  ## Indicates amount of time it took after inputs were given
+
+
+#### ----------------------------- Similarity calculations --------------
+                
+#8 2. Calculate Tanimoto Similarity Matrix
+# Create a similarity matrix
+similarity_matrix = []
+
+for i in range(len(data_MiBiG)):
+    row_similarities = []
+    for j in range(len(data_MiBiG)):
+        fp1 = DataStructs.CreateFromBitString(data_MiBiG.iloc[i]['Fingerprint'])
+        fp2 = DataStructs.CreateFromBitString(data_MiBiG.iloc[j]['Fingerprint'])
+        similarity = calculate_tanimoto(fp1, fp2)
+        row_similarities.append(similarity)
+    similarity_matrix.append(row_similarities)
+
+similarity_df=pd.DataFrame(similarity_matrix)
+
+#11Let's set row and column names for convenience
+similarity_df.columns = data_MiBiG["Name"]  # Set columns names
+similarity_df.index = data_MiBiG["Name"]    # Set row names
+
+similarity_length = len(similarity_df) -1
+
+####______Multiple compound loop starts here.  Create dataframe of results and append to a master_df. Dendro output per loop
+Mid2_time = time.time()  ## Start of similarity tabulation function to measure how long dendrogram takes
+print("\n\n---Time to complete similarity matrix: %s seconds ---" % (Mid2_time - Mid1_time))  ## Indicates amount of time it took after inputs were given
+
+for cmpd_loop in range(0, SMILES_len):
+    Cmpd_address = similarity_length - SMILES_count + cmpd_loop + 1
+    cmpd_name = SMILES_data.iat[(cmpd_loop),0]
+    sim_temp = pd.DataFrame(similarity_df)[:].copy(deep=True)
+    
+    #### ----------------------------- Similarity output function --------------
+    # Which compounds is "our compound" most similar to?
+    row_values = similarity_df.iloc[Cmpd_address]
+    top_X = row_values.nlargest(Sim_hits)
+    if cmpd_loop == 0:
+        topX_df = top_X.to_frame()
+        topX_df.insert(len(topX_df.columns), "Compound_name", topX_df.index)
+        topX_df = topX_df.rename(columns={topX_df.columns[0]: "Similarity"})
+        Output_data = topX_df
+        Output_data.loc[len(Output_data)] = [np.nan] * len(Output_data.columns)
+        Output_data.loc[len(Output_data)] = [np.nan] * len(Output_data.columns)
+        Output_data.loc[len(Output_data)] = [np.nan] * len(Output_data.columns)
+
+        add_rows = range(0, Sim_hits + 3)
+        sequence_of_rows = []
+        for number in add_rows:
+            sequence_of_rows.append(number)  ## Adds columns proportionate to how many are needed
+        
+        Output_data.index = sequence_of_rows
+        del topX_df
+    else:
+        topX_df = top_X.to_frame()
+        topX_df.insert(len(topX_df.columns), "Compound_name", topX_df.index)
+        topX_df = topX_df.rename(columns={topX_df.columns[0]: "Similarity"})
+        topX_df.loc[len(topX_df)] = [np.nan] * len(topX_df.columns)
+        topX_df.loc[len(topX_df)] = [np.nan] * len(topX_df.columns)
+        topX_df.loc[len(topX_df)] = [np.nan] * len(topX_df.columns)
+        
+        add_rows = range(len(Output_data), (len(Output_data))+Sim_hits+3)
+        sequence_of_rows = []
+        for number in add_rows:
+            sequence_of_rows.append(number)  ## Adds columns proportionate to how many are needed
+        
+        topX_df.index = sequence_of_rows
+        Output_data = pd.concat([Output_data,topX_df])
+        del topX_df
+    
+    #### ----------------------------- Dendrogram creation function --------------
+    if Create_dendro == "yes": #### Sorts data by peak area to put biggest hits at top
+        ##THIS IS THE FUNCTION TO REMOVE VALUES BELOW "Dendro_count" FROM similarity_df
+        sim_temp = sim_temp.rename(columns={sim_temp.columns[Cmpd_address]: "SM_column"})
+        sim_temp = sim_temp.sort_values(by="SM_column", ascending=False)
+        sim_temp = sim_temp.iloc[:Dendro_count]
+        similarity_matrix = sim_temp.values.tolist() ##Convert the shortened dataframe back to a list format
+        sim_temp['Name'] = sim_temp.index #Create a Name column containing the index values, which are the names
+        #### ----------------------------- Clustering function --------------
+        # Perform hierarchical clustering
+        cluster_data = linkage(similarity_matrix, method='average', metric='euclidean')
+        #### ----------------------------- Creation and output of Dendrogram --------------
+        dendro_length = len(sim_temp) -1
+        wide = 10
+        tall = int(dendro_length/4) +1
+        # Plot dendrogram
+        plt.figure(figsize=(wide, tall))
+        dendrogram(cluster_data, labels=sim_temp['Name'].tolist(), orientation='right', leaf_font_size=10)
+        plt.title('Molecule Clustering based on Tanimoto Similarity')
+        Dendro_Output_Filename = SMILES_directory+"/Compound dendrograms/Closest-"+str(dendro_length)+" hits_"+str(cmpd_name)+".pdf"
+        Dendro_path = SMILES_directory+"/Compound dendrograms"
+        os.makedirs(Dendro_path, exist_ok=True)
+        plt.savefig(Dendro_Output_Filename, format='pdf', bbox_inches='tight')
+        print("\nFilename: ",Dendro_Output_Filename) #Saves dendrogram as a PDF with the name of the compound as the file name
+    del sim_temp
+    del top_X    
+    cmpd_loop +=1
+    
+print("Output data shape: ",Output_data.shape)
+
+##Reformatting of output dataframe and output to a TSV (tab separated values) file.  TSV versus CSV as compound names can have commas in them.
+Output_string = Output_data.to_csv(sep='\t', header=False, index = False)
+Output_string = Output_string.replace("_", "\t")
+Output_data = pd.read_csv(io.StringIO(Output_string), sep="\t", header=None, names=['Similarity','BGC','MIBig','Compound_name'])
+Output_data = Output_data.drop(["MIBig"], axis=1)
+Output_data["Similarity"].round(decimals = 3)
+
+Output_filepath = SMILES_filepath_trim + "__Top_" + str(Sim_hits) + "hits_Results.tsv" # Creation of output filename
+Output_data.to_csv(Output_filepath, sep='\t', header=True, index = False) #Using \t to output in TSV format
+
+#### ----------------------------- Final timer wrapup --------------
+print("\n\n---Time to make fingerprints: %s seconds ---" % (Mid1_time - start_time))  ## Indicates amount of time it took after inputs were given
+print("---Time to make similarity matrix: %s seconds ---" % (Mid2_time - Mid1_time))  ## Indicates amount of time it took after inputs were given
+print("\n---Total processing took: %s seconds ---" % (time.time() - start_time))  ## Indicates amount of time it took after inputs were given
+print("\n---A total of %s compounds were analyzed ---" % (SMILES_len))  ## Indicates amount of time it took after inputs were given
+
+## https://github.com/rdkit/rdkit/issues/7625 is about deprecation issue with AllChem.GetMorganFingerprintAsBitVect error messages
